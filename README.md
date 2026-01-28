@@ -73,7 +73,7 @@ My research centers on **atmospheric radiative transfer and climate-energy inter
 - Apply problem-based learning and STEM methodologies to improve academic outcomes.
 
 ### 🧠 **Techbase Consultant Services | Lead Consultant & STEM Educator**  
-*April 2019 – Present*  
+*April 2022 – Present*  
 - Lead a registered EdTech consultancy specializing in **Coding, Robotics, Physics, and Mathematics** education.
 - Design curricula for **Python, Scratch, Web Development**, and robotics.
 - Partnered with schools including **Baptist Model High Schools** (Isolo, Ijegun, Ikola) and **Knowledge Base International Schools**.
@@ -81,7 +81,7 @@ My research centers on **atmospheric radiative transfer and climate-energy inter
 - Provide teacher training, STEM program design, and institutional consultancy.
 
 ### 🏫 **Knowledge Base International Schools | STEM Educator**  
-*Jan 2022 – Dec 2024*  
+*Jan 2022 – Present*  
 - Pioneered visual-based teaching methods for Physics and ICT.
 - Led digital literacy initiatives, coding bootcamps, and science competitions.
 
