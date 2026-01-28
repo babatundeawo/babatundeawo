@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Hello,%20I'm%20Babatunde%20Awoyemi&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Atmospheric%20Physicist%20|%20STEM%20Educator%20|%20Software%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Babatunde%20Ayoola%20Awoyemi&fontSize=40&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Atmospheric%20Physics%20|%20STEM%20Lead%20|%20Researcher&descAlignY=55&descAlign=50" alt="Babatunde Header"/>
 </div>
 
 <div align="center">
@@ -8,161 +8,96 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ba-awoyemi/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://www.instagram.com/ba_awoyemi/)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat&logo=facebook)](https://web.facebook.com/ba.awoyemi)
+[![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@ba_awoyemi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/8126909498)
 
 </div>
 
 ---
 
-## 👋 About Me
+### 👨‍🔬 **Professional Summary**
 
-I am **Babatunde Ayoola Awoyemi**, a **Multidisciplinary STEM Educator, Atmospheric Physicist, and Software Developer** with over a decade of experience at the intersection of **science, education, and technology**.
+I am a **Multidisciplinary STEM Educator, Atmospheric Physicist, and Consultant** with over a decade of experience bridging scientific research with educational technology. My expertise lies in developing computational models for climate science and implementing robust STEM curricula (Coding & Robotics) across educational institutions in Nigeria.
 
-My work focuses on:
-- Bridging scientific theory with real-world technological applications  
-- Advancing **climate science**, **renewable energy modeling**, and **remote sensing**  
-- Empowering African youth with **STEM, coding, robotics, and AI skills**
-
-I am passionate about using **visual learning, interactive experiments, and digital tools** to make complex scientific concepts accessible and impactful.
+* [cite_start]🔭 **Current Role:** Physics & Mathematics Teacher at **Oyo State TESCOM** (Jan 2025 – Present)[cite: 1687].
+* [cite_start]🚀 **Entrepreneurship:** Lead Consultant at **Techbase Consultant Services** (RC: BN3570899), providing STEM solutions to partner schools like Baptist Model High Schools and KBI Schools[cite: 1691, 1335, 2302].
+* [cite_start]🎓 **Academic Background:** M.Sc. in Atmospheric Physics and B.Sc. in Physics from the **University of Ibadan**[cite: 1684, 1685].
+* [cite_start]🌍 **Research Interest:** Solar radiation modelling, aerosol-cloud interactions, and renewable energy potentials in tropical regions using remote sensing data (MODIS, NASA SSE)[cite: 1670, 1672].
 
 ---
 
-## 🔭 Research Interests
+### 🛠 **Technical & Research Arsenal**
 
-My primary research focus is on **solar radiation modeling and atmospheric radiative transfer**, especially in **data-scarce tropical regions**.
+My technical proficiency spans scientific computing for atmospheric modelling and full-stack development for educational tools.
 
-### Core Research Areas:
-- Atmospheric Radiative Transfer & Energy Balance  
-- Aerosol–Cloud–Radiation Interactions  
-- Atmospheric Remote Sensing & Data Assimilation  
-- Climate Forcing of Greenhouse Gases & Short-Lived Species  
-- Renewable Energy–Climate Nexus  
-- Geo-spatial Climate & Ecological Solutions  
-
----
-
-## 🔬 Featured Research
-
-### 📘 *Parametric Estimation of Direct Irradiance under All-Sky Conditions*
-**M.Sc. Thesis | University of Ibadan | Published, 2020**
-
-- **Objective:** Develop a robust method for estimating solar radiation using publicly available MODIS satellite data.
-- **Methodology:** Integrated the **Yang Model** with cloud transmittance algorithms using **Python, MATLAB, and Ferret NOAA**.
-- **Key Results:**
-  - Outperformed NASA SSE products.
-  - Achieved **19.7% RMSD annually**, significantly lower than NASA SSE benchmarks.
-- **Impact:** Provides a reliable alternative for climate modeling, renewable energy planning, and ecological studies in regions without ground-based solar measurements.
+| **Scientific Computing & Data** | **Software Development** | **Robotics & Hardware** | **Research Tools** |
+| :--- | :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** (Data Analysis) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) **Arduino** | **Ferret NOAA** (Climate Viz) |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white) **MATLAB** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white) **Raspberry Pi** | **SPSS** (Statistical Analysis) |
+| **Fortran** (Modelling) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript** | **Micro:bit** (MakeCode) | **MODIS Satellite Data** |
+| **NASA SSE Data** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) **WordPress** | **Fischertechnik** | **LaTeX** (Reporting) |
 
 ---
 
-## 💼 Professional Experience
+### 🔬 **Key Research Contributions**
 
-### 🧠 Lead Consultant & STEM Educator  
-**Techbase Consultant Services** | Ibadan | *Jan 2022 – Present*  
-- Design and deliver STEM programs in **Coding, Robotics, Physics, and Mathematics**.
-- Lead curriculum development and teacher training for partner schools.
-- Provide educational consultancy to institutions across Nigeria.
+My research addresses the scarcity of solar radiation data in West Africa by developing high-performance computing schemes.
 
-### 👨‍🏫 STEM Teacher (Physics, Mathematics & ICT)  
-**Oyo State TESCOM** | *Jan 2025 – Present*  
-- Teach Physics, Mathematics, and ICT at secondary school level.
-- Apply visual-based and interactive teaching methods to improve learning outcomes.
+* [cite_start]**Master's Thesis:** *Parametric Estimation of Direct Irradiance under All-Sky Conditions from Publicly Available Satellite Datasets*[cite: 1685].
+    * [cite_start]**Methodology:** Integrated the **Yang Model** with cloud transmittance algorithms using **MODIS (Terra/Aqua)** data[cite: 1796].
+    * [cite_start]**Outcome:** The model outperformed NASA SSE products with a lower **Root Mean Square Difference (RMSD)** of **19.7%** (Annual Average) compared to NASA's 31.5%[cite: 1798, 2139].
+    * [cite_start]**Impact:** Validated as a reliable alternative for solar energy estimation in regions lacking ground stations[cite: 1802].
 
-### 📊 Data Analyst  
-**International Institute of Tropical Agriculture (IITA)** | *Aug 2015 – Nov 2016*  
-- Analyzed agricultural and climate datasets using **SPSS**.
-- Contributed to climate resilience research for West Africa.
-
-*(Additional teaching, NYSC, and technical roles available on request.)*
+* [cite_start]**Current Investigation:** *Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability*[cite: 1686].
+    * [cite_start]**Focus:** Computational modelling of magnetohydrodynamics (MHD) and solar cycle interactions with Earth's magnetosphere using **Fortran**[cite: 1714].
 
 ---
 
-## 🛠️ Skills & Technical Stack
+### 💼 **Professional Trajectory**
 
-### 🔬 Scientific Computing & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat)
-![Ferret NOAA](https://img.shields.io/badge/Ferret%20NOAA-00457C?style=flat)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat)
+#### **Oyo State TESCOM | Physics & Mathematics Teacher**
+[cite_start]*Jan 2025 – Present* [cite: 1687]
+* delivering innovative physics instruction at Ilado/Sagbo Community Secondary School, integrating problem-based learning and STEM methodologies.
 
-### 💻 Web & Software Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+#### **Techbase Consultant Services | Lead Consultant**
+[cite_start]*April 2019 – Present* [cite: 1691]
+* [cite_start]**Strategic Leadership:** Managing a registered EdTech consultancy (SMEDAN & CAC certified) specializing in Coding and Robotics education[cite: 2302, 2854].
+* [cite_start]**Curriculum Design:** Developed curricula for Python, Scratch, and Web Development deployed in partner schools like Baptist Model High Schools (Isolo, Ijegun, Ikola)[cite: 1335].
+* [cite_start]**Impact:** Successfully trained students who built projects ranging from "Pong Games" in Scratch to landing pages in HTML/CSS[cite: 1100].
 
-### 🤖 Robotics & STEM Education
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=scratch&logoColor=white)
-![Micro:bit](https://img.shields.io/badge/Micro:bit-00ED00?style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
-
-### 🧩 Professional & Educational Skills
-- Curriculum Design & STEM Program Development  
-- Climate & Ecological Data Analysis  
-- Project Management & Stakeholder Engagement  
-- Public Speaking & Science Communication  
-- Design Thinking & Innovation  
+#### **Knowledge Base International Schools | STEM Educator**
+[cite_start]*Jan 2022 – Dec 2024* [cite: 1689]
+* Pioneered visual-based teaching methods for Physics and ICT.
+* Led the school's digital literacy initiatives, including coding bootcamps and science competitions.
 
 ---
 
-## 🎓 Education
+### 🏆 **Certifications & Awards**
 
-- **M.Sc. Atmospheric Physics** — University of Ibadan, Nigeria (2019)  
-- **B.Sc. Physics** — University of Ibadan, Nigeria (2014)  
-
----
-
-## 🏅 Certifications & Leadership
-
-- YALI RLC West Africa Leadership Certification (2025)  
-- Design Thinking (Australian Computing Academy, Unilever, Cartedo)  
-- Web Development (University of Michigan, Coursera)  
-- Coding Foundations (SoloLearn)  
-- SMEDAN Registered Business Owner — Techbase Consultant Services  
-- Multiple ICT, STEM, and leadership certifications  
+* **M.Sc. Atmospheric Physics** | [cite_start]University of Ibadan (2019)[cite: 1684].
+* **B.Sc. Physics** | [cite_start]University of Ibadan (2014)[cite: 1685].
+* **Design Thinking Challenge** | [cite_start]Cartedo & Australian Computing Academy[cite: 1738].
+* **Web Development (HTML/CSS)** | [cite_start]SoloLearn & University of Michigan[cite: 1738].
+* **Best NYSC Teacher** | [cite_start]Akwa Ibom State (Service Year 2014/2015)[cite: 1700].
+* **Most Outstanding Worker** | [cite_start]RCCG Oyo Province 3 Youth Church[cite: 1740].
 
 ---
 
-## 🌍 Volunteering & Impact
-
-- STEM Educator — RCCG Kingdom Diplomats Youth Church  
-- Mentor — Education Support Network  
-- Volunteer — LEAP Africa SDG Projects  
-- Youth Leadership — Redeemed Christian Corpers’ Fellowship  
-
----
-
-## 💞️ Let’s Collaborate
-
-I’m open to collaborations on:
-
-- 🌐 Web development & EdTech projects  
-- 🎓 STEM training programs & curriculum design  
-- 🌍 Climate modeling, renewable energy & remote sensing research  
-- 🤖 Robotics, AI, and computational science education  
-
-📧 **Email:** babatundeawoyemi91@gmail.com  
-📞 **WhatsApp:** +2348126909498  
-
----
-
-## 📊 GitHub Stats
+### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babatundeawo&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babatundeawo&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=babatundeawo&show_icons=true&theme=radical&count_private=true" height="180" alt="Babatunde's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babatundeawo&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=babatundeawo&style=for-the-badge&color=blue" />
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=babatundeawo&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <i>"What ultimately matters is not where you end up relative to others, but where you end up relative to yourself when you began."</i>
+  <p><i>"What ultimately matters in this programme is not so much where you end up relative to your classmates but where you end up relative to yourself when you began."</i></p>
 </div>
