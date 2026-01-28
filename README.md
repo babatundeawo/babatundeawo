@@ -16,12 +16,12 @@
 
 ### 👨‍🔬 **About Me**
 
-[cite_start]I am a **Multidisciplinary STEM Educator, Researcher, and Consultant** with over a decade of experience bridging the gap between scientific theory and technological application[cite: 1665]. My career is defined by a passion for **Atmospheric Physics**, **Climate Science**, and **EdTech Innovation**.
+I am a **Multidisciplinary STEM Educator, Researcher, and Consultant** with over a decade of experience bridging the gap between scientific theory and technological application. My career is defined by a passion for **Atmospheric Physics**, **Climate Science**, and **EdTech Innovation**.
 
-* [cite_start]🔭 **Current Role:** Physics & Mathematics Teacher at **Oyo State TESCOM**  [cite_start]and Lead Consultant at **Techbase Consultant Services**[cite: 1722].
-* [cite_start]🎓 **Education:** M.Sc. in Atmospheric Physics and B.Sc. in Physics from the **University of Ibadan**[cite: 1684, 1685].
-* [cite_start]🌱 **Research Focus:** Developing advanced solar radiation models for ecological and climate impact studies in tropical regions[cite: 1669].
-* [cite_start]💡 **Mission:** To empower the next generation of Africans with critical STEM skills including Coding, Robotics, and Artificial Intelligence[cite: 1179].
+* 🔭 **Current Role:** Physics & Mathematics Teacher at **Oyo State TESCOM** and Lead Consultant at **Techbase Consultant Services**.
+* 🎓 **Education:** M.Sc. in Atmospheric Physics and B.Sc. in Physics from the **University of Ibadan**.
+* 🌱 **Research Focus:** Developing advanced solar radiation models for ecological and climate impact studies in tropical regions.
+* 💡 **Mission:** To empower the next generation of Africans with critical STEM skills including Coding, Robotics, and Artificial Intelligence.
 
 ---
 
@@ -40,33 +40,33 @@ My toolkit spans scientific computing, web development, and educational technolo
 
 ### 🔬 **Research & Publications**
 
-[cite_start]My academic work focuses on **Atmospheric Radiative Transfer**, **Remote Sensing**, and **Renewable Energy Potentials**[cite: 1686].
+My academic work focuses on **Atmospheric Radiative Transfer**, **Remote Sensing**, and **Renewable Energy Potentials**.
 
-* **Master's Thesis:** "Parametric Estimation of Direct Irradiance under All-Sky Conditions from Publicly Available Satellite Datasets." (Published in *Bulletin of the Science Association of Nigeria*, 2020) [cite_start][cite: 1685].
-* [cite_start]**Ongoing Research:** Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability[cite: 1686].
-* [cite_start]**Key Findings:** Developed a model outperforming NASA SSE products with lower RMSD (19.7% annual average) for solar radiation estimation in Nigeria[cite: 1674].
+* **Master's Thesis:** "Parametric Estimation of Direct Irradiance under All-Sky Conditions from Publicly Available Satellite Datasets." (Published in *Bulletin of the Science Association of Nigeria*, 2020).
+* **Ongoing Research:** Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability.
+* **Key Findings:** Developed a model outperforming NASA SSE products with lower RMSD (19.7% annual average) for solar radiation estimation in Nigeria.
 
 ---
 
 ### 💼 **Professional Experience**
 
 * **Lead Consultant | Techbase Consultant Services (2019 – Present):**
-    * [cite_start]Spearhead STEM training programs in Coding (Python, Web Dev) and Robotics across partner schools like Baptist Model High Schools and KBI Schools[cite: 1691].
+    * Spearhead STEM training programs in Coding (Python, Web Dev) and Robotics across partner schools like Baptist Model High Schools and KBI Schools.
     * Manage curriculum development and teacher training for effective STEM delivery.
 
 * **STEM Teacher | Knowledge Base International Schools (2022 – 2024):**
-    * [cite_start]Pioneered visual-based teaching methods for Physics and ICT, significantly improving student engagement[cite: 1690].
+    * Pioneered visual-based teaching methods for Physics and ICT, significantly improving student engagement.
     * Prepared students for national science competitions and led the school's digital literacy initiatives.
 
 ---
 
 ### 🏆 **Certifications & Achievements**
 
-* 📜 **M.Sc. [cite_start]Atmospheric Physics** - University of Ibadan.
-* 📜 **Design Thinking** - Cartedo & Australian Computing Academy[cite: 1738].
-* [cite_start]📜 **Web Development (HTML/CSS)** - SoloLearn & University of Michigan[cite: 1738].
-* [cite_start]📜 **SMEDAN Registered Business Owner** - Techbase Consultant Services[cite: 2552].
-* 🏅 **Most Outstanding Worker** - RCCG Oyo Province 3 Youth Church[cite: 2544].
+* 📜 **M.Sc. Atmospheric Physics** - University of Ibadan.
+* 📜 **Design Thinking** - Cartedo & Australian Computing Academy.
+* 📜 **Web Development (HTML/CSS)** - SoloLearn & University of Michigan.
+* 📜 **SMEDAN Registered Business Owner** - Techbase Consultant Services.
+* 🏅 **Most Outstanding Worker** - RCCG Oyo Province 3 Youth Church.
 
 ---
 
@@ -86,5 +86,5 @@ My toolkit spans scientific computing, web development, and educational technolo
 ---
 
 <div align="center">
-  <p><i>"What ultimately matters in this programme is not so much where you end up relative to your classmates but where you end up relative to yourself when you began." [cite: 1505]</i></p>
+  <p><i>"What ultimately matters in this programme is not so much where you end up relative to your classmates but where you end up relative to yourself when you began."</i></p>
 </div>
