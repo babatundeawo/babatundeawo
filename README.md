@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=Turning+satellite+data+into+solar+energy+insight;Teaching+Physics%2C+Mathematics%2C+ICT%2C+Python%2C+Scratch+and+Robotics;Building+STEM+systems+for+African+learners+and+climate+resilience;Preparing+for+PGCE+Secondary+Physics+with+QTS+in+September+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=Turning+satellite+data+into+solar+energy+insight;Teaching+Physics%2C+Mathematics%2C+ICT%2C+Python%2C+Scratch+and+Robotics;Building+STEM+systems+for+African+learners+and+climate+resilience;Creating+interactive+Scratch+projects+and+future-ready+learning+pathways)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,6 +21,7 @@
   <a href="https://web.facebook.com/ba.awoyemi"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.threads.com/@ba_awoyemi"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
   <a href="https://wa.me/2348126909498"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://scratch.mit.edu/users/DeCreed/"><img src="https://img.shields.io/badge/Scratch-DeCreed-FFAB19?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch dashboard" /></a>
 </div>
 
 <br />
@@ -94,12 +95,13 @@ identity:
   - Coding, Robotics and ICT Trainer
 current_roles:
   - STEM Teacher, Oyo State TESCOM, Ilado/Sagbo Community Secondary School, Iseyin
-  - Lead Consultant, Techbase Consultant Services
+  - Lead Consultant, Knowledge Base International Schools, Apapa, Moniya, Ibadan
+  - Lead Consultant, Techbase Consulting Services
   - Programs Associate, STEM for Development
 academic_path:
   - B.Sc. Physics, University of Ibadan, 2014
-  - M.Sc. Physics / Atmospheric Physics, University of Ibadan, March 2019, CGPA 4.3
-  - PGCE Secondary Physics with QTS offer, University of Cumbria, September 2026
+  - M.Sc. Physics / Atmospheric Physics, University of Ibadan
+  - PGCE Secondary Physics pathway, University of Cumbria
 research_focus:
   - Advanced solar radiation modelling across tropical regions
   - Satellite-derived direct irradiance under all-sky conditions
@@ -151,12 +153,12 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 | Stage | Institution | Years / Date | Highlights |
 | --- | --- | --- | --- |
-| **Primary Education** | Ronk New Age Nursery and Primary School, Akobo, Ibadan | 1994–2002 | Graduated among the top students; known for diligence, sports and strong academic promise. |
+| **Primary Education** | Ronk New Age Nursery and Primary School, Akobo, Ibadan | 1994–2002 | Built early habits of diligence, sportsmanship and academic curiosity. |
 | **Secondary Education** | Federal Government College, Ogbomoso | 2002–2008 | Boarding-school formation; learned resilience and survival strategies; earned the nickname **“Tunspiderman”** after dramatizing the *Spider-Man* trilogy for peers. |
-| **NECO Senior School Certificate** | St. Patrick’s Junior Grammar School, Basorun, Ibadan | 2008 | Credits in English Language, Mathematics, Yoruba Language, Economics, Geography, Biology, Chemistry, Physics and Agricultural Science. |
+| **NECO Senior School Certificate** | St. Patrick’s Junior Grammar School, Basorun, Ibadan | 2008 | Completed senior-school certification across science, humanities and language subjects. |
 | **B.Sc. Physics** | University of Ibadan | 2009–2014 | Transformed an earlier dislike for Physics into university-level strength. |
 | **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | Focused on solar irradiance estimation and atmospheric datasets. |
-| **PGCE Secondary Physics with QTS** | University of Cumbria, United Kingdom | Full offer for September 2026 | Future professional teacher-training pathway in secondary Physics. |
+| **PGCE Secondary Physics with QTS** | University of Cumbria, United Kingdom | Teacher-training pathway | Future professional development in secondary Physics education. |
 
 ---
 
@@ -225,9 +227,17 @@ core_mission: "Serve society through STEM education, climate research and practi
 - Translate scientific concepts into practical explanations, visual demonstrations and learner-centered activities.
 - Support students with STEM confidence, problem-solving habits and digital-literacy foundations.
 
-### 🧭 Techbase Consultant Services — Lead Consultant
+### 🧭 Knowledge Base International Schools — Lead Consultant
 
-**Registered STEM Education & Consultancy Business**
+**January 2022 – Present · Apapa, Moniya, Ibadan**
+
+- Serve as lead consultant for STEM, ICT, coding and robotics learning pathways.
+- Support school leadership with technology-enabled learning strategy, teacher guidance and student project development.
+- Help learners build confidence through practical, project-based digital-skills experiences.
+
+### 🧭 Techbase Consulting Services — Lead Consultant
+
+**2022 – Present · Registered STEM Education & Consultancy Business**
 
 - Lead a consultancy focused on STEM education, coding, robotics, school support and technology-enabled learning.
 - Design learning experiences in **Python, Scratch, HTML, CSS, JavaScript, robotics and physical computing**.
@@ -239,7 +249,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 - Directed robotics, coding and digital-skills programs for learners and institutions.
 - Developed curricula for **Python, Scratch and web development**.
-- Led training systems that contributed to a reported **1500% increase in company revenue** within a single year.
+- Led training systems that strengthened company growth, learner reach and program delivery outcomes.
 - Built program structures connecting creativity, computation and measurable learning outcomes.
 
 ### 🇳🇬 Federal Government NTeach Programme — Physics & ICT Instructor
@@ -261,7 +271,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 **2014–2015 · Akwa Ibom State**
 
-- Awarded for innovative teaching with visual aids and documentaries.
+- Awarded a certificate of recognition for exemplary work.
 - Served as **President of the Redeemed Christian Corpers’ Fellowship (RCCF)** in Ikot-Ekpene.
 - Managed housing coordination, interpersonal conflict resolution and service leadership for fellow corps members.
 
@@ -274,7 +284,7 @@ core_mission: "Serve society through STEM education, climate research and practi
     <td width="50%">
       <h3>🧑‍💼 Leadership & Impact</h3>
       <ul>
-        <li><strong>STEM for Development</strong> — selected as Programs Associate, February 2026.</li>
+        <li><strong>STEM for Development</strong> — selected as Programs Associate.</li>
         <li><strong>YALI RLC West Africa</strong> Leadership Certification — 2024/2025.</li>
         <li><strong>LEAP Africa</strong> volunteer certification for SDG-focused community projects, August 2021.</li>
         <li><strong>Healing Lives Initiative</strong> certificate of appreciation for supporting Rise Conference 1.0, July 2024.</li>
@@ -304,7 +314,7 @@ core_mission: "Serve society through STEM education, climate research and practi
       <h3>🎖️ Awards & Recognition</h3>
       <ul>
         <li><strong>RCCG Merit Award</strong> — Most Outstanding Worker, Greatness Pinnacle Youth Church, 2013–2014.</li>
-        <li><strong>University of Ibadan PG English Proficiency Test</strong> — score of 63, 2016.</li>
+        <li><strong>University of Ibadan PG English Proficiency Test</strong> — completed as part of postgraduate preparation.</li>
       </ul>
     </td>
   </tr>
@@ -364,6 +374,7 @@ mindmap
       Robotics
     Leadership
       TESCOM teaching
+      Knowledge Base consulting
       Techbase consulting
       Programs associate
       Fellowship service
@@ -481,6 +492,7 @@ graph LR
 | 📸 Instagram | [@ba_awoyemi](https://www.instagram.com/ba_awoyemi/) |
 | 🧵 Threads | [@ba_awoyemi](https://www.threads.com/@ba_awoyemi) |
 | 📘 Facebook | [ba.awoyemi](https://web.facebook.com/ba.awoyemi) |
+| 🧩 Scratch | [DeCreed](https://scratch.mit.edu/users/DeCreed/) |
 
 </div>
 
