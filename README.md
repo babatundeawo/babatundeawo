@@ -36,7 +36,7 @@
 
 ## 👋 Hello — I am Babatunde
 
-**Babatunde Ayoola Awoyemi** — also known by the baptismal name **Babatunde Samuel** — is a Nigerian **Atmospheric Physicist**, **STEM Teacher**, **EdTech Consultant**, **coding and robotics trainer**, and **climate-energy researcher** from Ibadan, Oyo State.
+**Babatunde Ayoola Awoyemi** — also known by the baptismal name **Samuel** — is a Nigerian **Atmospheric Physicist**, **STEM Educator**, **EdTech Consultant**, **coding and robotics trainer**, and **climate-energy researcher** from Ibadan, Oyo State.
 
 My story blends curiosity, discipline and service: I grew up in a middle-class Christian family, learned calm simplicity from my mother, learned discipline from my father, and discovered technology by dismantling radios and televisions to understand how things work. Today, that same exploratory spirit drives my mission to help learners, schools and research teams move from **technology awareness** to **technology creation**.
 
@@ -83,7 +83,7 @@ My story blends curiosity, discipline and service: I grew up in a middle-class C
 
 ```yaml
 name: Babatunde Ayoola Awoyemi
-baptismal_name: Babatunde Samuel
+baptismal_name: Samuel
 born: 17 September 1991, Ibadan, Oyo State, Nigeria
 current_base: Nigeria
 identity:
@@ -154,8 +154,8 @@ core_mission: "Serve society through STEM education, climate research and practi
 | **Primary Education** | Ronk New Age Nursery and Primary School, Akobo, Ibadan | 1994–2002 | Graduated among the top students; known for diligence, sports and strong academic promise. |
 | **Secondary Education** | Federal Government College, Ogbomoso | 2002–2008 | Boarding-school formation; learned resilience and survival strategies; earned the nickname **“Tunspiderman”** after dramatizing the *Spider-Man* trilogy for peers. |
 | **NECO Senior School Certificate** | St. Patrick’s Junior Grammar School, Basorun, Ibadan | 2008 | Credits in English Language, Mathematics, Yoruba Language, Economics, Geography, Biology, Chemistry, Physics and Agricultural Science. |
-| **B.Sc. Physics** | University of Ibadan | 2009–2014 | Second Class Honours, Lower Division; transformed an earlier dislike for Physics into university-level strength. |
-| **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | CGPA **4.3**; focused on solar irradiance estimation and atmospheric datasets. |
+| **B.Sc. Physics** | University of Ibadan | 2009–2014 | Transformed an earlier dislike for Physics into university-level strength. |
+| **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | Focused on solar irradiance estimation and atmospheric datasets. |
 | **PGCE Secondary Physics with QTS** | University of Cumbria, United Kingdom | Full offer for September 2026 | Future professional teacher-training pathway in secondary Physics. |
 
 ---
@@ -261,7 +261,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 **2014–2015 · Akwa Ibom State**
 
-- Named **Best NYSC Teacher** for innovative teaching with visual aids and documentaries.
+- Awarded for innovative teaching with visual aids and documentaries.
 - Served as **President of the Redeemed Christian Corpers’ Fellowship (RCCF)** in Ikot-Ekpene.
 - Managed housing coordination, interpersonal conflict resolution and service leadership for fellow corps members.
 
@@ -274,8 +274,8 @@ core_mission: "Serve society through STEM education, climate research and practi
     <td width="50%">
       <h3>🧑‍💼 Leadership & Impact</h3>
       <ul>
-        <li><strong>YALI RLC West Africa</strong> Leadership Certification — 2024/2025.</li>
         <li><strong>STEM for Development</strong> — selected as Programs Associate, February 2026.</li>
+        <li><strong>YALI RLC West Africa</strong> Leadership Certification — 2024/2025.</li>
         <li><strong>LEAP Africa</strong> volunteer certification for SDG-focused community projects, August 2021.</li>
         <li><strong>Healing Lives Initiative</strong> certificate of appreciation for supporting Rise Conference 1.0, July 2024.</li>
       </ul>
@@ -303,7 +303,6 @@ core_mission: "Serve society through STEM education, climate research and practi
     <td width="50%">
       <h3>🎖️ Awards & Recognition</h3>
       <ul>
-        <li><strong>Best NYSC Teacher</strong> — Akwa Ibom State, 2014/2015.</li>
         <li><strong>RCCG Merit Award</strong> — Most Outstanding Worker, Greatness Pinnacle Youth Church, 2013–2014.</li>
         <li><strong>University of Ibadan PG English Proficiency Test</strong> — score of 63, 2016.</li>
       </ul>
