@@ -1,15 +1,15 @@
 <!--
   Profile README for Babatunde Ayoola Awoyemi
-  Designed to be visually rich while remaining readable in GitHub's Markdown renderer.
+  A modern, content-rich GitHub profile designed for clarity, credibility and visual impact.
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0EA5E9,45:2563EB,100:7C3AED&text=Babatunde%20Ayoola%20Awoyemi&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Atmospheric%20Physicist%20%E2%80%A2%20STEM%20Lead%20%E2%80%A2%20EdTech%20Consultant%20%E2%80%A2%20Researcher&descSize=17&descAlignY=56&animation=fadeIn" alt="Babatunde Ayoola Awoyemi profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0F766E,70:2563EB,100:7C3AED&text=Babatunde%20Ayoola%20Awoyemi&fontColor=FFFFFF&fontSize=44&fontAlignY=34&desc=Atmospheric%20Physicist%20%E2%80%A2%20STEM%20Educator%20%E2%80%A2%20EdTech%20Consultant%20%E2%80%A2%20Climate%20Researcher&descSize=17&descAlignY=56&animation=fadeIn" alt="Babatunde Ayoola Awoyemi profile banner" width="100%" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Modelling+solar+radiation+for+data-scarce+regions;Building+STEM%2C+coding+and+robotics+learning+systems;Connecting+climate+science%2C+education+and+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=Turning+satellite+data+into+solar+energy+insight;Teaching+Physics%2C+Mathematics%2C+ICT%2C+Python%2C+Scratch+and+Robotics;Building+STEM+systems+for+African+learners+and+climate+resilience;Preparing+for+PGCE+Secondary+Physics+with+QTS+in+September+2026)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,46 +27,52 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=babatundeawo&style=for-the-badge&label=Profile+Views&color=2563EB" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Climate%20%2B%20EdTech-7C3AED?style=for-the-badge" alt="Focus: Climate + EdTech" />
   <img src="https://img.shields.io/badge/Base-Nigeria-10B981?style=for-the-badge" alt="Base: Nigeria" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-F59E0B?style=for-the-badge" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Focus-Climate%20Science%20%2B%20STEM%20Education-7C3AED?style=for-the-badge" alt="Focus: Climate Science + STEM Education" />
+  <img src="https://img.shields.io/badge/Open%20to-Research%20%2B%20STEM%20Partnerships-F59E0B?style=for-the-badge" alt="Open to research and STEM partnerships" />
 </div>
 
 ---
 
-## 👋 Welcome
+## 👋 Hello — I am Babatunde
 
-I am **Babatunde Ayoola Awoyemi** — a **multidisciplinary STEM educator, atmospheric physicist, research-driven problem solver, and EdTech consultant** working at the intersection of **climate science, computational modelling, coding education, robotics, and institutional STEM transformation**.
+**Babatunde Ayoola Awoyemi** — also known by the baptismal name **Babatunde Samuel** — is a Nigerian **Atmospheric Physicist**, **STEM Teacher**, **EdTech Consultant**, **coding and robotics trainer**, and **climate-energy researcher** from Ibadan, Oyo State.
 
-My work combines rigorous atmospheric physics research with practical education delivery: from modelling **all-sky solar irradiance using satellite datasets** to helping learners build with **Python, Scratch, robotics kits, HTML/CSS, and computational thinking**.
+My story blends curiosity, discipline and service: I grew up in a middle-class Christian family, learned calm simplicity from my mother, learned discipline from my father, and discovered technology by dismantling radios and televisions to understand how things work. Today, that same exploratory spirit drives my mission to help learners, schools and research teams move from **technology awareness** to **technology creation**.
 
 <table>
   <tr>
-    <td width="33%">
-      <h3 align="center">🌍 Climate Science</h3>
-      <p align="center">Solar radiation, aerosols, clouds, climate-energy interactions, remote sensing and renewable energy assessment.</p>
+    <td width="25%" align="center">
+      <h3>🌍 Climate</h3>
+      <p>Solar radiation, atmospheric modelling, remote sensing and renewable energy assessment.</p>
     </td>
-    <td width="33%">
-      <h3 align="center">🎓 STEM Education</h3>
-      <p align="center">Physics, mathematics, coding, robotics, curriculum design, teacher training and learner-centered innovation.</p>
+    <td width="25%" align="center">
+      <h3>🎓 Teaching</h3>
+      <p>Physics, Mathematics, ICT, learner-centered pedagogy and visual scientific explanation.</p>
     </td>
-    <td width="33%">
-      <h3 align="center">💻 Technology</h3>
-      <p align="center">Python, MATLAB, Fortran, web fundamentals, data analysis, scientific computing and EdTech program design.</p>
+    <td width="25%" align="center">
+      <h3>🤖 EdTech</h3>
+      <p>Python, Scratch, robotics, coding clubs, curriculum design and STEM program delivery.</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>🧠 Research</h3>
+      <p>Satellite datasets, all-sky irradiance, Weibull wind modelling and tropical climate systems.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧭 Navigation
+## 🧭 Explore This Profile
 
 - [Snapshot](#-snapshot)
-- [Research Portfolio](#-research-portfolio)
+- [Life, Values & Origin Story](#-life-values--origin-story)
+- [Education Timeline](#-education-timeline)
+- [Research Portfolio & Publications](#-research-portfolio--publications)
 - [Professional Experience](#-professional-experience)
-- [Technology Stack](#-technology-stack)
-- [Education](#-education)
-- [Certifications, Awards & Leadership](#-certifications-awards--leadership)
+- [Certifications, Programs & Recognition](#-certifications-programs--recognition)
+- [Technical Skills](#-technical-skills)
+- [Personal Interests & Philosophy](#-personal-interests--philosophy)
 - [Collaboration Opportunities](#-collaboration-opportunities)
 - [GitHub Analytics](#-github-analytics)
 - [Connect](#-connect)
@@ -77,212 +83,345 @@ My work combines rigorous atmospheric physics research with practical education 
 
 ```yaml
 name: Babatunde Ayoola Awoyemi
-location: Nigeria
-roles:
-  - Physics & Mathematics Teacher, Oyo State TESCOM
+baptismal_name: Babatunde Samuel
+born: 17 September 1991, Ibadan, Oyo State, Nigeria
+current_base: Nigeria
+identity:
+  - Atmospheric Physicist
+  - STEM Educator
+  - EdTech Consultant
+  - Climate and Renewable Energy Researcher
+  - Coding, Robotics and ICT Trainer
+current_roles:
+  - STEM Teacher, Oyo State TESCOM, Ilado/Sagbo Community Secondary School, Iseyin
   - Lead Consultant, Techbase Consultant Services
-  - STEM Educator and Curriculum Designer
-  - Atmospheric Physics Researcher
+  - Programs Associate, STEM for Development
+academic_path:
+  - B.Sc. Physics, University of Ibadan, 2014
+  - M.Sc. Physics / Atmospheric Physics, University of Ibadan, March 2019, CGPA 4.3
+  - PGCE Secondary Physics with QTS offer, University of Cumbria, September 2026
 research_focus:
-  - Solar radiation modelling
-  - Aerosol-cloud-radiation interactions
-  - Atmospheric remote sensing
-  - Renewable energy potential assessment
-  - Climate and ecological data solutions
-teaching_focus:
+  - Advanced solar radiation modelling across tropical regions
+  - Satellite-derived direct irradiance under all-sky conditions
+  - Wind speed distribution and wind energy potential in Nigeria
+  - Climate dynamics, remote sensing and energy-environment systems
+teaching_stack:
   - Physics
   - Mathematics
-  - Python and Scratch programming
-  - Robotics and physical computing
-  - Web development foundations
-mission: "Use science, technology and education to build practical solutions for African learners and climate challenges."
+  - ICT
+  - Python
+  - Scratch
+  - Web development
+  - Robotics
+core_mission: "Serve society through STEM education, climate research and practical technology empowerment."
 ```
 
 ---
 
-## 🔬 Research Portfolio
+## 🌱 Life, Values & Origin Story
 
-### 📘 Parametric Estimation of Direct Irradiance under All-Sky Conditions from Publicly Available Satellite Datasets
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏡 Background</h3>
+      <ul>
+        <li>Born on <strong>17 September 1991</strong> in <strong>Ibadan, Oyo State, Nigeria</strong>.</li>
+        <li>Raised as the eldest of four children in a Christian home.</li>
+        <li>Father: regional accountant whose example reinforced discipline.</li>
+        <li>Mother: Chemistry teacher whose influence shaped calmness, simplicity and teaching empathy.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔧 Early Curiosity</h3>
+      <ul>
+        <li>Explored the inner workings of transistor radios and televisions from childhood.</li>
+        <li>Built a self-directed learning habit through trial, error and experimentation.</li>
+        <li>Carried early technical curiosity into climate modelling, coding education and robotics training.</li>
+        <li>Embraces the creative range of a scientific <strong>“jack of all trades”</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**M.Sc. Thesis · University of Ibadan · Published 2020**
-
-> Built a practical, satellite-driven method for estimating all-sky solar radiation in regions with limited ground measurement infrastructure.
-
-| Area | Details |
-| --- | --- |
-| **Problem** | Reliable solar radiation data are limited in many tropical and developing regions, creating barriers for climate modelling, renewable energy planning and ecological research. |
-| **Approach** | Integrated the **Yang Model** with cloud transmittance algorithms using **MODIS Terra/Aqua** and public satellite-derived datasets. |
-| **Tools** | Python, MATLAB, Ferret NOAA, MODIS satellite data, NASA SSE products. |
-| **Result** | Achieved **19.7% annual RMSD**, outperforming NASA SSE benchmark estimates of approximately **31.5%**. |
-| **Impact** | Provides a more accessible pathway for solar resource assessment where ground stations are sparse or unavailable. |
-
-### 🌞 Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability
-
-**Undergraduate Research · University of Ibadan**
-
-- Modelled solar structure and variability with computational physics methods.
-- Explored magnetohydrodynamics and solar processes using **Fortran**.
-- Connected solar variability to broader questions of space weather and Earth-system influence.
-
-### 🌬️ Wind Characteristics and Potentials Using Weibull & Maximum Entropy Models
-
-- Assessed wind energy potential with statistical distribution functions.
-- Applied **Weibull** and **Maximum Entropy** methods to characterize wind regimes.
-- Reported strong statistical fits with **R² values around 0.90–0.99**, supporting renewable energy feasibility analysis.
+> I believe science becomes most powerful when it leaves the textbook, enters the classroom, informs policy, strengthens communities and gives learners the courage to build.
 
 ---
 
-## 🧪 Research Interests
+## 🎓 Education Timeline
+
+| Stage | Institution | Years / Date | Highlights |
+| --- | --- | --- | --- |
+| **Primary Education** | Ronk New Age Nursery and Primary School, Akobo, Ibadan | 1994–2002 | Graduated among the top students; known for diligence, sports and strong academic promise. |
+| **Secondary Education** | Federal Government College, Ogbomoso | 2002–2008 | Boarding-school formation; learned resilience and survival strategies; earned the nickname **“Tunspiderman”** after dramatizing the *Spider-Man* trilogy for peers. |
+| **NECO Senior School Certificate** | St. Patrick’s Junior Grammar School, Basorun, Ibadan | 2008 | Credits in English Language, Mathematics, Yoruba Language, Economics, Geography, Biology, Chemistry, Physics and Agricultural Science. |
+| **B.Sc. Physics** | University of Ibadan | 2009–2014 | Second Class Honours, Lower Division; transformed an earlier dislike for Physics into university-level strength. |
+| **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | CGPA **4.3**; focused on solar irradiance estimation and atmospheric datasets. |
+| **PGCE Secondary Physics with QTS** | University of Cumbria, United Kingdom | Full offer for September 2026 | Future professional teacher-training pathway in secondary Physics. |
+
+---
+
+## 🔬 Research Portfolio & Publications
 
 <div align="center">
 
-| 🌤️ Atmosphere | 🛰️ Remote Sensing | ⚡ Energy | 🌱 Climate Solutions |
-| --- | --- | --- | --- |
-| Radiative transfer | MODIS workflows | Solar resource assessment | Climate resilience |
-| Aerosol-cloud interactions | Satellite data assimilation | Wind-energy potential | Data-scarce regions |
-| Greenhouse gas forcing | NASA SSE comparison | Renewable energy planning | Ecological modelling |
+| Research Theme | Methods & Tools | Output / Status |
+| --- | --- | --- |
+| ☀️ Solar dynamics | Solar structure, variability analysis, space-weather context | ICRERA-prepared manuscript under review |
+| 🌤️ All-sky direct irradiance | Satellite datasets, cloud transmittance, atmospheric parameters | Published in *Bulletin of the Science Association of Nigeria* (2020) |
+| 🌬️ Wind energy potential | Weibull distribution, statistical wind-speed analysis | Published in *Journal of Science and Technology* (2022) |
+| 🛰️ Tropical solar radiation modelling | Satellite data from 2000–2025, climate dynamics, advanced modelling | PhD proposal alignment with Prof. Debashis Nath, Yunnan University |
 
 </div>
+
+### ☀️ Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability
+
+**Undergraduate Project · University of Ibadan**<br />
+**Supervisor:** Dr. T. Ogunseye<br />
+**Publication Status:** Prepared for / under review by the **International Conference on Renewable Energy Research and Applications (ICRERA)**.
+
+- Explored solar structure, variability and the wider implications of solar dynamics.
+- Built an early research foundation in physics-based modelling and renewable-energy relevance.
+- Strengthened interest in climate-energy systems and scientific communication.
+
+### 🌤️ Parametric Estimation of Direct Irradiance under All-Sky Conditions from Publicly Available Satellite Datasets
+
+**M.Sc. Project · University of Ibadan · Published 2020**<br />
+**Supervisor:** Dr. T.A. Otunla<br />
+**Publication:** *Bulletin of the Science Association of Nigeria*.
+
+- Developed a practical approach for estimating direct irradiance under all-sky atmospheric conditions.
+- Used publicly available satellite datasets to address limited ground-measurement coverage.
+- Contributed to solar-resource assessment for data-scarce tropical and developing regions.
+- Connected atmospheric physics with renewable energy planning and climate-informed decision-making.
+
+### 🌬️ Statistical Analysis of Wind Speed Distribution and Wind Energy Potential in Nigeria Using the Weibull Distribution Model
+
+**Wind Energy Research · Published 2022**<br />
+**Supervisor:** Dr. T.A. Otunla<br />
+**Publication:** *Journal of Science and Technology*; further prepared for the *International Journal of Energy and Environmental Engineering*.
+
+- Modelled wind-speed distributions using Weibull-based statistical methods.
+- Assessed wind-energy potential across Nigerian contexts.
+- Supported renewable energy feasibility analysis using data-driven atmospheric insight.
+
+### 🧪 PhD Research Direction
+
+**Advanced Solar Radiation Modelling Across Tropical Regions Using Satellite Data (2000–2025)**
+
+- Proposed doctoral research on solar radiation modelling in tropical environments.
+- Focuses on satellite-derived atmospheric variables, radiative transfer, climate dynamics and validation workflows.
+- Designed to align with climate-dynamics research led by **Prof. Debashis Nath** at **Yunnan University, China**.
+- Long-term goal: produce decision-ready solar-energy and climate-risk insights for data-scarce regions.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏫 Oyo State TESCOM — Physics & Mathematics Teacher
+### 🏫 Oyo State Post Primary Teaching Service Commission — STEM Teacher
 
-**Jan 2025 – Present**
+**January 2025 – Present · Ilado/Sagbo Community Secondary School, Iseyin**
 
-- Deliver physics and mathematics instruction at **Ilado/Sagbo Community Grammar School**.
-- Use problem-based learning, visual explanation, and STEM-oriented instruction to strengthen learner outcomes.
-- Integrate science concepts with real-world applications in energy, climate and technology.
+- Teach **Physics, Mathematics and ICT** at the secondary-school level.
+- Translate scientific concepts into practical explanations, visual demonstrations and learner-centered activities.
+- Support students with STEM confidence, problem-solving habits and digital-literacy foundations.
 
-### 🧠 Techbase Consultant Services — Lead Consultant & STEM Educator
+### 🧭 Techbase Consultant Services — Lead Consultant
 
-**April 2022 – Present · RC: BN3570899 · SMEDAN Registered**
+**Registered STEM Education & Consultancy Business**
 
-- Lead an EdTech consultancy focused on **coding, robotics, physics and mathematics education**.
-- Design curricula for **Python, Scratch, web development, physical computing and robotics**.
-- Partner with schools including **Baptist Model High Schools** and **Knowledge Base International Schools**.
-- Train learners to build Scratch games, HTML/CSS websites, robotics projects and foundational programming solutions.
-- Provide teacher training, program design, implementation support and STEM strategy consulting.
+- Lead a consultancy focused on STEM education, coding, robotics, school support and technology-enabled learning.
+- Design learning experiences in **Python, Scratch, HTML, CSS, JavaScript, robotics and physical computing**.
+- Provide schools with STEM program strategy, curriculum development, teacher support and learner project pathways.
 
-### 🏫 Knowledge Base International Schools — STEM Educator
+### 🚀 Techbridge Consulting Limited — Head of Training and Programs
 
-**Jan 2022 – Present**
+**2017–2022**
 
-- Pioneered visual and project-based approaches for Physics and ICT instruction.
-- Led digital literacy initiatives, coding bootcamps and science competition preparation.
-- Supported student confidence through practical computing and science demonstrations.
+- Directed robotics, coding and digital-skills programs for learners and institutions.
+- Developed curricula for **Python, Scratch and web development**.
+- Led training systems that contributed to a reported **1500% increase in company revenue** within a single year.
+- Built program structures connecting creativity, computation and measurable learning outcomes.
+
+### 🇳🇬 Federal Government NTeach Programme — Physics & ICT Instructor
+
+**2016–2019**
+
+- Delivered secondary-level Physics and ICT instruction through the Federal Government’s NTeach initiative.
+- Supported learners with structured explanations, classroom technology and practical science engagement.
 
 ### 📊 International Institute of Tropical Agriculture — Data Analyst
 
-**Aug 2015 – Nov 2016**
+**2015–2016**
 
 - Analysed agricultural and climate-related datasets using **SPSS**.
-- Supported reporting for climate resilience and agricultural development work across West Africa.
+- Supported reports connected to climate resilience and agricultural development in West Africa.
+- Strengthened applied data-analysis experience in development, food systems and climate contexts.
 
-### 🎓 Additional Teaching & Technical Roles
+### 🎖️ National Youth Service Corps — Teacher & Fellowship President
 
-- **NYSC Teacher** — Akwa Ibom State, Nigeria.
-- **Presiding Officer** — Independent National Electoral Commission, Akwa Ibom State.
-- **Industrial Trainee** — National Institute of Radiation Protection & Research.
-- **Industrial Trainee** — Broadcasting Corporation of Oyo State.
+**2014–2015 · Akwa Ibom State**
+
+- Named **Best NYSC Teacher** for innovative teaching with visual aids and documentaries.
+- Served as **President of the Redeemed Christian Corpers’ Fellowship (RCCF)** in Ikot-Ekpene.
+- Managed housing coordination, interpersonal conflict resolution and service leadership for fellow corps members.
 
 ---
 
-## 🛠 Technology Stack
+## 🏆 Certifications, Programs & Recognition
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧑‍💼 Leadership & Impact</h3>
+      <ul>
+        <li><strong>YALI RLC West Africa</strong> Leadership Certification — 2024/2025.</li>
+        <li><strong>STEM for Development</strong> — selected as Programs Associate, February 2026.</li>
+        <li><strong>LEAP Africa</strong> volunteer certification for SDG-focused community projects, August 2021.</li>
+        <li><strong>Healing Lives Initiative</strong> certificate of appreciation for supporting Rise Conference 1.0, July 2024.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>💡 Design Thinking</h3>
+      <ul>
+        <li><strong>Australian Computing Academy</strong> — Certificate of Mastery, DT Mini Challenge: Space Invaders with Blockly.</li>
+        <li><strong>Cartedo</strong> — Design Thinking Certification: COVID-19 Response.</li>
+        <li><strong>Unilever Level-Up 2.0</strong> — Design Thinking from a Business Perspective, January 2025.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Web, ICT & Creative Technology</h3>
+      <ul>
+        <li><strong>Coursera</strong> — Build a Full Website using WordPress, February 2021.</li>
+        <li><strong>Coursera / University of Michigan</strong> — Introduction to HTML5, February 2021.</li>
+        <li><strong>SoloLearn</strong> — HTML, CSS, Coding Foundations and Tech for Everyone, 2020–2024.</li>
+        <li><strong>LinkedIn Learning</strong> — What is Graphic Design?, August 2021.</li>
+        <li><strong>Hour of Code</strong> — Certificate of Completion.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎖️ Awards & Recognition</h3>
+      <ul>
+        <li><strong>Best NYSC Teacher</strong> — Akwa Ibom State, 2014/2015.</li>
+        <li><strong>RCCG Merit Award</strong> — Most Outstanding Worker, Greatness Pinnacle Youth Church, 2013–2014.</li>
+        <li><strong>University of Ibadan PG English Proficiency Test</strong> — score of 63, 2016.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Technical Skills
 
 <div align="center">
 
-### Scientific Computing & Data
+### Scientific Computing, Climate & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-0EA5E9?style=for-the-badge&logo=earth&logoColor=white)
+![Atmospheric Modelling](https://img.shields.io/badge/Atmospheric%20Modelling-2563EB?style=for-the-badge)
+![Climate Modelling](https://img.shields.io/badge/Climate%20Modelling-0891B2?style=for-the-badge)
 
-### Web, Coding & EdTech
+### Web, Coding & Digital Learning
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![ICT Training](https://img.shields.io/badge/ICT%20Training-111827?style=for-the-badge)
 
-### Robotics & Physical Computing
+### Robotics, Program Design & Teaching
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![micro:bit](https://img.shields.io/badge/micro%3Abit-00ED00?style=for-the-badge&logo=microbit&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=robotframework&logoColor=white)
-
-### Research Platforms & Datasets
-
-![MODIS](https://img.shields.io/badge/MODIS-Satellite%20Data-0EA5E9?style=for-the-badge)
-![NASA SSE](https://img.shields.io/badge/NASA%20SSE-Solar%20Data-2563EB?style=for-the-badge)
-![Ferret NOAA](https://img.shields.io/badge/Ferret%20NOAA-Climate%20Analysis-7C3AED?style=for-the-badge)
+![Curriculum Design](https://img.shields.io/badge/Curriculum%20Design-7C3AED?style=for-the-badge)
+![STEM Education](https://img.shields.io/badge/STEM%20Education-10B981?style=for-the-badge)
+![Teacher Training](https://img.shields.io/badge/Teacher%20Training-F59E0B?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EC4899?style=for-the-badge)
 
 </div>
 
+```mermaid
+mindmap
+  root((Babatunde))
+    Climate Research
+      Solar radiation modelling
+      Satellite datasets
+      Atmospheric physics
+      Wind energy analysis
+    STEM Education
+      Physics
+      Mathematics
+      ICT
+      Visual teaching
+    EdTech Delivery
+      Python
+      Scratch
+      Web development
+      Robotics
+    Leadership
+      TESCOM teaching
+      Techbase consulting
+      Programs associate
+      Fellowship service
+```
+
 ---
 
-## 🎓 Education
+## 🎮 Personal Interests & Philosophy
 
-| Degree | Institution | Year |
-| --- | --- | --- |
-| **M.Sc. Atmospheric Physics** | University of Ibadan, Nigeria | 2019 |
-| **B.Sc. Physics** | University of Ibadan, Nigeria | 2014 |
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🎮 Games & Simulation</h3>
+      <p>I enjoy simulation and racing experiences such as <strong>Euro Truck Simulator</strong> and <strong>Need for Speed</strong>, where systems thinking, navigation and strategy meet entertainment.</p>
+    </td>
+    <td width="33%">
+      <h3>📸 Travel & Photography</h3>
+      <p>I value photography and travelling as ways to observe people, places, landscapes, infrastructure and environmental realities.</p>
+    </td>
+    <td width="33%">
+      <h3>⚽ Football & Debate</h3>
+      <p>I enjoy football and thoughtful arguments grounded in scientific documentaries, evidence and curiosity.</p>
+    </td>
+  </tr>
+</table>
 
----
-
-## 🏆 Certifications, Awards & Leadership
-
-### Certifications & Professional Development
-
-- **YALI RLC West Africa Leadership Certification** — 2025.
-- **Design Thinking** — Australian Computing Academy, Unilever and Cartedo.
-- **Web Development** — University of Michigan via Coursera and SoloLearn.
-- **Coding Foundations** — SoloLearn.
-- **SMEDAN Registered Business Owner** — Techbase Consultant Services.
-
-### Awards & Recognition
-
-- **Best NYSC Teacher** — Akwa Ibom State, 2014/2015.
-- **Most Outstanding Worker** — RCCG Oyo Province 3 Youth Church.
-
-### Volunteering & Leadership
-
-- STEM Educator — RCCG Kingdom Diplomats Youth Church.
-- Mentor — Education Support Network.
-- Volunteer — LEAP Africa Youth Day of Service.
-- President — Redeemed Christian Corpers’ Fellowship, 2014–2015.
-- Financial Supporter — Healing Lives Initiative.
+- I believe good governance is essential to freeing Africa from tyranny and unlocking human potential.
+- I support civic consciousness, including the spirit of the **#ENDSARS** movement.
+- I describe myself as a deep thinker who prefers purposeful simplicity over noise.
+- I learned programming largely through self-directed trial and error — an expensive journey that even cost me two damaged laptops.
 
 ---
 
 ## 🤝 Collaboration Opportunities
 
-I am open to partnerships, research support, speaking engagements, curriculum collaborations and practical STEM programs in the following areas:
+I am open to research support, speaking engagements, STEM partnerships, school programs, curriculum collaborations and community-impact projects.
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 EdTech & Web Learning</h3>
+      <h3>🌍 Climate, Solar & Energy Research</h3>
       <ul>
-        <li>Student coding bootcamps</li>
-        <li>School STEM labs and clubs</li>
-        <li>Introductory web development programs</li>
-        <li>Scratch, Python and robotics curricula</li>
+        <li>Solar radiation and direct irradiance modelling.</li>
+        <li>Remote-sensing workflows for data-scarce regions.</li>
+        <li>Wind-energy potential studies using statistical distributions.</li>
+        <li>Climate dynamics and tropical atmospheric modelling.</li>
+        <li>Research proposal development and literature synthesis.</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🌍 Climate & Energy Research</h3>
+      <h3>🎓 STEM, Coding & Robotics Education</h3>
       <ul>
-        <li>Solar radiation modelling</li>
-        <li>Renewable energy potential studies</li>
-        <li>Remote-sensing workflows</li>
-        <li>Climate data analysis for data-scarce regions</li>
+        <li>Physics, Mathematics and ICT intervention programs.</li>
+        <li>Scratch, Python, HTML/CSS and beginner JavaScript curricula.</li>
+        <li>Robotics clubs, school STEM labs and project showcases.</li>
+        <li>Teacher training and institutional STEM strategy.</li>
+        <li>Digital-skills bootcamps for learners and communities.</li>
       </ul>
     </td>
   </tr>
@@ -307,20 +446,23 @@ I am open to partnerships, research support, speaking engagements, curriculum co
 
 ---
 
-## 📌 Featured Value Proposition
+## 📌 Signature Value Proposition
 
-> I help schools, learners and institutions move from **technology awareness** to **technology creation** — while applying climate science and computational research to real-world African development challenges.
+> I help students, schools and institutions turn scientific curiosity into practical capability — connecting **climate research**, **STEM education**, **coding**, **robotics** and **good governance-minded service** for a more informed and resilient society.
 
 <div align="center">
 
 ```mermaid
 graph LR
-  A[Climate Data] --> B[Scientific Computing]
-  B --> C[Solar & Wind Energy Insight]
-  D[STEM Curriculum] --> E[Learner Projects]
-  E --> F[Digital Skills]
-  C --> G[Evidence-Based Decisions]
-  F --> H[Future-Ready Students]
+  A[Satellite & Climate Data] --> B[Scientific Computing]
+  B --> C[Solar + Wind Energy Insight]
+  C --> D[Evidence-Based Decisions]
+  E[Physics + Mathematics Teaching] --> F[STEM Confidence]
+  F --> G[Future-Ready Learners]
+  H[Coding + Robotics Curriculum] --> I[Technology Creation]
+  I --> G
+  D --> J[Climate-Resilient Communities]
+  G --> J
 ```
 
 </div>
@@ -339,15 +481,18 @@ graph LR
 | 🐦 X | [@ba_awoyemi](https://x.com/ba_awoyemi) |
 | 📸 Instagram | [@ba_awoyemi](https://www.instagram.com/ba_awoyemi/) |
 | 🧵 Threads | [@ba_awoyemi](https://www.threads.com/@ba_awoyemi) |
+| 📘 Facebook | [ba.awoyemi](https://web.facebook.com/ba.awoyemi) |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7C3AED,50:2563EB,100:0EA5E9&section=footer" alt="Footer wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:7C3AED,45:2563EB,100:020617&section=footer" alt="Footer wave" width="100%" />
 </div>
 
 <div align="center">
   <strong>“What ultimately matters is not where you end up relative to others, but where you end up relative to yourself when you began.”</strong>
+  <br />
+  <sub>Built around service, scientific curiosity, disciplined learning and practical STEM impact.</sub>
 </div>
