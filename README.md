@@ -84,7 +84,6 @@ My story blends curiosity, discipline and service: I grew up in a middle-class C
 
 ```yaml
 name: Babatunde Ayoola Awoyemi
-baptismal_name: Samuel
 born: 17 September 1991, Ibadan, Oyo State, Nigeria
 current_base: Nigeria
 identity:
