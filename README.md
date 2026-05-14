@@ -22,6 +22,7 @@
   <a href="https://www.threads.com/@ba_awoyemi"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
   <a href="https://wa.me/2348126909498"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://scratch.mit.edu/users/DeCreed/"><img src="https://img.shields.io/badge/Scratch-DeCreed-FFAB19?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch dashboard" /></a>
+  <a href="https://babatundeawo.github.io/"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub portfolio" /></a>
 </div>
 
 <br />
@@ -39,7 +40,7 @@
 
 **Babatunde Ayoola Awoyemi** is a Nigerian **Atmospheric Physicist**, **STEM Educator**, **EdTech Consultant**, **coding and robotics trainer**, and **climate-energy researcher** from Ibadan, Oyo State.
 
-My story blends curiosity, discipline and service: I grew up in a middle-class Christian family, learned calm simplicity from my mother, learned discipline from my father, and discovered technology by dismantling radios and televisions to understand how things work. Today, that same exploratory spirit drives my mission to help learners, schools and research teams move from **technology awareness** to **technology creation**.
+My story blends curiosity, discipline and service: early hands-on exploration with radios and televisions sparked a lasting desire to understand how systems work. Today, that same exploratory spirit drives my mission to help learners, schools and research teams move from **technology awareness** to **technology creation**.
 
 <table>
   <tr>
@@ -92,6 +93,7 @@ identity:
   - EdTech Consultant
   - Climate and Renewable Energy Researcher
   - Coding, Robotics and ICT Trainer
+  - AI Prompt Engineering and Practical AI Usage Advocate
 current_roles:
   - STEM Teacher, Oyo State TESCOM, Ilado/Sagbo Community Secondary School, Iseyin
   - Lead Consultant, Knowledge Base International Schools, Apapa, Moniya, Ibadan
@@ -100,7 +102,7 @@ current_roles:
 academic_path:
   - B.Sc. Physics, University of Ibadan, 2014
   - M.Sc. Physics / Atmospheric Physics, University of Ibadan
-  - PGCE Secondary Physics pathway, University of Cumbria
+  - Secondary Physics educational pursuit
 research_focus:
   - Advanced solar radiation modelling across tropical regions
   - Satellite-derived direct irradiance under all-sky conditions
@@ -114,6 +116,8 @@ teaching_stack:
   - Scratch
   - Web development
   - Robotics
+  - AI prompt engineering
+  - Practical AI usage
 core_mission: "Serve society through STEM education, climate research and practical technology empowerment."
 ```
 
@@ -127,9 +131,8 @@ core_mission: "Serve society through STEM education, climate research and practi
       <h3>🏡 Background</h3>
       <ul>
         <li>Born on <strong>17 September 1991</strong> in <strong>Ibadan, Oyo State, Nigeria</strong>.</li>
-        <li>Raised as the eldest of four children in a Christian home.</li>
-        <li>Father: regional accountant whose example reinforced discipline.</li>
-        <li>Mother: Chemistry teacher whose influence shaped calmness, simplicity and teaching empathy.</li>
+        <li>Shaped by values of discipline, calmness, simplicity and service.</li>
+        <li>Draws on personal experience to teach with empathy, clarity and practical relevance.</li>
       </ul>
     </td>
     <td width="50%">
@@ -154,10 +157,9 @@ core_mission: "Serve society through STEM education, climate research and practi
 | --- | --- | --- | --- |
 | **Primary Education** | Ronk New Age Nursery and Primary School, Akobo, Ibadan | 1994–2002 | Built early habits of diligence, sportsmanship and academic curiosity. |
 | **Secondary Education** | Federal Government College, Ogbomoso | 2002–2008 | Boarding-school formation; learned resilience and survival strategies; earned the nickname **“Tunspiderman”** after dramatizing the *Spider-Man* trilogy for peers. |
-| **NECO Senior School Certificate** | St. Patrick’s Junior Grammar School, Basorun, Ibadan | 2008 | Completed senior-school certification across science, humanities and language subjects. |
 | **B.Sc. Physics** | University of Ibadan | 2009–2014 | Transformed an earlier dislike for Physics into university-level strength. |
 | **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | Focused on solar irradiance estimation and atmospheric datasets. |
-| **PGCE Secondary Physics with QTS** | University of Cumbria, United Kingdom | Teacher-training pathway | Future professional development in secondary Physics education. |
+| **Educational Pursuit** | Secondary Physics teacher-training pathway | Professional development | Strengthening pedagogy and classroom practice for secondary Physics education. |
 
 ---
 
@@ -170,14 +172,13 @@ core_mission: "Serve society through STEM education, climate research and practi
 | ☀️ Solar dynamics | Solar structure, variability analysis, space-weather context | ICRERA-prepared manuscript under review |
 | 🌤️ All-sky direct irradiance | Satellite datasets, cloud transmittance, atmospheric parameters | Published in *Bulletin of the Science Association of Nigeria* (2020) |
 | 🌬️ Wind energy potential | Weibull distribution, statistical wind-speed analysis | Published in *Journal of Science and Technology* (2022) |
-| 🛰️ Tropical solar radiation modelling | Satellite data from 2000–2025, climate dynamics, advanced modelling | PhD proposal alignment with Prof. Debashis Nath, Yunnan University |
+| 🛰️ Tropical solar radiation modelling | Satellite data from 2000–2025, climate dynamics, advanced modelling | PhD proposal direction |
 
 </div>
 
 ### ☀️ Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability
 
 **Undergraduate Project · University of Ibadan**<br />
-**Supervisor:** Dr. T. Ogunseye<br />
 **Publication Status:** Prepared for / under review by the **International Conference on Renewable Energy Research and Applications (ICRERA)**.
 
 - Explored solar structure, variability and the wider implications of solar dynamics.
@@ -187,7 +188,6 @@ core_mission: "Serve society through STEM education, climate research and practi
 ### 🌤️ Parametric Estimation of Direct Irradiance under All-Sky Conditions from Publicly Available Satellite Datasets
 
 **M.Sc. Project · University of Ibadan · Published 2020**<br />
-**Supervisor:** Dr. T.A. Otunla<br />
 **Publication:** *Bulletin of the Science Association of Nigeria*.
 
 - Developed a practical approach for estimating direct irradiance under all-sky atmospheric conditions.
@@ -198,7 +198,6 @@ core_mission: "Serve society through STEM education, climate research and practi
 ### 🌬️ Statistical Analysis of Wind Speed Distribution and Wind Energy Potential in Nigeria Using the Weibull Distribution Model
 
 **Wind Energy Research · Published 2022**<br />
-**Supervisor:** Dr. T.A. Otunla<br />
 **Publication:** *Journal of Science and Technology*; further prepared for the *International Journal of Energy and Environmental Engineering*.
 
 - Modelled wind-speed distributions using Weibull-based statistical methods.
@@ -211,7 +210,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 - Proposed doctoral research on solar radiation modelling in tropical environments.
 - Focuses on satellite-derived atmospheric variables, radiative transfer, climate dynamics and validation workflows.
-- Designed to align with climate-dynamics research led by **Prof. Debashis Nath** at **Yunnan University, China**.
+- Designed to support advanced climate-dynamics research, tropical solar-resource assessment and satellite-data validation.
 - Long-term goal: produce decision-ready solar-energy and climate-risk insights for data-scarce regions.
 
 ---
@@ -226,7 +225,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 - Translate scientific concepts into practical explanations, visual demonstrations and learner-centered activities.
 - Support students with STEM confidence, problem-solving habits and digital-literacy foundations.
 
-### 🧭 Knowledge Base International Schools — Lead Consultant
+### 🧭 [Knowledge Base International Schools](https://kbischools.com.ng) — Lead Consultant
 
 **January 2022 – Present · Apapa, Moniya, Ibadan**
 
@@ -234,9 +233,9 @@ core_mission: "Serve society through STEM education, climate research and practi
 - Support school leadership with technology-enabled learning strategy, teacher guidance and student project development.
 - Help learners build confidence through practical, project-based digital-skills experiences.
 
-### 🧭 Techbase Consulting Services — Lead Consultant
+### 🧭 [Techbase Consulting Services](https://techbasengr.com.ng) — Lead Consultant
 
-**2022 – Present · Registered STEM Education & Consultancy Business**
+**January 2022 – Present · Registered STEM Education & Consultancy Business**
 
 - Lead a consultancy focused on STEM education, coding, robotics, school support and technology-enabled learning.
 - Design learning experiences in **Python, Scratch, HTML, CSS, JavaScript, robotics and physical computing**.
@@ -313,7 +312,6 @@ core_mission: "Serve society through STEM education, climate research and practi
       <h3>🎖️ Awards & Recognition</h3>
       <ul>
         <li><strong>RCCG Merit Award</strong> — Most Outstanding Worker, Greatness Pinnacle Youth Church, 2013–2014.</li>
-        <li><strong>University of Ibadan PG English Proficiency Test</strong> — completed as part of postgraduate preparation.</li>
       </ul>
     </td>
   </tr>
@@ -342,6 +340,8 @@ core_mission: "Serve society through STEM education, climate research and practi
 ![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![ICT Training](https://img.shields.io/badge/ICT%20Training-111827?style=for-the-badge)
+![AI Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=white)
+![Practical AI Usage](https://img.shields.io/badge/Practical%20AI%20Usage-2563EB?style=for-the-badge)
 
 ### Robotics, Program Design & Teaching
 
@@ -371,10 +371,13 @@ mindmap
       Scratch
       Web development
       Robotics
+      AI prompt engineering
+      Practical AI usage
     Leadership
       TESCOM teaching
       Knowledge Base consulting
       Techbase consulting
+      AI-enabled learning strategy
       Programs associate
       Fellowship service
 ```
@@ -428,6 +431,7 @@ I am open to research support, speaking engagements, STEM partnerships, school p
       <ul>
         <li>Physics, Mathematics and ICT intervention programs.</li>
         <li>Scratch, Python, HTML/CSS and beginner JavaScript curricula.</li>
+        <li>AI prompt engineering and responsible practical AI usage for learning workflows.</li>
         <li>Robotics clubs, school STEM labs and project showcases.</li>
         <li>Teacher training and institutional STEM strategy.</li>
         <li>Digital-skills bootcamps for learners and communities.</li>
@@ -492,6 +496,7 @@ graph LR
 | 🧵 Threads | [@ba_awoyemi](https://www.threads.com/@ba_awoyemi) |
 | 📘 Facebook | [ba.awoyemi](https://web.facebook.com/ba.awoyemi) |
 | 🧩 Scratch | [DeCreed](https://scratch.mit.edu/users/DeCreed/) |
+| 🧑‍💻 GitHub Portfolio | [babatundeawo.github.io](https://babatundeawo.github.io/) |
 
 </div>
 
