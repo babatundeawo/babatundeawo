@@ -37,7 +37,7 @@
 
 ## 👋 Hello — I am Babatunde
 
-**Babatunde Ayoola Awoyemi** — also known by the baptismal name **Samuel** — is a Nigerian **Atmospheric Physicist**, **STEM Educator**, **EdTech Consultant**, **coding and robotics trainer**, and **climate-energy researcher** from Ibadan, Oyo State.
+**Babatunde Ayoola Awoyemi** is a Nigerian **Atmospheric Physicist**, **STEM Educator**, **EdTech Consultant**, **coding and robotics trainer**, and **climate-energy researcher** from Ibadan, Oyo State.
 
 My story blends curiosity, discipline and service: I grew up in a middle-class Christian family, learned calm simplicity from my mother, learned discipline from my father, and discovered technology by dismantling radios and televisions to understand how things work. Today, that same exploratory spirit drives my mission to help learners, schools and research teams move from **technology awareness** to **technology creation**.
 
