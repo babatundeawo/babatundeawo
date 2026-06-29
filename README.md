@@ -1,6 +1,6 @@
-[![Babatunde Ayoola Awoyemi profile banner](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:060B16,50:FF7A33,100:2FD9C4&text=Babatunde%20Ayoola%20Awoyemi&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Atmospheric%20Physicist%20%E2%80%A2%20STEM%20Educator%20%E2%80%A2%20EdTech%20Consultant%20%E2%80%A2%20Climate%20Researcher&descSize=16&descAlignY=58&animation=fadeIn)](https://babatundeawo.github.io/)
+[![Babatunde Ayoola Awoyemi profile banner](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF7A33,50:FFC857,100:2FD9C4&text=Babatunde%20Ayoola%20Awoyemi&fontColor=0D1B2E&fontSize=42&fontAlignY=36&desc=Atmospheric%20Physicist%20%E2%80%A2%20STEM%20Educator%20%E2%80%A2%20EdTech%20Consultant%20%E2%80%A2%20Climate%20Researcher&descSize=16&descAlignY=58&animation=fadeIn)](https://babatundeawo.github.io/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=FFC857&center=true&vCenter=true&width=940&lines=Turning+satellite+data+into+solar+energy+insight;Teaching+Physics%2C+ICT%2C+Python%2C+Scratch+and+Robotics;Building+STEM+systems+for+African+learners)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=C2491A&center=true&vCenter=true&width=940&lines=Turning+satellite+data+into+solar+energy+insight;Teaching+Physics%2C+ICT%2C+Python%2C+Scratch+and+Robotics;Building+STEM+systems+for+African+learners)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babatundeawoyemi91@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ba-awoyemi/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348126909498) [![X / Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ba_awoyemi) [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ba_awoyemi/) [![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@ba_awoyemi) [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ba.awoyemi) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7A33?style=for-the-badge&logo=googlechrome&logoColor=white)](https://babatundeawo.github.io/)
 
@@ -135,9 +135,9 @@ Across these roles: secondary Physics/Maths/ICT teaching, STEM and EdTech consul
 
 ## 📊 GitHub Analytics
 
-[![Babatunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=babatundeawo&show_icons=true&hide_border=true&count_private=true&bg_color=0E1A2C&title_color=FFC857&text_color=EAF1FB&icon_color=2FD9C4)](https://github.com/babatundeawo) [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babatundeawo&layout=compact&hide_border=true&bg_color=0E1A2C&title_color=FFC857&text_color=EAF1FB)](https://github.com/babatundeawo)
+[![Babatunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=babatundeawo&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=C2491A&text_color=0D1B2E&icon_color=0B7D72)](https://github.com/babatundeawo) [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babatundeawo&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C2491A&text_color=0D1B2E)](https://github.com/babatundeawo)
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=babatundeawo&hide_border=true&background=0E1A2C&ring=FF7A33&fire=FFC857&currStreakLabel=EAF1FB&sideLabels=93A6C4&dates=5E7191)](https://github.com/babatundeawo)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=babatundeawo&hide_border=true&background=FFFFFF&ring=FF7A33&fire=C2491A&currStreakLabel=0D1B2E&sideLabels=0D1B2E&dates=677791)](https://github.com/babatundeawo)
 
 ---
 
@@ -177,7 +177,7 @@ graph LR
 
 ---
 
-[![Footer wave](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2FD9C4,50:FF7A33,100:060B16&section=footer)](https://babatundeawo.github.io/)
+[![Footer wave](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2FD9C4,50:FFC857,100:FF7A33&section=footer)](https://babatundeawo.github.io/)
 
 **"What ultimately matters is not where you end up relative to others, but where you end up relative to yourself when you began."**
 Built around service, scientific curiosity, disciplined learning, and practical STEM impact.
