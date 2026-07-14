@@ -16,7 +16,7 @@ I'm a Nigerian **atmospheric physicist**, **STEM educator**, **EdTech consultant
 🎓 **Teaching** — Physics, Mathematics, ICT, learner-centred pedagogy, visual scientific explanation.
 🤖 **EdTech** — Python, Scratch, robotics, coding clubs, curriculum design, STEM programme delivery.
 
-**Jump to:** [Snapshot](#-snapshot) · [Education](#-education) · [Research](#-research--publications) · [Experience](#-experience) · [Skills](#-technical-skills) · [Recognition](#-certifications--recognition) · [Interests](#-personal-interests--philosophy) · [Analytics](#-github-analytics) · [Connect](#-connect)
+**Jump to:** [Snapshot](#-snapshot) · [Education](#-education) · [Research](#-research--publications) · [Experience](#-experience) · [Skills](#-technical-skills) · [Recognition](#-certifications--recognition) · [Projects](#-projects--live-builds) · [Interests](#-personal-interests--philosophy) · [Analytics](#-github-analytics) · [Connect](#-connect)
 
 ---
 
@@ -157,6 +157,41 @@ graph LR
   D --> J[Climate-Resilient Communities]
   G --> J
 ```
+
+---
+
+## 🚀 Projects &amp; Live Builds
+
+16 live, open-source builds across two GitHub accounts — my own tools and guides, plus the Techbase STEM
+Academy curriculum I lead and maintain at [github.com/techbaseng](https://github.com/techbaseng).
+
+### Personal projects &amp; tools
+
+| Project | What it is | Live | Repo |
+| --- | --- | --- | --- |
+| ✝️ **Deep Calls** | Long-form Christian apologetics essays — grace, sovereignty, spiritual warfare, church and culture — served from a custom Python static-site generator with a Bible-study aesthetic, live search, and scroll-reveal animation. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
+| 🧠 **PromptOS — AI Prompt Library** | 217 curated AI prompts across 11 categories, styled as a searchable, editable "dev tool" — one-click copy, mobile-first, fully offline. | [Visit →](https://babatundeawo.github.io/ai-prompt-library/) | [Code →](https://github.com/babatundeawo/ai-prompt-library) |
+| 🗂️ **Deploybase — AI Deployment Directory** | A registry of every deployed Claude Project I've built and run — what each does, who it serves, and how a session with it works. | [Visit →](https://babatundeawo.github.io/deploybase/) | [Code →](https://github.com/babatundeawo/deploybase) |
+| 🧑‍🏫 **Educator AI Toolkit** | A free, mobile-first reference site for Nigerian educators covering two Claude AI setups: an exam/marking-guide generator and a weekly lesson-note generator. | [Visit →](https://babatundeawo.github.io/educator-ai-toolkit/) | [Code →](https://github.com/babatundeawo/educator-ai-toolkit) |
+| 🌍 **Global Warming Explorer** | A 27-page interactive climate-science learning site — free-roam exploration, an 8-lesson guided course with worksheets and a certificate, live weather, and a GitHub-native classroom check-in dashboard. | [Visit →](https://babatundeawo.github.io/globalwarming/) | [Code →](https://github.com/babatundeawo/globalwarming) |
+| 👾 **Regex Form &amp; Secret Code Playground** | A gamified, child-friendly app that teaches Regular Expressions through a live regex sandbox and a real-time password-strength "secret code" checker. | [Visit →](https://babatundeawo.github.io/smart-form-validator/) | [Code →](https://github.com/babatundeawo/smart-form-validator) |
+| 🏫 **Student Report Card System** | A self-contained, browser-based student information and performance management system for recording grades and generating report cards — no server required. | [Visit →](https://babatundeawo.github.io/student-report-card/) | [Code →](https://github.com/babatundeawo/student-report-card) |
+| 📱 **AI Studio → Android Deployment Guide** | A 23-step interactive walkthrough for shipping a Google AI Studio app as an installable Android PWA via GitHub and Vercel. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
+| 🧾 **Personal AI Career Engine** | A free guide to building a CV and career documents using NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
+
+### Techbase STEM Academy · [github.com/techbaseng](https://github.com/techbaseng)
+
+| Project | What it is | Live | Repo |
+| --- | --- | --- | --- |
+| 🎓 **Techbase STEM Academy** | Hub for 235+ free lessons across six self-paced courses — no sign-up, no cost, no prerequisites. | [Visit →](https://techbaseng.github.io/) | [Code →](https://github.com/techbaseng/techbaseng.github.io) |
+| 🌐 HTML Fundamentals | 34 lessons · Beginner | [Visit →](https://techbaseng.github.io/techbase-html/) | [Code →](https://github.com/techbaseng/techbase-html) |
+| 🎨 CSS Styling | 73 lessons · Beginner → Advanced | [Visit →](https://techbaseng.github.io/techbase-css/) | [Code →](https://github.com/techbaseng/techbase-css) |
+| ⚡ JavaScript | 46 lessons · Intermediate | [Visit →](https://techbaseng.github.io/techbase-js/) | [Code →](https://github.com/techbaseng/techbase-js) |
+| 🐍 Python Programming | 45 lessons · Beginner → Advanced | [Visit →](https://techbaseng.github.io/techbase-python/) | [Code →](https://github.com/techbaseng/techbase-python) |
+| 🟠 Scratch Programming | 35 projects · Beginner | [Visit →](https://techbaseng.github.io/techbase-scratch/) | [Code →](https://github.com/techbaseng/techbase-scratch) |
+| 🤖 Robotics &amp; Arduino | 12 lessons · Intermediate | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
+
+Full write-ups, tech stacks, and screenshots for every project above are on the [portfolio site →](https://babatundeawo.github.io/#projects)
 
 ---
 
