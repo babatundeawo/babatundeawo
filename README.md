@@ -62,7 +62,7 @@ core_mission: "Serve society through STEM education, climate research, and pract
 | 🌬️ Wind-energy potential | Weibull distribution, statistical analysis | *Journal of Science and Technology* (2022) |
 | 🛰️ Tropical solar radiation modelling | Satellite data 2000–2025, climate dynamics | PhD proposal direction |
 
-Full write-ups for each of these, including methods and findings, are on the [portfolio site →](https://babatundeawo.github.io/#research)
+Full write-ups for each of these, including methods and findings, are on the [portfolio site →](https://babatundeawo.github.io/research.html)
 
 ---
 
@@ -162,7 +162,7 @@ graph LR
 
 ## 🚀 Projects &amp; Live Builds
 
-16 live, open-source builds across two GitHub accounts — my own tools and guides, plus the Techbase STEM
+23 live, open-source builds across two GitHub accounts — my own tools and guides, plus the Techbase STEM
 Academy curriculum I lead and maintain at [github.com/techbaseng](https://github.com/techbaseng).
 
 ### Personal projects &amp; tools
@@ -178,6 +178,13 @@ Academy curriculum I lead and maintain at [github.com/techbaseng](https://github
 | 🏫 **Student Report Card System** | A self-contained, browser-based student information and performance management system for recording grades and generating report cards — no server required. | [Visit →](https://babatundeawo.github.io/student-report-card/) | [Code →](https://github.com/babatundeawo/student-report-card) |
 | 📱 **AI Studio → Android Deployment Guide** | A 23-step interactive walkthrough for shipping a Google AI Studio app as an installable Android PWA via GitHub and Vercel. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
 | 🧾 **Personal AI Career Engine** | A free guide to building a CV and career documents using NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
+| 📊 **ClassPulse National** | A Claude Project write-up for an AI programming tutor guiding a student developer through building a national, multi-school classroom feedback platform for Nigeria. | [Visit →](https://babatundeawo.github.io/classpulse-national/) | [Code →](https://github.com/babatundeawo/classpulse-national) |
+| ✍️ **GitHub Lesson Writer** | A Claude Project write-up for a curriculum writer that turns source links into complete, beginner-safe HTML lessons grounded in Nigerian classrooms. | [Visit →](https://babatundeawo.github.io/github-lesson-writer/) | [Code →](https://github.com/babatundeawo/github-lesson-writer) |
+| 🛠️ **GitHub Portfolio Rebuild** | A Claude Project write-up for the project-manager instructions that keep two GitHub profiles consistently modernised, with one strict rule for how any project repo may link to any other. | [Visit →](https://babatundeawo.github.io/github-portfolio-rebuild/) | [Code →](https://github.com/babatundeawo/github-portfolio-rebuild) |
+| ✝️ **Nigerian Christian Apologist** | A Claude Project write-up for the voice engine behind Deep Calls — turning sermon notes, transcripts, and rough ideas into full, publishable apologetics essays. | [Visit →](https://babatundeawo.github.io/nigerian-christian-apologist/) | [Code →](https://github.com/babatundeawo/nigerian-christian-apologist) |
+| 📱 **Social Content Engine** | A Claude Project write-up for a daily social-media content generator that researches live themes and writes platform-native posts for two Nigerian brands, compiled into a Word document. | [Visit →](https://babatundeawo.github.io/social-content-engine/) | [Code →](https://github.com/babatundeawo/social-content-engine) |
+| 📰 **Substack Post Formatter** | A Claude Project write-up for a publishing assistant that turns a finished write-up into a complete, publish-ready Substack post package. | [Visit →](https://babatundeawo.github.io/substack-post-formatter/) | [Code →](https://github.com/babatundeawo/substack-post-formatter) |
+| 👨‍💻 **Techbase Code Coach** | A Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students, ending in a real project the student hosts themselves. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
 
 ### Techbase STEM Academy · [github.com/techbaseng](https://github.com/techbaseng)
 
@@ -191,7 +198,7 @@ Academy curriculum I lead and maintain at [github.com/techbaseng](https://github
 | 🟠 Scratch Programming | 35 projects · Beginner | [Visit →](https://techbaseng.github.io/techbase-scratch/) | [Code →](https://github.com/techbaseng/techbase-scratch) |
 | 🤖 Robotics &amp; Arduino | 12 lessons · Intermediate | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
 
-Full write-ups, tech stacks, and screenshots for every project above are on the [portfolio site →](https://babatundeawo.github.io/#projects)
+Full write-ups, tech stacks, and screenshots for every project above are on the [portfolio site →](https://babatundeawo.github.io/projects.html)
 
 ---
 
