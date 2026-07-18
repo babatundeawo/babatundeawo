@@ -162,7 +162,7 @@ graph LR
 
 ## 🚀 Projects &amp; Live Builds
 
-23 live, open-source builds across two GitHub accounts — my own tools and guides, plus the Techbase STEM
+26 live, open-source builds across two GitHub accounts — my own tools and guides, plus the Techbase STEM
 Academy curriculum I lead and maintain at [github.com/techbaseng](https://github.com/techbaseng).
 
 ### Personal projects &amp; tools
@@ -185,6 +185,9 @@ Academy curriculum I lead and maintain at [github.com/techbaseng](https://github
 | 📱 **Social Content Engine** | A Claude Project write-up for a daily social-media content generator that researches live themes and writes platform-native posts for two Nigerian brands, compiled into a Word document. | [Visit →](https://babatundeawo.github.io/social-content-engine/) | [Code →](https://github.com/babatundeawo/social-content-engine) |
 | 📰 **Substack Post Formatter** | A Claude Project write-up for a publishing assistant that turns a finished write-up into a complete, publish-ready Substack post package. | [Visit →](https://babatundeawo.github.io/substack-post-formatter/) | [Code →](https://github.com/babatundeawo/substack-post-formatter) |
 | 👨‍💻 **Techbase Code Coach** | A Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students, ending in a real project the student hosts themselves. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
+| 📝 **Exam &amp; Revision File Generator** | A Claude Project write-up for a tool that turns uploaded e-notes into a properly formatted exam paper with its own marking guide, or a self-study revision file, for any Nigerian secondary school term, subject and class. | [Visit →](https://babatundeawo.github.io/exam-revision-generator/) | [Code →](https://github.com/babatundeawo/exam-revision-generator) |
+| 🗒️ **Weekly Lesson Note Generator** | A Claude Project write-up for a tool that generates a complete weekly lesson-note booklet — objectives, presentation steps, evaluation and assignments for every period — from e-notes or a topic list alone. | [Visit →](https://babatundeawo.github.io/lesson-note-generator/) | [Code →](https://github.com/babatundeawo/lesson-note-generator) |
+| 💳 **School Fee Payment Portal** | A secure, private lookup system for parents to check a child's school-fee balance and itemised breakdown by unique family code — mobile-friendly, real-time, with no personal data stored on the server. | [Visit →](https://babatundeawo.github.io/school-fee-portal/) | [Code →](https://github.com/babatundeawo/school-fee-portal) |
 
 ### Techbase STEM Academy · [github.com/techbaseng](https://github.com/techbaseng)
 
