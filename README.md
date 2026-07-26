@@ -1,22 +1,49 @@
-[![Babatunde Ayoola Awoyemi profile banner](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF8A3D,50:FFC857,100:35D6C4&text=Babatunde%20Ayoola%20Awoyemi&fontColor=0D1B2E&fontSize=42&fontAlignY=36&desc=Atmospheric%20Physicist%20%E2%80%A2%20STEM%20Educator%20%E2%80%A2%20EdTech%20Consultant%20%E2%80%A2%20Climate%20Researcher&descSize=16&descAlignY=58&animation=fadeIn)](https://babatundeawo.github.io/)
+[![Babatunde Ayoola Awoyemi profile banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0F766E,70:2563EB,100:7C3AED&text=Babatunde%20Ayoola%20Awoyemi&fontColor=FFFFFF&fontSize=44&fontAlignY=34&desc=Atmospheric%20Physicist%20%E2%80%A2%20STEM%20Educator%20%E2%80%A2%20EdTech%20Consultant%20%E2%80%A2%20Climate%20Researcher&descSize=17&descAlignY=56&animation=fadeIn)](https://github.com/babatundeawo)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=C2491A&center=true&vCenter=true&width=940&lines=Turning+satellite+data+into+solar+energy+insight;Teaching+Physics%2C+ICT%2C+Python%2C+Scratch+and+Robotics;Building+STEM+systems+for+African+learners)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=Turning+satellite+data+into+solar+energy+insight;Teaching+Physics%2C+Mathematics%2C+ICT%2C+Python%2C+Scratch+and+Robotics;Building+STEM+systems+for+African+learners+and+climate+resilience;Creating+interactive+Scratch+projects+and+future-ready+learning+pathways)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babatundeawoyemi91@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ba-awoyemi/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348126909498) [![X / Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ba_awoyemi) [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ba_awoyemi/) [![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@ba_awoyemi) [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ba.awoyemi) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF8A3D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://babatundeawo.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babatundeawoyemi91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ba-awoyemi/)
+[![X / Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ba_awoyemi)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ba_awoyemi/)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ba.awoyemi)
+[![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@ba_awoyemi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348126909498)
+[![Scratch](https://img.shields.io/badge/Scratch-DeCreed-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/DeCreed/)
+[![GitHub portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://babatundeawo.github.io/)
 
-[![Profile views](https://komarev.com/ghpvc/?username=babatundeawo&style=for-the-badge&label=Profile+Views&color=35D6C4)](https://komarev.com/ghpvc/?username=babatundeawo) [![Focus](https://img.shields.io/badge/Focus-Climate%20Science%20%2B%20STEM%20Education-FF8A3D?style=for-the-badge)](https://babatundeawo.github.io/) [![Open to](https://img.shields.io/badge/Open%20to-Research%20%2B%20STEM%20Partnerships-A08CFF?style=for-the-badge)](mailto:babatundeawoyemi91@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=babatundeawo&style=for-the-badge&label=Profile+Views&color=2563EB)](https://github.com/babatundeawo)
+[![Base: Nigeria](https://img.shields.io/badge/Base-Nigeria-10B981?style=for-the-badge)]()
+[![Focus: Climate Science + STEM Education](https://img.shields.io/badge/Focus-Climate%20Science%20%2B%20STEM%20Education-7C3AED?style=for-the-badge)]()
+[![Open to research and STEM partnerships](https://img.shields.io/badge/Open%20to-Research%20%2B%20STEM%20Partnerships-F59E0B?style=for-the-badge)]()
 
 ---
 
-## 👋 Hello — I'm Babatunde
+## 👋 Hello — I am Babatunde
 
-I'm a Nigerian **atmospheric physicist**, **STEM educator**, **EdTech consultant**, and **coding & robotics trainer**, based in Ibadan. My story blends curiosity and service: early hands-on exploration with radios and televisions sparked a lasting drive to understand how systems work — a drive I now point at solar radiation, climate data, and helping learners move from technology *awareness* to technology *creation*.
+**Babatunde Ayoola Awoyemi** is a Nigerian **Atmospheric Physicist**, **STEM Educator**, **EdTech Consultant**, **coding and robotics trainer**, and **climate-energy researcher** from Ibadan, Oyo State.
 
-🌍 **Climate** — solar radiation, atmospheric modelling, remote sensing, renewable energy assessment.
-🎓 **Teaching** — Physics, Mathematics, ICT, learner-centred pedagogy, visual scientific explanation.
-🤖 **EdTech** — Python, Scratch, robotics, coding clubs, curriculum design, STEM programme delivery.
+My story blends curiosity, discipline and service: early hands-on exploration with radios and televisions sparked a lasting desire to understand how systems work. Today, that same exploratory spirit drives my mission to help learners, schools and research teams move from **technology awareness** to **technology creation**.
 
-**Jump to:** [Snapshot](#-snapshot) · [Education](#-education) · [Research](#-research--publications) · [Experience](#-experience) · [Skills](#-technical-skills) · [Recognition](#-certifications--recognition) · [Projects](#-projects--live-builds) · [Interests](#-personal-interests--philosophy) · [Analytics](#-github-analytics) · [Connect](#-connect)
+| 🌍 Climate | 🎓 Teaching | 🤖 EdTech | 🧠 Research |
+|---|---|---|---|
+| Solar radiation, atmospheric modelling, remote sensing and renewable energy assessment. | Physics, Mathematics, ICT, learner-centered pedagogy and visual scientific explanation. | Python, Scratch, robotics, coding clubs, curriculum design and STEM program delivery. | Satellite datasets, all-sky irradiance, Weibull wind modelling and tropical climate systems. |
+
+---
+
+## 🧭 Explore This Profile
+
+- [Snapshot](#-snapshot)
+- [Life, Values & Origin Story](#-life-values--origin-story)
+- [Education Timeline](#-education-timeline)
+- [Research Portfolio & Publications](#-research-portfolio--publications)
+- [Professional Experience](#-professional-experience)
+- [Certifications, Programs & Recognition](#-certifications-programs--recognition)
+- [Technical Skills](#-technical-skills)
+- [Personal Interests & Philosophy](#-personal-interests--philosophy)
+- [Collaboration Opportunities](#-collaboration-opportunities)
+- [GitHub Analytics](#-github-analytics)
+- [Connect](#-connect)
 
 ---
 
@@ -24,133 +51,310 @@ I'm a Nigerian **atmospheric physicist**, **STEM educator**, **EdTech consultant
 
 ```yaml
 name: Babatunde Ayoola Awoyemi
+born: 17 September 1991, Ibadan, Oyo State, Nigeria
+current_base: Nigeria
 identity:
-  - Atmospheric Physicist & Climate / Renewable Energy Researcher
-  - STEM Educator & EdTech Consultant
+  - Atmospheric Physicist
+  - STEM Educator
+  - EdTech Consultant
+  - Climate and Renewable Energy Researcher
   - Coding, Robotics and ICT Trainer
   - AI Prompt Engineering and Practical AI Usage Advocate
 current_roles:
-  - STEM Teacher, Oyo State TESCOM — Ilado/Sagbo Community Secondary School, Iseyin
-  - Lead Consultant, Techbase Consulting Services
+  - STEM Teacher, Oyo State TESCOM, Ilado/Sagbo Community Secondary School, Iseyin
   - Lead Consultant, Knowledge Base International Schools, Apapa, Moniya, Ibadan
+  - Lead Consultant, Techbase Consulting Services
   - Programs Associate, STEM for Development
 academic_path:
-  - B.Sc. Physics, University of Ibadan
+  - B.Sc. Physics, University of Ibadan, 2014
   - M.Sc. Physics / Atmospheric Physics, University of Ibadan
-  - Secondary Physics teacher-training pathway (in progress)
-core_mission: "Serve society through STEM education, climate research, and practical technology empowerment."
+  - Secondary Physics educational pursuit
+research_focus:
+  - Advanced solar radiation modelling across tropical regions
+  - Satellite-derived direct irradiance under all-sky conditions
+  - Wind speed distribution and wind energy potential in Nigeria
+  - Climate dynamics, remote sensing and energy-environment systems
+teaching_stack:
+  - Physics
+  - Mathematics
+  - ICT
+  - Python
+  - Scratch
+  - Web development
+  - Robotics
+  - AI prompt engineering
+  - Practical AI usage
+core_mission: "Serve society through STEM education, climate research and practical technology empowerment."
 ```
 
 ---
 
-## 🎓 Education
+## 🌱 Life, Values & Origin Story
 
-| Stage | Institution | Highlights |
-| --- | --- | --- |
-| **B.Sc. Physics** | University of Ibadan | Turned an early dislike of secondary-school Physics into university-level strength. |
-| **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Solar irradiance estimation and atmospheric datasets. Published 2020. |
-| **Secondary Physics Teacher Training** | Professional pathway, in progress | Strengthening pedagogy and classroom practice for secondary Physics. |
+| 🏡 Background | 🔧 Early Curiosity |
+|---|---|
+| Born on **17 September 1991** in **Ibadan, Oyo State, Nigeria**. Shaped by values of discipline, calmness, simplicity and service. Draws on personal experience to teach with empathy, clarity and practical relevance. | Explored the inner workings of transistor radios and televisions from childhood. Built a self-directed learning habit through trial, error and experimentation. Carried early technical curiosity into climate modelling, coding education and robotics training. Embraces the creative range of a scientific **"jack of all trades"**. |
 
----
-
-## 🔬 Research & Publications
-
-| Theme | Methods & Tools | Output |
-| --- | --- | --- |
-| ☀️ Solar dynamics | Solar structure & variability analysis | ICRERA-prepared manuscript |
-| 🌤️ All-sky direct irradiance | Satellite datasets, cloud transmittance | *Bulletin of the Science Association of Nigeria* (2020) |
-| 🌬️ Wind-energy potential | Weibull distribution, statistical analysis | *Journal of Science and Technology* (2022) |
-| 🛰️ Tropical solar radiation modelling | Satellite data 2000–2025, climate dynamics | PhD proposal direction |
-
-Full write-ups for each of these, including methods and findings, are on the [portfolio site →](https://babatundeawo.github.io/research.html)
+> I believe science becomes most powerful when it leaves the textbook, enters the classroom, informs policy, strengthens communities and gives learners the courage to build.
 
 ---
 
-## 💼 Experience
+## 🎓 Education Timeline
 
-| Role | Organisation | Period |
-| --- | --- | --- |
-| STEM Teacher | Oyo State TESCOM | Jan 2025 — Present |
-| Lead Consultant | [Techbase Consulting Services](https://techbasengr.com.ng) | Jan 2022 — Present |
-| Lead Consultant | [Knowledge Base International Schools](https://kbischools.com.ng) | Jan 2022 — Present |
-| Head of Training & Programs | Techbridge Consulting Limited | 2017 — 2022 |
-| Physics & ICT Instructor | Federal Government NTeach Programme | 2016 — 2019 |
-| Data Analyst | International Institute of Tropical Agriculture (IITA) | 2015 — 2016 |
-| Teacher & RCCF President | NYSC, Akwa Ibom State | 2014 — 2015 |
-
-Across these roles: secondary Physics/Maths/ICT teaching, STEM and EdTech consultancy for schools, robotics and coding curriculum leadership, and climate-data analysis with SPSS for agricultural resilience in West Africa.
+| Stage | Institution | Years / Date | Highlights |
+| --- | --- | --- | --- |
+| **Primary Education** | Ronk New Age Nursery and Primary School, Akobo, Ibadan | 1994–2002 | Built early habits of diligence, sportsmanship and academic curiosity. |
+| **Secondary Education** | Federal Government College, Ogbomoso | 2002–2008 | Boarding-school formation; learned resilience and survival strategies; earned the nickname **"Tunspiderman"** after dramatizing the *Spider-Man* trilogy for peers. |
+| **B.Sc. Physics** | University of Ibadan | 2009–2014 | Transformed an earlier dislike for Physics into university-level strength. |
+| **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | Focused on solar irradiance estimation and atmospheric datasets. |
+| **Educational Pursuit** | Secondary Physics teacher-training pathway | Professional development | Strengthening pedagogy and classroom practice for secondary Physics education. |
 
 ---
 
-## 🏆 Certifications & Recognition
+## 🔬 Research Portfolio & Publications
 
-| Area | Credential | When |
+| Research Theme | Methods & Tools | Output / Status |
 | --- | --- | --- |
-| Leadership | YALI RLC West Africa Leadership Certification | 2024/2025 |
-| Leadership | STEM for Development — Programs Associate | Selected Feb 2026 |
-| Leadership | LEAP Africa volunteer certification (SDG-focused projects) | Aug 2021 |
-| Design thinking | Australian Computing Academy — Space Invaders w/ Blockly | — |
-| Design thinking | Cartedo — COVID-19 Response | — |
-| Design thinking | Unilever Level-Up 2.0 — Business Perspective | Jan 2025 |
-| Web & ICT | Coursera / University of Michigan — WordPress & HTML5 | Feb 2021 |
-| Web & ICT | SoloLearn — HTML, CSS, coding foundations | 2020 — 2024 |
-| Web & ICT | LinkedIn Learning — Graphic Design · Hour of Code | Aug 2021 |
-| Recognition | RCCG Merit Award — Most Outstanding Worker | 2013/2014 |
-| Recognition | Healing Lives Initiative — appreciation, Rise Conference 1.0 | Jul 2024 |
+| ☀️ Solar dynamics | Solar structure, variability analysis, space-weather context | ICRERA-prepared manuscript under review |
+| 🌤️ All-sky direct irradiance | Satellite datasets, cloud transmittance, atmospheric parameters | Published in *Bulletin of the Science Association of Nigeria* (2020) |
+| 🌬️ Wind energy potential | Weibull distribution, statistical wind-speed analysis | Published in *Journal of Science and Technology* (2022) |
+| 🛰️ Tropical solar radiation modelling | Satellite data from 2000–2025, climate dynamics, advanced modelling | PhD proposal direction |
+
+### ☀️ Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability
+
+**Undergraduate Project · University of Ibadan**
+**Publication Status:** Prepared for / under review by the **International Conference on Renewable Energy Research and Applications (ICRERA)**.
+
+- Explored solar structure, variability and the wider implications of solar dynamics.
+- Built an early research foundation in physics-based modelling and renewable-energy relevance.
+- Strengthened interest in climate-energy systems and scientific communication.
+
+### 🌤️ Parametric Estimation of Direct Irradiance under All-Sky Conditions from Publicly Available Satellite Datasets
+
+**M.Sc. Project · University of Ibadan · Published 2020**
+**Publication:** *Bulletin of the Science Association of Nigeria*.
+
+- Developed a practical approach for estimating direct irradiance under all-sky atmospheric conditions.
+- Used publicly available satellite datasets to address limited ground-measurement coverage.
+- Contributed to solar-resource assessment for data-scarce tropical and developing regions.
+- Connected atmospheric physics with renewable energy planning and climate-informed decision-making.
+
+### 🌬️ Statistical Analysis of Wind Speed Distribution and Wind Energy Potential in Nigeria Using the Weibull Distribution Model
+
+**Wind Energy Research · Published 2022**
+**Publication:** *Journal of Science and Technology*; further prepared for the *International Journal of Energy and Environmental Engineering*.
+
+- Modelled wind-speed distributions using Weibull-based statistical methods.
+- Assessed wind-energy potential across Nigerian contexts.
+- Supported renewable energy feasibility analysis using data-driven atmospheric insight.
+
+### 🧪 PhD Research Direction
+
+**Advanced Solar Radiation Modelling Across Tropical Regions Using Satellite Data (2000–2025)**
+
+- Proposed doctoral research on solar radiation modelling in tropical environments.
+- Focuses on satellite-derived atmospheric variables, radiative transfer, climate dynamics and validation workflows.
+- Designed to support advanced climate-dynamics research, tropical solar-resource assessment and satellite-data validation.
+- Long-term goal: produce decision-ready solar-energy and climate-risk insights for data-scarce regions.
+
+---
+
+## 💼 Professional Experience
+
+### 🏫 Oyo State Post Primary Teaching Service Commission — STEM Teacher
+
+**January 2025 – Present · Ilado/Sagbo Community Secondary School, Iseyin**
+
+- Teach **Physics, Mathematics and ICT** at the secondary-school level.
+- Translate scientific concepts into practical explanations, visual demonstrations and learner-centered activities.
+- Support students with STEM confidence, problem-solving habits and digital-literacy foundations.
+
+### 🧭 [Knowledge Base International Schools](https://kbischools.com.ng) — Lead Consultant
+
+**January 2022 – Present · Apapa, Moniya, Ibadan**
+
+- Serve as lead consultant for STEM, ICT, coding and robotics learning pathways.
+- Support school leadership with technology-enabled learning strategy, teacher guidance and student project development.
+- Help learners build confidence through practical, project-based digital-skills experiences.
+
+### 🧭 [Techbase Consulting Services](https://techbasengr.com.ng) — Lead Consultant
+
+**January 2022 – Present · Registered STEM Education & Consultancy Business**
+
+- Lead a consultancy focused on STEM education, coding, robotics, school support and technology-enabled learning.
+- Design learning experiences in **Python, Scratch, HTML, CSS, JavaScript, robotics and physical computing**.
+- Provide schools with STEM program strategy, curriculum development, teacher support and learner project pathways.
+
+### 🚀 Techbridge Consulting Limited — Head of Training and Programs
+
+**2017–2022**
+
+- Directed robotics, coding and digital-skills programs for learners and institutions.
+- Developed curricula for **Python, Scratch and web development**.
+- Led training systems that strengthened company growth, learner reach and program delivery outcomes.
+- Built program structures connecting creativity, computation and measurable learning outcomes.
+
+### 🇳🇬 Federal Government NTeach Programme — Physics & ICT Instructor
+
+**2016–2019**
+
+- Delivered secondary-level Physics and ICT instruction through the Federal Government's NTeach initiative.
+- Supported learners with structured explanations, classroom technology and practical science engagement.
+
+### 📊 International Institute of Tropical Agriculture — Data Analyst
+
+**2015–2016**
+
+- Analysed agricultural and climate-related datasets using **SPSS**.
+- Supported reports connected to climate resilience and agricultural development in West Africa.
+- Strengthened applied data-analysis experience in development, food systems and climate contexts.
+
+### 🎖️ National Youth Service Corps — Teacher & Fellowship President
+
+**2014–2015 · Akwa Ibom State**
+
+- Awarded a certificate of recognition for exemplary work.
+- Served as **President of the Redeemed Christian Corpers' Fellowship (RCCF)** in Ikot-Ekpene.
+- Managed housing coordination, interpersonal conflict resolution and service leadership for fellow corps members.
+
+---
+
+## 🏆 Certifications, Programs & Recognition
+
+**🧑‍💼 Leadership & Impact**
+- **STEM for Development** — selected as Programs Associate.
+- **YALI RLC West Africa** Leadership Certification — 2024/2025.
+- **LEAP Africa** volunteer certification for SDG-focused community projects, August 2021.
+- **Healing Lives Initiative** certificate of appreciation for supporting Rise Conference 1.0, July 2024.
+
+**💡 Design Thinking**
+- **Australian Computing Academy** — Certificate of Mastery, DT Mini Challenge: Space Invaders with Blockly.
+- **Cartedo** — Design Thinking Certification: COVID-19 Response.
+- **Unilever Level-Up 2.0** — Design Thinking from a Business Perspective, January 2025.
+
+**🌐 Web, ICT & Creative Technology**
+- **Coursera** — Build a Full Website using WordPress, February 2021.
+- **Coursera / University of Michigan** — Introduction to HTML5, February 2021.
+- **SoloLearn** — HTML, CSS, Coding Foundations and Tech for Everyone, 2020–2024.
+- **LinkedIn Learning** — What is Graphic Design?, August 2021.
+- **Hour of Code** — Certificate of Completion.
+
+**🎖️ Awards & Recognition**
+- **RCCG Merit Award** — Most Outstanding Worker, Greatness Pinnacle Youth Church, 2013–2014.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Scientific computing, climate & data**
+### Scientific Computing, Climate & Data
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() [![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)]() [![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)]() [![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-35D6C4?style=for-the-badge)]() [![Atmospheric Modelling](https://img.shields.io/badge/Atmospheric%20Modelling-FF8A3D?style=for-the-badge)]() [![Climate Modelling](https://img.shields.io/badge/Climate%20Modelling-0891B2?style=for-the-badge)]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-0EA5E9?style=for-the-badge&logo=earth&logoColor=white)
+![Atmospheric Modelling](https://img.shields.io/badge/Atmospheric%20Modelling-2563EB?style=for-the-badge)
+![Climate Modelling](https://img.shields.io/badge/Climate%20Modelling-0891B2?style=for-the-badge)
 
-**Web, coding, robotics & teaching**
+### Web, Coding & Digital Learning
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)]() [![Robotics](https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=robotframework&logoColor=white)]() [![AI Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-A08CFF?style=for-the-badge&logo=openai&logoColor=white)]() [![Curriculum Design](https://img.shields.io/badge/Curriculum%20Design-FFC857?style=for-the-badge&logoColor=black)]()
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![ICT Training](https://img.shields.io/badge/ICT%20Training-111827?style=for-the-badge)
+![AI Prompt Engineering](https://img.shields.io/badge/AI%20Prompt%20Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=white)
+![Practical AI Usage](https://img.shields.io/badge/Practical%20AI%20Usage-2563EB?style=for-the-badge)
+
+### Robotics, Program Design & Teaching
+
+![Robotics](https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=robotframework&logoColor=white)
+![Curriculum Design](https://img.shields.io/badge/Curriculum%20Design-7C3AED?style=for-the-badge)
+![STEM Education](https://img.shields.io/badge/STEM%20Education-10B981?style=for-the-badge)
+![Teacher Training](https://img.shields.io/badge/Teacher%20Training-F59E0B?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EC4899?style=for-the-badge)
+
+```mermaid
+mindmap
+  root((Babatunde))
+    Climate Research
+      Solar radiation modelling
+      Satellite datasets
+      Atmospheric physics
+      Wind energy analysis
+    STEM Education
+      Physics
+      Mathematics
+      ICT
+      Visual teaching
+    EdTech Delivery
+      Python
+      Scratch
+      Web development
+      Robotics
+      AI prompt engineering
+      Practical AI usage
+    Leadership
+      TESCOM teaching
+      Knowledge Base consulting
+      Techbase consulting
+      AI-enabled learning strategy
+      Programs associate
+      Fellowship service
+```
 
 ---
 
 ## 🎮 Personal Interests & Philosophy
 
-🎮 **Simulation gaming** — *Euro Truck Simulator* and *Need for Speed*, where systems thinking and strategy meet entertainment.
-📸 **Travel & photography** — observing people, places, and environmental realities up close.
-⚽ **Football & debate** — thoughtful arguments grounded in scientific documentaries and curiosity.
+**🎮 Games & Simulation** — I enjoy simulation and racing experiences such as **Euro Truck Simulator** and **Need for Speed**, where systems thinking, navigation and strategy meet entertainment.
 
-> I believe good governance is essential to freeing Africa from tyranny and unlocking human potential. I'm a deep thinker who prefers purposeful simplicity over noise, and I learned programming largely through self-directed trial and error — a journey that cost me two damaged laptops along the way.
+**📸 Travel & Photography** — I value photography and travelling as ways to observe people, places, landscapes, infrastructure and environmental realities.
+
+**⚽ Football & Debate** — I enjoy football and thoughtful arguments grounded in scientific documentaries, evidence and curiosity.
+
+- I believe good governance is essential to freeing Africa from tyranny and unlocking human potential.
+- I support civic consciousness, including the spirit of the **#ENDSARS** movement.
+- I describe myself as a deep thinker who prefers purposeful simplicity over noise.
+- I learned programming largely through self-directed trial and error — an expensive journey that even cost me two damaged laptops.
 
 ---
 
 ## 🤝 Collaboration Opportunities
 
+I am open to research support, speaking engagements, STEM partnerships, school programs, curriculum collaborations and community-impact projects.
+
 | 🌍 Climate, Solar & Energy Research | 🎓 STEM, Coding & Robotics Education |
-| --- | --- |
-| Solar radiation and direct-irradiance modelling | Physics, Mathematics and ICT intervention programmes |
-| Remote-sensing workflows for data-scarce regions | Scratch, Python, HTML/CSS and JavaScript curricula |
-| Wind-energy potential studies | AI prompt engineering & practical AI for learning |
-| Climate dynamics, tropical atmospheric modelling | Robotics clubs, school STEM labs, teacher training |
+|---|---|
+| Solar radiation and direct irradiance modelling. Remote-sensing workflows for data-scarce regions. Wind-energy potential studies using statistical distributions. Climate dynamics and tropical atmospheric modelling. Research proposal development and literature synthesis. | Physics, Mathematics and ICT intervention programs. Scratch, Python, HTML/CSS and beginner JavaScript curricula. AI prompt engineering and responsible practical AI usage for learning workflows. Robotics clubs, school STEM labs and project showcases. Teacher training and institutional STEM strategy. Digital-skills bootcamps for learners and communities. |
 
 ---
 
 ## 📊 GitHub Analytics
 
-[![Babatunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=babatundeawo&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=C2491A&text_color=0D1B2E&icon_color=0B7D72)](https://github.com/babatundeawo) [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babatundeawo&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C2491A&text_color=0D1B2E)](https://github.com/babatundeawo)
+[![Babatunde's GitHub stats](https://github-stats-extended.vercel.app/api?username=babatundeawo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true)](https://github.com/babatundeawo/babatundeawo)
+[![Babatunde's top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=babatundeawo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/babatundeawo/babatundeawo)
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=babatundeawo&hide_border=true&background=FFFFFF&ring=FF8A3D&fire=C2491A&currStreakLabel=0D1B2E&sideLabels=0D1B2E&dates=677791)](https://github.com/babatundeawo)
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=babatundeawo&theme=tokyonight&hide_border=true)](https://github.com/babatundeawo/babatundeawo)
+
+![Profile activity graph](https://github-readme-activity-graph.vercel.app/graph?username=babatundeawo&theme=tokyo-night&hide_border=true&area=true)
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=babatundeawo&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/babatundeawo/babatundeawo)
+
+[![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babatundeawo&theme=tokyonight)](https://github.com/babatundeawo/babatundeawo)
 
 ---
 
 ## 📌 Signature Value Proposition
 
-> I help students, schools and institutions turn scientific curiosity into practical capability — connecting **climate research**, **STEM education**, **coding**, **robotics**, and **good-governance-minded service** for a more informed, resilient society.
+> I help students, schools and institutions turn scientific curiosity into practical capability — connecting **climate research**, **STEM education**, **coding**, **robotics** and **good governance-minded service** for a more informed and resilient society.
 
 ```mermaid
 graph LR
   A[Satellite & Climate Data] --> B[Scientific Computing]
   B --> C[Solar + Wind Energy Insight]
   C --> D[Evidence-Based Decisions]
-  E[Physics + Maths Teaching] --> F[STEM Confidence]
+  E[Physics + Mathematics Teaching] --> F[STEM Confidence]
   F --> G[Future-Ready Learners]
   H[Coding + Robotics Curriculum] --> I[Technology Creation]
   I --> G
@@ -160,56 +364,11 @@ graph LR
 
 ---
 
-## 🚀 Projects &amp; Live Builds
-
-26 live, open-source builds across two GitHub accounts — my own tools and guides, plus the Techbase STEM
-Academy curriculum I lead and maintain at [github.com/techbaseng](https://github.com/techbaseng).
-
-### Personal projects &amp; tools
-
-| Project | What it is | Live | Repo |
-| --- | --- | --- | --- |
-| ✝️ **Deep Calls** | Long-form Christian apologetics essays — grace, sovereignty, spiritual warfare, church and culture — served from a custom Python static-site generator with a Bible-study aesthetic, live search, and scroll-reveal animation. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
-| 🧠 **PromptOS — AI Prompt Library** | 217 curated AI prompts across 11 categories, styled as a searchable, editable "dev tool" — one-click copy, mobile-first, fully offline. | [Visit →](https://babatundeawo.github.io/ai-prompt-library/) | [Code →](https://github.com/babatundeawo/ai-prompt-library) |
-| 🗂️ **Deploybase — AI Deployment Directory** | A registry of every deployed Claude Project I've built and run — what each does, who it serves, and how a session with it works. | [Visit →](https://babatundeawo.github.io/deploybase/) | [Code →](https://github.com/babatundeawo/deploybase) |
-| 🧑‍🏫 **Educator AI Toolkit** | A free, mobile-first reference site for Nigerian educators covering two Claude AI setups: an exam/marking-guide generator and a weekly lesson-note generator. | [Visit →](https://babatundeawo.github.io/educator-ai-toolkit/) | [Code →](https://github.com/babatundeawo/educator-ai-toolkit) |
-| 🌍 **Global Warming Explorer** | A 27-page interactive climate-science learning site — free-roam exploration, an 8-lesson guided course with worksheets and a certificate, live weather, and a GitHub-native classroom check-in dashboard. | [Visit →](https://babatundeawo.github.io/globalwarming/) | [Code →](https://github.com/babatundeawo/globalwarming) |
-| 👾 **Regex Form &amp; Secret Code Playground** | A gamified, child-friendly app that teaches Regular Expressions through a live regex sandbox and a real-time password-strength "secret code" checker. | [Visit →](https://babatundeawo.github.io/smart-form-validator/) | [Code →](https://github.com/babatundeawo/smart-form-validator) |
-| 🏫 **Student Report Card System** | A self-contained, browser-based student information and performance management system for recording grades and generating report cards — no server required. | [Visit →](https://babatundeawo.github.io/student-report-card/) | [Code →](https://github.com/babatundeawo/student-report-card) |
-| 📱 **AI Studio → Android Deployment Guide** | A 23-step interactive walkthrough for shipping a Google AI Studio app as an installable Android PWA via GitHub and Vercel. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
-| 🧾 **Personal AI Career Engine** | A free guide to building a CV and career documents using NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
-| 📊 **ClassPulse National** | A Claude Project write-up for an AI programming tutor guiding a student developer through building a national, multi-school classroom feedback platform for Nigeria. | [Visit →](https://babatundeawo.github.io/classpulse-national/) | [Code →](https://github.com/babatundeawo/classpulse-national) |
-| ✍️ **GitHub Lesson Writer** | A Claude Project write-up for a curriculum writer that turns source links into complete, beginner-safe HTML lessons grounded in Nigerian classrooms. | [Visit →](https://babatundeawo.github.io/github-lesson-writer/) | [Code →](https://github.com/babatundeawo/github-lesson-writer) |
-| 🛠️ **GitHub Portfolio Rebuild** | A Claude Project write-up for the project-manager instructions that keep two GitHub profiles consistently modernised, with one strict rule for how any project repo may link to any other. | [Visit →](https://babatundeawo.github.io/github-portfolio-rebuild/) | [Code →](https://github.com/babatundeawo/github-portfolio-rebuild) |
-| ✝️ **Nigerian Christian Apologist** | A Claude Project write-up for the voice engine behind Deep Calls — turning sermon notes, transcripts, and rough ideas into full, publishable apologetics essays. | [Visit →](https://babatundeawo.github.io/nigerian-christian-apologist/) | [Code →](https://github.com/babatundeawo/nigerian-christian-apologist) |
-| 📱 **Social Content Engine** | A Claude Project write-up for a daily social-media content generator that researches live themes and writes platform-native posts for two Nigerian brands, compiled into a Word document. | [Visit →](https://babatundeawo.github.io/social-content-engine/) | [Code →](https://github.com/babatundeawo/social-content-engine) |
-| 📰 **Substack Post Formatter** | A Claude Project write-up for a publishing assistant that turns a finished write-up into a complete, publish-ready Substack post package. | [Visit →](https://babatundeawo.github.io/substack-post-formatter/) | [Code →](https://github.com/babatundeawo/substack-post-formatter) |
-| 👨‍💻 **Techbase Code Coach** | A Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students, ending in a real project the student hosts themselves. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
-| 📝 **Exam &amp; Revision File Generator** | A Claude Project write-up for a tool that turns uploaded e-notes into a properly formatted exam paper with its own marking guide, or a self-study revision file, for any Nigerian secondary school term, subject and class. | [Visit →](https://babatundeawo.github.io/exam-revision-generator/) | [Code →](https://github.com/babatundeawo/exam-revision-generator) |
-| 🗒️ **Weekly Lesson Note Generator** | A Claude Project write-up for a tool that generates a complete weekly lesson-note booklet — objectives, presentation steps, evaluation and assignments for every period — from e-notes or a topic list alone. | [Visit →](https://babatundeawo.github.io/lesson-note-generator/) | [Code →](https://github.com/babatundeawo/lesson-note-generator) |
-| 💳 **School Fee Payment Portal** | A secure, private lookup system for parents to check a child's school-fee balance and itemised breakdown by unique family code — mobile-friendly, real-time, with no personal data stored on the server. | [Visit →](https://babatundeawo.github.io/school-fee-portal/) | [Code →](https://github.com/babatundeawo/school-fee-portal) |
-
-### Techbase STEM Academy · [github.com/techbaseng](https://github.com/techbaseng)
-
-| Project | What it is | Live | Repo |
-| --- | --- | --- | --- |
-| 🎓 **Techbase STEM Academy** | Hub for 235+ free lessons across six self-paced courses — no sign-up, no cost, no prerequisites. | [Visit →](https://techbaseng.github.io/) | [Code →](https://github.com/techbaseng/techbaseng.github.io) |
-| 🌐 HTML Fundamentals | 34 lessons · Beginner | [Visit →](https://techbaseng.github.io/techbase-html/) | [Code →](https://github.com/techbaseng/techbase-html) |
-| 🎨 CSS Styling | 73 lessons · Beginner → Advanced | [Visit →](https://techbaseng.github.io/techbase-css/) | [Code →](https://github.com/techbaseng/techbase-css) |
-| ⚡ JavaScript | 46 lessons · Intermediate | [Visit →](https://techbaseng.github.io/techbase-js/) | [Code →](https://github.com/techbaseng/techbase-js) |
-| 🐍 Python Programming | 45 lessons · Beginner → Advanced | [Visit →](https://techbaseng.github.io/techbase-python/) | [Code →](https://github.com/techbaseng/techbase-python) |
-| 🟠 Scratch Programming | 35 projects · Beginner | [Visit →](https://techbaseng.github.io/techbase-scratch/) | [Code →](https://github.com/techbaseng/techbase-scratch) |
-| 🤖 Robotics &amp; Arduino | 12 lessons · Intermediate | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
-
-Full write-ups, tech stacks, and screenshots for every project above are on the [portfolio site →](https://babatundeawo.github.io/projects.html)
-
----
-
 ## 📫 Connect
 
 | Channel | Link |
 | --- | --- |
-| 📧 Email | babatundeawoyemi91@gmail.com |
+| 📧 Email | <babatundeawoyemi91@gmail.com> |
 | 💬 WhatsApp | [+234 812 690 9498](https://wa.me/2348126909498) |
 | 💼 LinkedIn | [ba-awoyemi](https://www.linkedin.com/in/ba-awoyemi/) |
 | 🐦 X | [@ba_awoyemi](https://x.com/ba_awoyemi) |
@@ -217,12 +376,11 @@ Full write-ups, tech stacks, and screenshots for every project above are on the 
 | 🧵 Threads | [@ba_awoyemi](https://www.threads.com/@ba_awoyemi) |
 | 📘 Facebook | [ba.awoyemi](https://web.facebook.com/ba.awoyemi) |
 | 🧩 Scratch | [DeCreed](https://scratch.mit.edu/users/DeCreed/) |
-| 🧑‍💻 Portfolio | [babatundeawo.github.io](https://babatundeawo.github.io/) |
-| 🏢 Techbase org | [github.com/techbaseng](https://github.com/techbaseng) |
+| 🧑‍💻 GitHub Portfolio | [babatundeawo.github.io](https://babatundeawo.github.io/) |
 
 ---
 
-[![Footer wave](https://capsule-render.vercel.app/api?type=waving&height=130&color=0:35D6C4,50:FFC857,100:FF8A3D&section=footer)](https://babatundeawo.github.io/)
+[![Footer wave](https://capsule-render.vercel.app/api?type=waving&height=145&color=0:7C3AED,45:2563EB,100:020617&section=footer)](https://github.com/babatundeawo)
 
 **"What ultimately matters is not where you end up relative to others, but where you end up relative to yourself when you began."**
-Built around service, scientific curiosity, disciplined learning, and practical STEM impact.
+Built around service, scientific curiosity, disciplined learning and practical STEM impact.
