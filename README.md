@@ -328,6 +328,7 @@ I am open to research support, speaking engagements, STEM partnerships, school p
 ## 📊 GitHub Analytics
 
 [![Babatunde's GitHub stats](https://github-stats-extended.vercel.app/api?username=babatundeawo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true)](https://github.com/babatundeawo/babatundeawo)
+
 [![Babatunde's top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=babatundeawo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/babatundeawo/babatundeawo)
 
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=babatundeawo&theme=tokyonight&hide_border=true)](https://github.com/babatundeawo/babatundeawo)
