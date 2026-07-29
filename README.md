@@ -51,7 +51,7 @@ My story blends curiosity, discipline and service: early hands-on exploration wi
 
 ```yaml
 name: Babatunde Ayoola Awoyemi
-born: 17 September 1991, Ibadan, Oyo State, Nigeria
+birthplace: Ibadan, Oyo State, Nigeria
 current_base: Nigeria
 identity:
   - Atmospheric Physicist
@@ -68,7 +68,6 @@ current_roles:
 academic_path:
   - B.Sc. Physics, University of Ibadan, 2014
   - M.Sc. Physics / Atmospheric Physics, University of Ibadan
-  - Secondary Physics educational pursuit
 research_focus:
   - Advanced solar radiation modelling across tropical regions
   - Satellite-derived direct irradiance under all-sky conditions
@@ -93,7 +92,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 | 🏡 Background | 🔧 Early Curiosity |
 |---|---|
-| Born on **17 September 1991** in **Ibadan, Oyo State, Nigeria**. Shaped by values of discipline, calmness, simplicity and service. Draws on personal experience to teach with empathy, clarity and practical relevance. | Explored the inner workings of transistor radios and televisions from childhood. Built a self-directed learning habit through trial, error and experimentation. Carried early technical curiosity into climate modelling, coding education and robotics training. Embraces the creative range of a scientific **"jack of all trades"**. |
+| Born and raised in **Ibadan, Oyo State, Nigeria**. Shaped by values of discipline, calmness, simplicity and service. Draws on personal experience to teach with empathy, clarity and practical relevance. | Explored the inner workings of transistor radios and televisions from childhood. Built a self-directed learning habit through trial, error and experimentation. Carried early technical curiosity into climate modelling, coding education and robotics training. Embraces the creative range of a scientific **"jack of all trades"**. |
 
 > I believe science becomes most powerful when it leaves the textbook, enters the classroom, informs policy, strengthens communities and gives learners the courage to build.
 
@@ -107,7 +106,6 @@ core_mission: "Serve society through STEM education, climate research and practi
 | **Secondary Education** | Federal Government College, Ogbomoso | 2002–2008 | Boarding-school formation; learned resilience and survival strategies; earned the nickname **"Tunspiderman"** after dramatizing the *Spider-Man* trilogy for peers. |
 | **B.Sc. Physics** | University of Ibadan | 2009–2014 | Transformed an earlier dislike for Physics into university-level strength. |
 | **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | Focused on solar irradiance estimation and atmospheric datasets. |
-| **Educational Pursuit** | Secondary Physics teacher-training pathway | Professional development | Strengthening pedagogy and classroom practice for secondary Physics education. |
 
 ---
 
@@ -118,7 +116,6 @@ core_mission: "Serve society through STEM education, climate research and practi
 | ☀️ Solar dynamics | Solar structure, variability analysis, space-weather context | ICRERA-prepared manuscript under review |
 | 🌤️ All-sky direct irradiance | Satellite datasets, cloud transmittance, atmospheric parameters | Published in *Bulletin of the Science Association of Nigeria* (2020) |
 | 🌬️ Wind energy potential | Weibull distribution, statistical wind-speed analysis | Published in *Journal of Science and Technology* (2022) |
-| 🛰️ Tropical solar radiation modelling | Satellite data from 2000–2025, climate dynamics, advanced modelling | PhD proposal direction |
 
 ### ☀️ Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability
 
@@ -147,15 +144,6 @@ core_mission: "Serve society through STEM education, climate research and practi
 - Modelled wind-speed distributions using Weibull-based statistical methods.
 - Assessed wind-energy potential across Nigerian contexts.
 - Supported renewable energy feasibility analysis using data-driven atmospheric insight.
-
-### 🧪 PhD Research Direction
-
-**Advanced Solar Radiation Modelling Across Tropical Regions Using Satellite Data (2000–2025)**
-
-- Proposed doctoral research on solar radiation modelling in tropical environments.
-- Focuses on satellite-derived atmospheric variables, radiative transfer, climate dynamics and validation workflows.
-- Designed to support advanced climate-dynamics research, tropical solar-resource assessment and satellite-data validation.
-- Long-term goal: produce decision-ready solar-energy and climate-risk insights for data-scarce regions.
 
 ---
 
