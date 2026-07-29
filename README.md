@@ -51,7 +51,7 @@ My story blends curiosity, discipline and service: early hands-on exploration wi
 
 ```yaml
 name: Babatunde Ayoola Awoyemi
-born: 17 September, Ibadan, Oyo State, Nigeria
+born: 17 September 1991, Ibadan, Oyo State, Nigeria
 current_base: Nigeria
 identity:
   - Atmospheric Physicist
@@ -68,6 +68,7 @@ current_roles:
 academic_path:
   - B.Sc. Physics, University of Ibadan, 2014
   - M.Sc. Physics / Atmospheric Physics, University of Ibadan
+  - Secondary Physics educational pursuit
 research_focus:
   - Advanced solar radiation modelling across tropical regions
   - Satellite-derived direct irradiance under all-sky conditions
@@ -92,7 +93,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 | 🏡 Background | 🔧 Early Curiosity |
 |---|---|
-| Born in **Ibadan, Oyo State, Nigeria**. Shaped by values of discipline, calmness, simplicity and service. Draws on personal experience to teach with empathy, clarity and practical relevance. | Explored the inner workings of transistor radios and televisions from childhood. Built a self-directed learning habit through trial, error and experimentation. Carried early technical curiosity into climate modelling, coding education and robotics training. Embraces the creative range of a scientific **"jack of all trades"**. |
+| Born on **17 September 1991** in **Ibadan, Oyo State, Nigeria**. Shaped by values of discipline, calmness, simplicity and service. Draws on personal experience to teach with empathy, clarity and practical relevance. | Explored the inner workings of transistor radios and televisions from childhood. Built a self-directed learning habit through trial, error and experimentation. Carried early technical curiosity into climate modelling, coding education and robotics training. Embraces the creative range of a scientific **"jack of all trades"**. |
 
 > I believe science becomes most powerful when it leaves the textbook, enters the classroom, informs policy, strengthens communities and gives learners the courage to build.
 
@@ -106,6 +107,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 | **Secondary Education** | Federal Government College, Ogbomoso | 2002–2008 | Boarding-school formation; learned resilience and survival strategies; earned the nickname **"Tunspiderman"** after dramatizing the *Spider-Man* trilogy for peers. |
 | **B.Sc. Physics** | University of Ibadan | 2009–2014 | Transformed an earlier dislike for Physics into university-level strength. |
 | **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | Focused on solar irradiance estimation and atmospheric datasets. |
+| **Educational Pursuit** | Secondary Physics teacher-training pathway | Professional development | Strengthening pedagogy and classroom practice for secondary Physics education. |
 
 ---
 
@@ -116,7 +118,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 | ☀️ Solar dynamics | Solar structure, variability analysis, space-weather context | ICRERA-prepared manuscript under review |
 | 🌤️ All-sky direct irradiance | Satellite datasets, cloud transmittance, atmospheric parameters | Published in *Bulletin of the Science Association of Nigeria* (2020) |
 | 🌬️ Wind energy potential | Weibull distribution, statistical wind-speed analysis | Published in *Journal of Science and Technology* (2022) |
-| 🛰️ Tropical solar radiation modelling | Using satellite data, climate dynamics, advanced modelling | PhD proposal direction |
+| 🛰️ Tropical solar radiation modelling | Satellite data from 2000–2025, climate dynamics, advanced modelling | PhD proposal direction |
 
 ### ☀️ Investigating Solar Dynamics: Unveiling the Intricacies of Solar Structure and Variability
 
@@ -148,7 +150,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 ### 🧪 PhD Research Direction
 
-**Advanced Solar Radiation Modelling Across Tropical Regions Using Satellite Data**
+**Advanced Solar Radiation Modelling Across Tropical Regions Using Satellite Data (2000–2025)**
 
 - Proposed doctoral research on solar radiation modelling in tropical environments.
 - Focuses on satellite-derived atmospheric variables, radiative transfer, climate dynamics and validation workflows.
@@ -161,7 +163,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 ### 🏫 Oyo State Post Primary Teaching Service Commission — STEM Teacher
 
-**January 2025 – Present · Ibadan**
+**January 2025 – Present · Ilado/Sagbo Community Secondary School, Iseyin**
 
 - Teach **Physics, Mathematics and ICT** at the secondary-school level.
 - Translate scientific concepts into practical explanations, visual demonstrations and learner-centered activities.
@@ -169,7 +171,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 ### 🧭 [Knowledge Base International Schools](https://kbischools.com.ng) — Lead Consultant
 
-**January 2022 – Present · Ibadan**
+**January 2022 – Present · Apapa, Moniya, Ibadan**
 
 - Serve as lead consultant for STEM, ICT, coding and robotics learning pathways.
 - Support school leadership with technology-enabled learning strategy, teacher guidance and student project development.
@@ -226,16 +228,19 @@ core_mission: "Serve society through STEM education, climate research and practi
 - **Healing Lives Initiative** certificate of appreciation for supporting Rise Conference 1.0, July 2024.
 
 **💡 Design Thinking**
-- **Australian Computing Academy** — Certificate of Mastery.
+- **Australian Computing Academy** — Certificate of Mastery, DT Mini Challenge: Space Invaders with Blockly.
 - **Cartedo** — Design Thinking Certification: COVID-19 Response.
 - **Unilever Level-Up 2.0** — Design Thinking from a Business Perspective, January 2025.
 
 **🌐 Web, ICT & Creative Technology**
 - **Coursera** — Build a Full Website using WordPress, February 2021.
 - **Coursera / University of Michigan** — Introduction to HTML5, February 2021.
-- **SoloLearn** — HTML, CSS, JS Coding Foundations and Tech for Everyone, 2020–2024.
+- **SoloLearn** — HTML, CSS, Coding Foundations and Tech for Everyone, 2020–2024.
 - **LinkedIn Learning** — What is Graphic Design?, August 2021.
 - **Hour of Code** — Certificate of Completion.
+
+**🎖️ Awards & Recognition**
+- **RCCG Merit Award** — Most Outstanding Worker, Greatness Pinnacle Youth Church, 2013–2014.
 
 ---
 
@@ -309,7 +314,7 @@ mindmap
 **⚽ Football & Debate** — I enjoy football and thoughtful arguments grounded in scientific documentaries, evidence and curiosity.
 
 - I believe good governance is essential to freeing Africa from tyranny and unlocking human potential.
-- I support civic consciousness, including the spirit of the moral movement.
+- I support civic consciousness, including the spirit of the **#ENDSARS** movement.
 - I describe myself as a deep thinker who prefers purposeful simplicity over noise.
 - I learned programming largely through self-directed trial and error — an expensive journey that even cost me two damaged laptops.
 
