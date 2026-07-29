@@ -42,6 +42,7 @@ My story blends curiosity, discipline and service: early hands-on exploration wi
 - [Technical Skills](#-technical-skills)
 - [Personal Interests & Philosophy](#-personal-interests--philosophy)
 - [Collaboration Opportunities](#-collaboration-opportunities)
+- [Repository Directory](#-repository-directory)
 - [GitHub Analytics](#-github-analytics)
 - [Connect](#-connect)
 
@@ -315,6 +316,73 @@ I am open to research support, speaking engagements, STEM partnerships, school p
 | 🌍 Climate, Solar & Energy Research | 🎓 STEM, Coding & Robotics Education |
 |---|---|
 | Solar radiation and direct irradiance modelling. Remote-sensing workflows for data-scarce regions. Wind-energy potential studies using statistical distributions. Climate dynamics and tropical atmospheric modelling. Research proposal development and literature synthesis. | Physics, Mathematics and ICT intervention programs. Scratch, Python, HTML/CSS and beginner JavaScript curricula. AI prompt engineering and responsible practical AI usage for learning workflows. Robotics clubs, school STEM labs and project showcases. Teacher training and institutional STEM strategy. Digital-skills bootcamps for learners and communities. |
+
+## 🗂 Repository Directory
+
+Every public repository across my personal account and the three organisations I build under — grouped by
+account so it is clear what lives where. Profile repos (the special `.github` / username repos that render
+each account's About page) are listed separately at the end.
+
+### 👤 Personal — [github.com/babatundeawo](https://github.com/babatundeawo)
+
+| Project | What it is | Live | Code |
+| --- | --- | --- | --- |
+| 🧑‍💻 Portfolio site | This profile's full portfolio — about, education, research, experience, projects. | [Visit →](https://babatundeawo.github.io/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io) |
+| 🧠 PromptOS — AI Prompt Library | 217 curated AI prompts across 11 categories, searchable and editable, works offline. | [Visit →](https://babatundeawo.github.io/ai-prompt-library/) | [Code →](https://github.com/babatundeawo/ai-prompt-library) |
+| 🗂️ Deploybase — AI Deployment Directory | Registry of every deployed Claude Project built and run by Techbase / Babatunde Awoyemi. | [Visit →](https://babatundeawo.github.io/deploybase/) | [Code →](https://github.com/babatundeawo/deploybase) |
+| 🧑‍🏫 Educator AI Toolkit | Free reference site for Nigerian educators — exam/marking-guide and lesson-note AI generators. | [Visit →](https://babatundeawo.github.io/educator-ai-toolkit/) | [Code →](https://github.com/babatundeawo/educator-ai-toolkit) |
+| 🌍 Global Warming Explorer | 27-page interactive climate-science learning site with a guided course and classroom check-in dashboard. | [Visit →](https://babatundeawo.github.io/globalwarming/) | [Code →](https://github.com/babatundeawo/globalwarming) |
+| 📱 AI Studio → Android Deployment Guide | 23-step guide to shipping a Google AI Studio app as an installable Android PWA. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
+| 🧾 Personal AI Career Engine | Free guide to building CV & career documents with NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
+| ✝️ Deep Calls | Long-form Christian apologetics essays, served from a custom Python static-site generator. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
+| 💳 School Fee Payment Portal | Secure, private school-fee lookup portal for parents, by unique family code — no personal data stored server-side. | [Visit →](https://babatundeawo.github.io/school-fee-portal/) | [Code →](https://github.com/babatundeawo/school-fee-portal) |
+| 🎉 Bible Family Feud | Interactive Bible-themed Family Feud game show for church events — 37 rounds, live scoring, no install needed. | [Visit →](https://babatundeawo.github.io/bible-family-feud/) | [Code →](https://github.com/babatundeawo/bible-family-feud) |
+| 📊 ClassPulse National | Claude Project write-up for an AI tutor guiding a student developer through a national classroom feedback platform. | [Visit →](https://babatundeawo.github.io/classpulse-national/) | [Code →](https://github.com/babatundeawo/classpulse-national) |
+| ✍️ GitHub Lesson Writer | Claude Project write-up for a curriculum writer turning source links into beginner-safe HTML lessons. | [Visit →](https://babatundeawo.github.io/github-lesson-writer/) | [Code →](https://github.com/babatundeawo/github-lesson-writer) |
+| 🛠️ GitHub Portfolio Rebuild | Claude Project write-up for the instructions that keep two GitHub profiles consistently modernised. | [Visit →](https://babatundeawo.github.io/github-portfolio-rebuild/) | [Code →](https://github.com/babatundeawo/github-portfolio-rebuild) |
+| ✝️ Nigerian Christian Apologist | Claude Project write-up for the voice engine behind Deep Calls' apologetics essays. | [Visit →](https://babatundeawo.github.io/nigerian-christian-apologist/) | [Code →](https://github.com/babatundeawo/nigerian-christian-apologist) |
+| 📱 Social Content Engine | Claude Project write-up for a daily social-media content generator for two Nigerian brands. | [Visit →](https://babatundeawo.github.io/social-content-engine/) | [Code →](https://github.com/babatundeawo/social-content-engine) |
+| 📰 Substack Post Formatter | Claude Project write-up for turning a finished write-up into a publish-ready Substack post. | [Visit →](https://babatundeawo.github.io/substack-post-formatter/) | [Code →](https://github.com/babatundeawo/substack-post-formatter) |
+| 👨‍💻 Techbase Code Coach | Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
+| 📝 Exam & Revision File Generator | Claude Project write-up for turning e-notes into a formatted exam paper, marking guide, or revision file. | [Visit →](https://babatundeawo.github.io/exam-revision-generator/) | [Code →](https://github.com/babatundeawo/exam-revision-generator) |
+| 🗒️ Weekly Lesson Note Generator | Claude Project write-up for generating a full weekly lesson-note booklet from e-notes or a topic list. | [Visit →](https://babatundeawo.github.io/lesson-note-generator/) | [Code →](https://github.com/babatundeawo/lesson-note-generator) |
+
+### 🎓 Techbase Consultant Services — [github.com/techbaseng](https://github.com/techbaseng)
+
+| Repo | What it is | Live | Code |
+| --- | --- | --- | --- |
+| 🎓 Techbase STEM Academy (hub) | Course index & landing page for all six free courses. | [Visit →](https://techbaseng.github.io/) | [Code →](https://github.com/techbaseng/techbaseng.github.io) |
+| 🌐 HTML Fundamentals | Beginner course, 34 lessons. | [Visit →](https://techbaseng.github.io/techbase-html/) | [Code →](https://github.com/techbaseng/techbase-html) |
+| 🎨 CSS Styling | Beginner → Advanced course, 73 lessons. | [Visit →](https://techbaseng.github.io/techbase-css/) | [Code →](https://github.com/techbaseng/techbase-css) |
+| ⚡ JavaScript | Intermediate course, 46 lessons. | [Visit →](https://techbaseng.github.io/techbase-js/) | [Code →](https://github.com/techbaseng/techbase-js) |
+| 🐍 Python Programming | Beginner → Advanced course, 45 lessons. | [Visit →](https://techbaseng.github.io/techbase-python/) | [Code →](https://github.com/techbaseng/techbase-python) |
+| 🟠 Scratch Programming | Beginner course, 35 projects. | [Visit →](https://techbaseng.github.io/techbase-scratch/) | [Code →](https://github.com/techbaseng/techbase-scratch) |
+| 🤖 Robotics & Arduino | Intermediate course, 12 lessons. | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
+
+### 🏫 Knowledge Base International Schools — [github.com/kbischool](https://github.com/kbischool)
+
+| Repo | What it is | Live | Code |
+| --- | --- | --- | --- |
+| 🌐 School site | KBI's public GitHub Pages presence. | [Visit →](https://kbischool.github.io/) | [Code →](https://github.com/kbischool/kbischool.github.io) |
+
+### 🧪 babatundeawo-labs — [github.com/babatundeawo-labs](https://github.com/babatundeawo-labs)
+
+| Repo | What it is | Live | Code |
+| --- | --- | --- | --- |
+| 👾 Regex Form & Secret Code Playground | Gamified regex-teaching app for kids and students, with a live sandbox and password-strength checker. | [Visit →](https://babatundeawo.github.io/smart-form-validator/) | [Code →](https://github.com/babatundeawo-labs/smart-form-validator) |
+| 🏫 Student Report Card System | Self-contained, browser-based student information & performance management system for schools. | [Visit →](https://babatundeawo.github.io/student-report-card/) | [Code →](https://github.com/babatundeawo-labs/student-report-card) |
+| 🧮 Safe Calculator | Lightweight, browser-based calculator tool. | [Visit →](https://babatundeawo-labs.github.io/safe-calculator/) | [Code →](https://github.com/babatundeawo-labs/safe-calculator) |
+
+### 📇 Profile repos
+
+The special repos whose README renders each account's About page — not projects in themselves.
+
+| Account | Repo | Renders |
+| --- | --- | --- |
+| Personal | [babatundeawo/babatundeawo](https://github.com/babatundeawo/babatundeawo) | [github.com/babatundeawo](https://github.com/babatundeawo) |
+| Techbase Consultant Services | [techbaseng/.github](https://github.com/techbaseng/.github) | [github.com/techbaseng](https://github.com/techbaseng) |
+| Knowledge Base International Schools | [kbischool/.github](https://github.com/kbischool/.github) | [github.com/kbischool](https://github.com/kbischool) |
+| babatundeawo-labs | [babatundeawo-labs/.github](https://github.com/babatundeawo-labs/.github) | [github.com/babatundeawo-labs](https://github.com/babatundeawo-labs) |
 
 ---
 
