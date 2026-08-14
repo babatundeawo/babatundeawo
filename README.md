@@ -57,7 +57,7 @@ identity:
   - Coding, Robotics and ICT Trainer
   - AI Prompt Engineering and Practical AI Usage Advocate
 current_roles:
-  - STEM Teacher, Oyo State TESCOM, Ilado/Sagbo Community Secondary School, Iseyin
+  - Physics Instructor / STEM Educator, Oyo State TESCOM, Anglican Grammar School, Agbirigidi, Akinyele, Ibadan
   - Lead Consultant, Knowledge Base International Schools, Apapa, Moniya, Ibadan
   - Lead Consultant, Techbase Consulting Services
   - Programs Associate, STEM for Development
@@ -135,9 +135,9 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 ## 💼 Professional Experience
 
-### 🏫 Oyo State Post Primary Teaching Service Commission — STEM Teacher
+### 🏫 Oyo State Post Primary Teaching Service Commission — Physics Instructor / STEM Educator
 
-**January 2025 – Present · Ilado/Sagbo Community Secondary School, Iseyin**
+**January 2025 – Present · Anglican Grammar School, Agbirigidi, Akinyele, Ibadan**
 
 - Teach **Physics, Mathematics and ICT** at the secondary-school level.
 - Translate scientific concepts into practical explanations, visual demonstrations and learner-centered activities.
@@ -286,7 +286,7 @@ I am open to research support, speaking engagements, STEM partnerships, school p
 
 ## 🗂 Repository Directory
 
-Every public repository across my personal account and the three organisations I build under — grouped by
+Every public repository across my personal account and the two organisations I build under — grouped by
 account so it is clear what lives where. Profile repos (the special `.github` / username repos that render
 each account's About page) are listed separately at the end.
 
@@ -295,15 +295,18 @@ each account's About page) are listed separately at the end.
 | Project | What it is | Live | Code |
 | --- | --- | --- | --- |
 | 🧑‍💻 Portfolio site | This profile's full portfolio — about, education, research, experience, projects. | [Visit →](https://babatundeawo.github.io/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io) |
-| 🏫 Ilado-Sagbo CGS Records Dashboard | Multi-page administrative dashboard preloaded with real school enrollment, results, staff & handover records — built for a local presentation to education officials. | [Visit →](https://babatundeawo.github.io/ilado-school-dashboard/) | [Code →](https://github.com/babatundeawo/ilado-school-dashboard) |
+| 🌍 Global Warming Explorer | 27-page interactive climate-science learning site with a guided course and classroom check-in dashboard. | [Visit →](https://babatundeawo.github.io/globalwarming/) | [Code →](https://github.com/babatundeawo/globalwarming) |
 | 🧠 PromptOS — AI Prompt Library | 217 curated AI prompts across 11 categories, searchable and editable, works offline. | [Visit →](https://babatundeawo.github.io/ai-prompt-library/) | [Code →](https://github.com/babatundeawo/ai-prompt-library) |
 | 🗂️ Deploybase — AI Deployment Directory | Registry of every deployed Claude Project built and run by Techbase / Babatunde Awoyemi. | [Visit →](https://babatundeawo.github.io/deploybase/) | [Code →](https://github.com/babatundeawo/deploybase) |
 | 🧑‍🏫 Educator AI Toolkit | Free reference site for Nigerian educators — exam/marking-guide and lesson-note AI generators. | [Visit →](https://babatundeawo.github.io/educator-ai-toolkit/) | [Code →](https://github.com/babatundeawo/educator-ai-toolkit) |
-| 🌍 Global Warming Explorer | 27-page interactive climate-science learning site with a guided course and classroom check-in dashboard. | [Visit →](https://babatundeawo.github.io/globalwarming/) | [Code →](https://github.com/babatundeawo/globalwarming) |
+| 👾 Regex Form & Secret Code Playground | Gamified regex-teaching app for kids and students, with a live sandbox and password-strength checker. | [Visit →](https://babatundeawo.github.io/smart-form-validator/) | [Code →](https://github.com/babatundeawo/smart-form-validator) |
+| 🧮 Safe Calculator | Lightweight, browser-based calculator tool. | [Visit →](https://babatundeawo.github.io/safe-calculator/) | [Code →](https://github.com/babatundeawo/safe-calculator) |
 | 📱 AI Studio → Android Deployment Guide | 23-step guide to shipping a Google AI Studio app as an installable Android PWA. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
 | 🧾 Personal AI Career Engine | Free guide to building CV & career documents with NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
 | ✝️ Deep Calls | Long-form Christian apologetics essays, served from a custom Python static-site generator. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
 | 🎉 Bible Family Feud | Interactive Bible-themed Family Feud game show for church events — 37 rounds, live scoring, no install needed. | [Visit →](https://babatundeawo.github.io/bible-family-feud/) | [Code →](https://github.com/babatundeawo/bible-family-feud) |
+| 🔤 Akinyele Spelling Challenge | Fully responsive static microsite documenting the 2026 Akinyele Spelling Challenge — event details, schools, results. | [Visit →](https://babatundeawo.github.io/akinyele-spelling-challenge/) | [Code →](https://github.com/babatundeawo/akinyele-spelling-challenge) |
+| 💰 Millionaire Mindset | Personal-development app on wealth-building habits and mindset shifts — hosted on Replit rather than GitHub Pages. | [Visit →](https://replit.com/@ba-awoyemi/Millionaire-Mindset) | [Code →](https://github.com/babatundeawo/Millionaire-Mindset) |
 | 📊 ClassPulse National | Claude Project write-up for an AI tutor guiding a student developer through a national classroom feedback platform. | [Visit →](https://babatundeawo.github.io/classpulse-national/) | [Code →](https://github.com/babatundeawo/classpulse-national) |
 | ✍️ GitHub Lesson Writer | Claude Project write-up for a curriculum writer turning source links into beginner-safe HTML lessons. | [Visit →](https://babatundeawo.github.io/github-lesson-writer/) | [Code →](https://github.com/babatundeawo/github-lesson-writer) |
 | 🛠️ GitHub Portfolio Rebuild | Claude Project write-up for the instructions that keep two GitHub profiles consistently modernised. | [Visit →](https://babatundeawo.github.io/github-portfolio-rebuild/) | [Code →](https://github.com/babatundeawo/github-portfolio-rebuild) |
@@ -313,9 +316,8 @@ each account's About page) are listed separately at the end.
 | 👨‍💻 Techbase Code Coach | Claude Project write-up for a phase-by-phase coding tutor for young Techbase STEM Academy students. | [Visit →](https://babatundeawo.github.io/techbase-code-coach/) | [Code →](https://github.com/babatundeawo/techbase-code-coach) |
 | 📝 Exam & Revision File Generator | Claude Project write-up for turning e-notes into a formatted exam paper, marking guide, or revision file. | [Visit →](https://babatundeawo.github.io/exam-revision-generator/) | [Code →](https://github.com/babatundeawo/exam-revision-generator) |
 | 🗒️ Weekly Lesson Note Generator | Claude Project write-up for generating a full weekly lesson-note booklet from e-notes or a topic list. | [Visit →](https://babatundeawo.github.io/lesson-note-generator/) | [Code →](https://github.com/babatundeawo/lesson-note-generator) |
-
-| 🔤 Akinyele Spelling Challenge | Fully responsive static microsite documenting the 2026 Akinyele Spelling Challenge — event details, schools, results. | [Visit →](https://babatundeawo.github.io/akinyele-spelling-challenge/) | [Code →](https://github.com/babatundeawo/akinyele-spelling-challenge) |
-| 💰 Millionaire Mindset | Personal-development app on wealth-building habits and mindset shifts — hosted on Replit rather than GitHub Pages. | [Visit →](https://replit.com/@ba-awoyemi/Millionaire-Mindset) | [Code →](https://github.com/babatundeawo/Millionaire-Mindset) |
+| 🏫 Student Report Card System | Self-contained, browser-based student information & performance management system for schools. | [Visit →](https://babatundeawo.github.io/student-report-card/) | [Code →](https://github.com/babatundeawo/student-report-card) |
+| 🏫 Ilado-Sagbo CGS Records Dashboard | Multi-page administrative dashboard preloaded with real school enrollment, results, staff & handover records — built for a local presentation to education officials. | [Visit →](https://babatundeawo.github.io/ilado-school-dashboard/) | [Code →](https://github.com/babatundeawo/ilado-school-dashboard) |
 
 ### 🎓 Techbase Consultant Services — [github.com/techbaseng](https://github.com/techbaseng)
 
@@ -333,16 +335,8 @@ each account's About page) are listed separately at the end.
 
 | Repo | What it is | Live | Code |
 | --- | --- | --- | --- |
-| 🌐 School site | KBI's public GitHub Pages presence. | [Visit →](https://kbischool.github.io/) | [Code →](https://github.com/kbischool/kbischool.github.io) |
 | 💳 School Fee Payment Portal | Secure, private school-fee lookup portal for parents, by unique family code — no personal data stored client-side. | [Visit →](https://kbischool.github.io/school-fee-portal/) | [Code →](https://github.com/kbischool/school-fee-portal) |
-
-### 🧪 babatundeawo-labs — [github.com/babatundeawo-labs](https://github.com/babatundeawo-labs)
-
-| Repo | What it is | Live | Code |
-| --- | --- | --- | --- |
-| 👾 Regex Form & Secret Code Playground | Gamified regex-teaching app for kids and students, with a live sandbox and password-strength checker. | [Visit →](https://babatundeawo-labs.github.io/smart-form-validator/) | [Code →](https://github.com/babatundeawo-labs/smart-form-validator) |
-| 🏫 Student Report Card System | Self-contained, browser-based student information & performance management system for schools. | [Visit →](https://babatundeawo-labs.github.io/student-report-card/) | [Code →](https://github.com/babatundeawo-labs/student-report-card) |
-| 🧮 Safe Calculator | Lightweight, browser-based calculator tool. | [Visit →](https://babatundeawo-labs.github.io/safe-calculator/) | [Code →](https://github.com/babatundeawo-labs/safe-calculator) |
+| 🧾 KBIS Records | Mobile-first, installable student records & billing app — browse enrollment, terms and itemised account breakdowns, built from the school's fee workbooks. | [Visit →](https://kbischool.github.io/kbis-records/) | [Code →](https://github.com/kbischool/kbis-records) |
 
 ### 📇 Profile repos
 
@@ -353,7 +347,6 @@ The special repos whose README renders each account's About page — not project
 | Personal | [babatundeawo/babatundeawo](https://github.com/babatundeawo/babatundeawo) | [github.com/babatundeawo](https://github.com/babatundeawo) |
 | Techbase Consultant Services | [techbaseng/.github](https://github.com/techbaseng/.github) | [github.com/techbaseng](https://github.com/techbaseng) |
 | Knowledge Base International Schools | [kbischool/.github](https://github.com/kbischool/.github) | [github.com/kbischool](https://github.com/kbischool) |
-| babatundeawo-labs | [babatundeawo-labs/.github](https://github.com/babatundeawo-labs/.github) | [github.com/babatundeawo-labs](https://github.com/babatundeawo-labs) |
 
 ---
 
