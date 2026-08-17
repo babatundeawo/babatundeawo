@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babatundeawo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ba-awoyemi/)
 [![X / Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ba_awoyemi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347032129074)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348126909498)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ba.awoyemi)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ba_awoyemi/)
 [![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@ba_awoyemi)
@@ -388,7 +388,7 @@ graph LR
 | 🧑‍💻 GitHub | [babatundeawo](https://github.com/babatundeawo) |
 | 💼 LinkedIn | [ba-awoyemi](https://www.linkedin.com/in/ba-awoyemi/) |
 | 🐦 X | [@ba_awoyemi](https://x.com/ba_awoyemi) |
-| 💬 WhatsApp | [+234 703 212 9074](https://wa.me/2347032129074) |
+| 💬 WhatsApp | [+234 703 212 9074](https://wa.me/2348126909498) |
 | 📘 Facebook | [ba.awoyemi](https://web.facebook.com/ba.awoyemi) |
 | 📸 Instagram | [@ba_awoyemi](https://www.instagram.com/ba_awoyemi/) |
 | 🧵 Threads | [@ba_awoyemi](https://www.threads.net/@ba_awoyemi) |
