@@ -3,11 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=Turning+satellite+data+into+solar+energy+insight;Teaching+Physics%2C+Mathematics%2C+ICT%2C+Python%2C+Scratch+and+Robotics;Building+STEM+systems+for+African+learners+and+climate+resilience;Creating+interactive+Scratch+projects+and+future-ready+learning+pathways)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babatundeawoyemi91@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babatundeawo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ba-awoyemi/)
 [![X / Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ba_awoyemi)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techbasengr)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348126909498)
-[![Scratch](https://img.shields.io/badge/Scratch-DeCreed-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/DeCreed/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347032129074)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ba.awoyemi)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ba_awoyemi/)
+[![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@ba_awoyemi)
 [![GitHub portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://babatundeawo.github.io/)
 
 [![Profile views](https://komarev.com/ghpvc/?username=babatundeawo&style=for-the-badge&label=Profile+Views&color=2563EB)](https://github.com/babatundeawo)
@@ -225,12 +227,16 @@ core_mission: "Serve society through STEM education, climate research and practi
 ![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-0EA5E9?style=for-the-badge&logo=earth&logoColor=white)
 ![Atmospheric Modelling](https://img.shields.io/badge/Atmospheric%20Modelling-2563EB?style=for-the-badge)
 ![Climate Modelling](https://img.shields.io/badge/Climate%20Modelling-0891B2?style=for-the-badge)
+![Wind Energy Statistics](https://img.shields.io/badge/Wind%20Energy%20Statistics%20(Weibull)-0369A1?style=for-the-badge)
 
 ### Web, Coding & Digital Learning
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=git&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll%20%2F%20GitHub%20Pages-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![ICT Training](https://img.shields.io/badge/ICT%20Training-111827?style=for-the-badge)
@@ -240,6 +246,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 ### Robotics, Program Design & Teaching
 
 ![Robotics](https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=robotframework&logoColor=white)
+![micro:bit](https://img.shields.io/badge/micro%3Abit-00ED00?style=for-the-badge)
 ![Curriculum Design](https://img.shields.io/badge/Curriculum%20Design-7C3AED?style=for-the-badge)
 ![STEM Education](https://img.shields.io/badge/STEM%20Education-10B981?style=for-the-badge)
 ![Teacher Training](https://img.shields.io/badge/Teacher%20Training-F59E0B?style=for-the-badge)
@@ -305,11 +312,8 @@ each account's About page) are listed separately at the end.
 | 🎉 Bible Family Feud | Interactive Bible-themed Family Feud game show for church events — 37 rounds, live scoring, no install needed. | [Visit →](https://babatundeawo.github.io/bible-family-feud/) | [Code →](https://github.com/babatundeawo/bible-family-feud) |
 | ⛪ RCCG Training Portal | Interactive, mobile-first discipleship training portal replacing three printed RCCG manuals (Believers', Baptismal, Workers-in-Training) with guided lessons, scripture-reveal quizzes, and progress sync. | [Visit →](https://babatundeawo.github.io/rccg-training-portal/) | [Code →](https://github.com/babatundeawo/rccg-training-portal) |
 | 🔤 Akinyele Spelling Challenge | Fully responsive static microsite documenting the 2026 Akinyele Spelling Challenge — event details, schools, results. | [Visit →](https://babatundeawo.github.io/akinyele-spelling-challenge/) | [Code →](https://github.com/babatundeawo/akinyele-spelling-challenge) |
-| 💰 Millionaire Mindset | Personal-development app on wealth-building habits and mindset shifts — hosted on Replit rather than GitHub Pages. | [Visit →](https://replit.com/@ba-awoyemi/Millionaire-Mindset) | [Code →](https://github.com/babatundeawo/Millionaire-Mindset) |
-| 🧮 Safe Calculator | Lightweight, browser-based calculator tool. Now maintained as a subfolder in the `personal-projects` monorepo. | — (code only) | [Code →](https://github.com/babatundeawo/personal-projects/tree/main/safe-calculator) |
-| 🤖 AI Agent Bootcamp | Coursework and hands-on exercises from an AI agent-building bootcamp. Now maintained as a subfolder in the `personal-projects` monorepo. | — (code only) | [Code →](https://github.com/babatundeawo/personal-projects/tree/main/AI-Agent-Bootcamp) |
-| 👾 Regex Form & Secret Code Playground | Gamified regex-teaching app for kids and students, with a live sandbox and password-strength checker. Now maintained as a subfolder in the `personal-projects` monorepo. | — (code only) | [Code →](https://github.com/babatundeawo/personal-projects/tree/main/smart-form-validator) |
-| 🏫 Student Report Card System | Self-contained, browser-based student information & performance management system for schools. Now maintained as a subfolder in the `personal-projects` monorepo. | — (code only) | [Code →](https://github.com/babatundeawo/personal-projects/tree/main/student-report-card) |
+| 💰 Millionaire Mindset | Personal-development app on wealth-building habits and mindset shifts. | [Visit →](https://babatundeawo.github.io/Millionaire-Mindset/) · [Replit →](https://millionaire-mindset--ba-awoyemi.replit.app/) | [Code →](https://github.com/babatundeawo/Millionaire-Mindset) |
+| 🗂️ Personal Projects (monorepo) | A collection of smaller personal builds and coursework — a calculator, a regex-teaching playground, a student report-card system, and AI agent-building exercises — consolidated into one repository. No live site configured. | — (code only) | [Code →](https://github.com/babatundeawo/personal-projects) |
 | 🏫 Ilado-Sagbo CGS Records Dashboard | Multi-page administrative dashboard preloaded with real school enrollment, results, staff & handover records — built for a local presentation to education officials. | [Visit →](https://babatundeawo.github.io/ilado-school-dashboard/) | [Code →](https://github.com/babatundeawo/ilado-school-dashboard) |
 
 ### 🎓 Techbase Consultant Services — [github.com/techbaseng](https://github.com/techbaseng)
@@ -381,12 +385,14 @@ graph LR
 | Channel | Link |
 | --- | --- |
 | 📧 Email | <babatundeawoyemi91@gmail.com> |
-| 💬 WhatsApp | [+234 812 690 9498](https://wa.me/2348126909498) |
+| 🧑‍💻 GitHub | [babatundeawo](https://github.com/babatundeawo) |
 | 💼 LinkedIn | [ba-awoyemi](https://www.linkedin.com/in/ba-awoyemi/) |
 | 🐦 X | [@ba_awoyemi](https://x.com/ba_awoyemi) |
-| 📺 YouTube | [@techbasengr](https://www.youtube.com/@techbasengr) |
-| 🧩 Scratch | [DeCreed](https://scratch.mit.edu/users/DeCreed/) |
-| 🧑‍💻 GitHub Portfolio | [babatundeawo.github.io](https://babatundeawo.github.io/) |
+| 💬 WhatsApp | [+234 703 212 9074](https://wa.me/2347032129074) |
+| 📘 Facebook | [ba.awoyemi](https://web.facebook.com/ba.awoyemi) |
+| 📸 Instagram | [@ba_awoyemi](https://www.instagram.com/ba_awoyemi/) |
+| 🧵 Threads | [@ba_awoyemi](https://www.threads.net/@ba_awoyemi) |
+| 🌐 GitHub Portfolio | [babatundeawo.github.io](https://babatundeawo.github.io/) |
 
 ---
 
