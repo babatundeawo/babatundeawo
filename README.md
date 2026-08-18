@@ -388,7 +388,7 @@ graph LR
 | 🧑‍💻 GitHub | [babatundeawo](https://github.com/babatundeawo) |
 | 💼 LinkedIn | [ba-awoyemi](https://www.linkedin.com/in/ba-awoyemi/) |
 | 🐦 X | [@ba_awoyemi](https://x.com/ba_awoyemi) |
-| 💬 WhatsApp | [+234 703 212 9074](https://wa.me/2348126909498) |
+| 💬 WhatsApp | [+234 812 690 9498](https://wa.me/2348126909498) |
 | 📘 Facebook | [ba.awoyemi](https://web.facebook.com/ba.awoyemi) |
 | 📸 Instagram | [@ba_awoyemi](https://www.instagram.com/ba_awoyemi/) |
 | 🧵 Threads | [@ba_awoyemi](https://www.threads.net/@ba_awoyemi) |
