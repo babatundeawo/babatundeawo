@@ -6,7 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babatundeawo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ba-awoyemi/)
 [![X / Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ba_awoyemi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348126909498)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ba.awoyemi)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ba_awoyemi/)
 [![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@ba_awoyemi)
@@ -59,8 +58,8 @@ identity:
   - Coding, Robotics and ICT Trainer
   - AI Prompt Engineering and Practical AI Usage Advocate
 current_roles:
-  - Physics Instructor / STEM Educator, Oyo State TESCOM, Anglican Grammar School, Agbirigidi, Akinyele, Ibadan
-  - Lead Consultant, Knowledge Base International Schools, Apapa, Moniya, Ibadan
+  - Physics Instructor / STEM Educator, Oyo State TESCOM, Anglican Grammar School, Oyo State
+  - Lead Consultant, Knowledge Base International Schools, Oyo State
   - Lead Consultant, Techbase Consulting Services
   - Programs Associate, STEM for Development
 academic_path:
@@ -90,7 +89,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 | Stage | Institution | Years / Date | Highlights |
 | --- | --- | --- | --- |
-| **Primary Education** | Ronk New Age Nursery and Primary School, Akobo, Ibadan | 1994–2002 | Built early habits of diligence, sportsmanship and academic curiosity. |
+| **Primary Education** | Ronk New Age Nursery and Primary School, Oyo State | 1994–2002 | Built early habits of diligence, sportsmanship and academic curiosity. |
 | **Secondary Education** | Federal Government College, Ogbomoso | 2002–2008 | Boarding-school formation that built resilience, independence and practical life skills. |
 | **B.Sc. Physics** | University of Ibadan | 2009–2014 | Transformed an earlier dislike for Physics into university-level strength. |
 | **M.Sc. Physics — Atmospheric Physics** | University of Ibadan | Completed March 2019 | Focused on solar irradiance estimation and atmospheric datasets. |
@@ -139,7 +138,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 ### 🏫 Oyo State Post Primary Teaching Service Commission — Physics Instructor / STEM Educator
 
-**January 2025 – Present · Anglican Grammar School, Agbirigidi, Akinyele, Ibadan**
+**January 2025 – Present · Anglican Grammar School, Oyo State**
 
 - Teach **Physics, Mathematics and ICT** at the secondary-school level.
 - Translate scientific concepts into practical explanations, visual demonstrations and learner-centered activities.
@@ -147,7 +146,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 ### 🧭 [Knowledge Base International Schools](https://kbischools.com.ng) — Lead Consultant
 
-**January 2022 – Present · Apapa, Moniya, Ibadan**
+**January 2022 – Present · Oyo State**
 
 - Serve as lead consultant for STEM, ICT, coding and robotics learning pathways.
 - Support school leadership with technology-enabled learning strategy, teacher guidance and student project development.
@@ -190,7 +189,7 @@ core_mission: "Serve society through STEM education, climate research and practi
 **2014–2015 · Akwa Ibom State**
 
 - Awarded a certificate of recognition for exemplary work.
-- Served as **President of a corps fellowship group** in Ikot-Ekpene.
+- Served as **President of a corps fellowship group** during service.
 - Managed housing coordination, interpersonal conflict resolution and service leadership for fellow corps members.
 
 ---
@@ -302,19 +301,20 @@ each account's About page) are listed separately at the end.
 | Project | What it is | Live | Code |
 | --- | --- | --- | --- |
 | 🧑‍💻 Portfolio site | This profile's full portfolio — about, education, research, experience, projects. | [Visit →](https://babatundeawo.github.io/) | [Code →](https://github.com/babatundeawo/babatundeawo.github.io) |
-| 🌍 Global Warming Explorer | 27-page interactive climate-science learning site with a guided course and classroom check-in dashboard. | [Visit →](https://babatundeawo.github.io/globalwarming/) | [Code →](https://github.com/babatundeawo/globalwarming) |
-| 🧠 PromptOS — AI Prompt Library | 217 curated AI prompts across 11 categories, searchable and editable, works offline. | [Visit →](https://babatundeawo.github.io/ai-prompt-library/) | [Code →](https://github.com/babatundeawo/ai-prompt-library) |
+| 🌍 Global Warming Explorer | Multi-page interactive climate-science learning site with a guided course and classroom check-in dashboard. | [Visit →](https://babatundeawo.github.io/globalwarming/) | [Code →](https://github.com/babatundeawo/globalwarming) |
+| 🧠 PromptOS — AI Prompt Library | Curated AI prompts across multiple categories, searchable and editable, works offline. | [Visit →](https://babatundeawo.github.io/ai-prompt-library/) | [Code →](https://github.com/babatundeawo/ai-prompt-library) |
 | 🗂️ Deploybase — AI Deployment Directory | Registry of every deployed Claude Project built and run by Techbase / Babatunde Awoyemi. | [Visit →](https://babatundeawo.github.io/deploybase/) | [Code →](https://github.com/babatundeawo/deploybase) |
 | 🧑‍🏫 Educator AI Toolkit | Free reference site for Nigerian educators — exam/marking-guide and lesson-note AI generators. | [Visit →](https://babatundeawo.github.io/educator-ai-toolkit/) | [Code →](https://github.com/babatundeawo/educator-ai-toolkit) |
-| 📱 AI Studio → Android Deployment Guide | 23-step guide to shipping a Google AI Studio app as an installable Android PWA. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
+| 📱 AI Studio → Android Deployment Guide | Step-by-step guide to shipping a Google AI Studio app as an installable Android PWA. | [Visit →](https://babatundeawo.github.io/ai-studio-android-guide/) | [Code →](https://github.com/babatundeawo/ai-studio-android-guide) |
 | 🧾 Personal AI Career Engine | Free guide to building CV & career documents with NotebookLM and a configured Claude Project. | [Visit →](https://babatundeawo.github.io/career-engine-guide/) | [Code →](https://github.com/babatundeawo/career-engine-guide) |
 | ✝️ Deep Calls | Long-form Christian apologetics essays, served from a custom Python static-site generator. | [Visit →](https://babatundeawo.github.io/deep-calls/) | [Code →](https://github.com/babatundeawo/deep-calls) |
-| 🎉 Bible Family Feud | Interactive Bible-themed Family Feud game show for church events — 37 rounds, live scoring, no install needed. | [Visit →](https://babatundeawo.github.io/bible-family-feud/) | [Code →](https://github.com/babatundeawo/bible-family-feud) |
 | ⛪ RCCG Training Portal | Interactive, mobile-first discipleship training portal replacing three printed RCCG manuals (Believers', Baptismal, Workers-in-Training) with guided lessons, scripture-reveal quizzes, and progress sync. | [Visit →](https://babatundeawo.github.io/rccg-training-portal/) | [Code →](https://github.com/babatundeawo/rccg-training-portal) |
 | 🔤 Akinyele Spelling Challenge | Fully responsive static microsite documenting the 2026 Akinyele Spelling Challenge — event details, schools, results. | [Visit →](https://babatundeawo.github.io/akinyele-spelling-challenge/) | [Code →](https://github.com/babatundeawo/akinyele-spelling-challenge) |
 | 💰 Millionaire Mindset | Personal-development app on wealth-building habits and mindset shifts. | [Visit →](https://babatundeawo.github.io/Millionaire-Mindset/) · [Replit →](https://millionaire-mindset--ba-awoyemi.replit.app/) | [Code →](https://github.com/babatundeawo/Millionaire-Mindset) |
 | 🗂️ Personal Projects (monorepo) | A collection of smaller personal builds and coursework — a calculator, a regex-teaching playground, a student report-card system, and AI agent-building exercises — consolidated into one repository. No live site configured. | — (code only) | [Code →](https://github.com/babatundeawo/personal-projects) |
 | 🏫 Ilado-Sagbo CGS Records Dashboard ⚠️ | Multi-page administrative dashboard preloaded with real school enrollment, results, staff & handover records. Contains real student/staff data — kept private, not linked publicly. | — (private) | [Code →](https://github.com/babatundeawo/ilado-school-dashboard) |
+| ⏱️ Timekeeper | Installable (PWA) clock, countdown, stopwatch, pomodoro and alarms utility. | [Visit →](https://babatundeawo.github.io/timekeeper/) | [Code →](https://github.com/babatundeawo/timekeeper) |
+| 🗓️ Attendance Register ⚠️ | Installable (PWA) attendance register — daily/weekly/term views, student roster, CSV export. Holds real student data — kept private, not linked publicly. | — (private) | [Code →](https://github.com/babatundeawo/attendance) |
 | 🎲 Naija Monopoly | Nigeria-themed Monopoly desktop game, built with Electron and packaged as a Windows installer via GitHub Actions. | — (desktop app, see [Releases](https://github.com/babatundeawo/naija-monopoly/releases)) | [Code →](https://github.com/babatundeawo/naija-monopoly) |
 
 ### 🎓 Techbase Consultant Services — [github.com/techbaseng](https://github.com/techbaseng)
@@ -322,19 +322,27 @@ each account's About page) are listed separately at the end.
 | Repo | What it is | Live | Code |
 | --- | --- | --- | --- |
 | 🎓 Techbase STEM Academy (hub) | Course index & landing page for all six free courses. | [Visit →](https://techbaseng.github.io/) | [Code →](https://github.com/techbaseng/techbaseng.github.io) |
-| 🌐 HTML Fundamentals | Beginner course, 34 lessons. | [Visit →](https://techbaseng.github.io/techbase-html/) | [Code →](https://github.com/techbaseng/techbase-html) |
-| 🎨 CSS Styling | Beginner → Advanced course, 73 lessons. | [Visit →](https://techbaseng.github.io/techbase-css/) | [Code →](https://github.com/techbaseng/techbase-css) |
-| ⚡ JavaScript | Intermediate course, 46 lessons. | [Visit →](https://techbaseng.github.io/techbase-js/) | [Code →](https://github.com/techbaseng/techbase-js) |
-| 🐍 Python Programming | Beginner → Advanced course, 45 lessons. | [Visit →](https://techbaseng.github.io/techbase-python/) | [Code →](https://github.com/techbaseng/techbase-python) |
-| 🟠 Scratch Programming | Beginner course, 35 projects. | [Visit →](https://techbaseng.github.io/techbase-scratch/) | [Code →](https://github.com/techbaseng/techbase-scratch) |
-| 🤖 Robotics & micro:bit | 123 official BBC micro:bit projects, Beginner → Advanced. | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
+| 🌐 HTML Fundamentals | Beginner course. | [Visit →](https://techbaseng.github.io/techbase-html/) | [Code →](https://github.com/techbaseng/techbase-html) |
+| 🎨 CSS Styling | Beginner → Advanced course. | [Visit →](https://techbaseng.github.io/techbase-css/) | [Code →](https://github.com/techbaseng/techbase-css) |
+| ⚡ JavaScript | Intermediate course. | [Visit →](https://techbaseng.github.io/techbase-js/) | [Code →](https://github.com/techbaseng/techbase-js) |
+| 🐍 Python Programming | Beginner → Advanced course. | [Visit →](https://techbaseng.github.io/techbase-python/) | [Code →](https://github.com/techbaseng/techbase-python) |
+| 🟠 Scratch Programming | Beginner course. | [Visit →](https://techbaseng.github.io/techbase-scratch/) | [Code →](https://github.com/techbaseng/techbase-scratch) |
+| 🤖 Robotics & micro:bit | Official BBC micro:bit projects, Beginner → Advanced (Stage 1). | [Visit →](https://techbaseng.github.io/techbase-robotics/) | [Code →](https://github.com/techbaseng/techbase-robotics) |
+| 🔧 Practical Robotics | Hands-on hardware course, Stage 2 — sensors, actuators and advanced modules with the Freenove kit. | [Visit →](https://techbaseng.github.io/techbase-practical-robotics/) | [Code →](https://github.com/techbaseng/techbase-practical-robotics) |
 
 ### 🏫 Knowledge Base International Schools — [github.com/kbischool](https://github.com/kbischool)
 
 | Repo | What it is | Live | Code |
 | --- | --- | --- | --- |
-| 💳 School Fee Payment Portal | Secure, private school-fee lookup portal for parents, by unique family code — no personal data stored client-side. | [Visit →](https://kbischool.github.io/school-fee-portal/) | [Code →](https://github.com/kbischool/school-fee-portal) |
-| 🧾 KBIS Records | Mobile-first, installable student records & billing app — browse enrollment, terms and itemised account breakdowns, built from the school's fee workbooks. | [Visit →](https://kbischool.github.io/kbis-records/) | [Code →](https://github.com/kbischool/kbis-records) |
+| 💳 School Fee Payment Portal ⚠️ | Private school-fee lookup portal for parents, by unique family code. Contains real student/family financial data — kept private, not linked publicly. | — (private) | [Code →](https://github.com/kbischool/school-fee-portal) |
+| 🧾 KBIS Records ⚠️ | Mobile-first, installable student records & billing app — browse enrollment, terms and itemised account breakdowns. Holds real student, staff and account data — kept private, not linked publicly. | — (private) | [Code →](https://github.com/kbischool/kbis-records-v2) |
+
+### ⛪ RCCG Kingdom Diplomats Youth Church — [github.com/rccgkd](https://github.com/rccgkd)
+
+| Repo | What it is | Live | Code |
+| --- | --- | --- | --- |
+| 🧠 Bible Trivia Game | Interactive Bible trivia game for church events, live scoring, no install needed. | [Visit →](https://rccgkd.github.io/bible-trivia-game/) | [Code →](https://github.com/rccgkd/bible-trivia-game) |
+| 🎉 Bible Family Feud | Interactive Bible-themed Family Feud game show for church events — dozens of rounds, live scoring, no install needed. | [Visit →](https://rccgkd.github.io/bible-family-feud/) | [Code →](https://github.com/rccgkd/bible-family-feud) |
 
 ### 📇 Profile repos
 
@@ -389,7 +397,6 @@ graph LR
 | 🧑‍💻 GitHub | [babatundeawo](https://github.com/babatundeawo) |
 | 💼 LinkedIn | [ba-awoyemi](https://www.linkedin.com/in/ba-awoyemi/) |
 | 🐦 X | [@ba_awoyemi](https://x.com/ba_awoyemi) |
-| 💬 WhatsApp | [+234 812 690 9498](https://wa.me/2348126909498) |
 | 📘 Facebook | [ba.awoyemi](https://web.facebook.com/ba.awoyemi) |
 | 📸 Instagram | [@ba_awoyemi](https://www.instagram.com/ba_awoyemi/) |
 | 🧵 Threads | [@ba_awoyemi](https://www.threads.net/@ba_awoyemi) |
