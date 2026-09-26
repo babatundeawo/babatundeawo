@@ -58,7 +58,7 @@ identity:
   - Coding, Robotics and ICT Trainer
   - AI Prompt Engineering and Practical AI Usage Advocate
 current_roles:
-  - Physics Instructor / STEM Educator, Oyo State TESCOM, Anglican Grammar School, Oyo State
+  - Physics Instructor / STEM Educator, Oyo State TESCOM
   - Lead Consultant, Knowledge Base International Schools, Oyo State
   - Lead Consultant, Techbase Consulting Services
   - Programs Associate, STEM for Development
@@ -136,9 +136,17 @@ core_mission: "Serve society through STEM education, climate research and practi
 
 ## 💼 Professional Experience
 
+### 🚀 STEM for Development (SFD) — Programs Associate
+
+**February 2026 – Present · Strategic Programs Unit, Office of Strategic Initiatives (Volunteer)**
+
+- Support strategic programmatic tasks, ensuring clarity, accuracy and alignment with SFD's mission and goals.
+- Contribute reliably to agreed-upon hours and responsibilities across the Strategic Programs Unit.
+- Collaborate professionally across a distributed, international team.
+
 ### 🏫 Oyo State Post Primary Teaching Service Commission — Physics Instructor / STEM Educator
 
-**January 2025 – Present · Anglican Grammar School, Oyo State**
+**January 2025 – Present**
 
 - Teach **Physics, Mathematics and ICT** at the secondary-school level.
 - Translate scientific concepts into practical explanations, visual demonstrations and learner-centered activities.
