@@ -300,7 +300,7 @@ I am open to research support, speaking engagements, STEM partnerships, school p
 
 ## 🗂 Repository Directory
 
-Every public repository across my personal account and the two organisations I build under — grouped by
+Every public repository across my personal account and the three organisations I build under — grouped by
 account so it is clear what lives where. Profile repos (the special `.github` / username repos that render
 each account's About page) are listed separately at the end.
 
@@ -323,6 +323,8 @@ each account's About page) are listed separately at the end.
 | 🏫 Ilado-Sagbo CGS Records Dashboard ⚠️ | Multi-page administrative dashboard preloaded with real school enrollment, results, staff & handover records. Contains real student/staff data — kept private, not linked publicly. | — (private) | [Code →](https://github.com/babatundeawo/ilado-school-dashboard) |
 | ⏱️ Timekeeper | Installable (PWA) clock, countdown, stopwatch, pomodoro and alarms utility. | [Visit →](https://babatundeawo.github.io/timekeeper/) | [Code →](https://github.com/babatundeawo/timekeeper) |
 | 🗓️ Attendance Register ⚠️ | Installable (PWA) attendance register — daily/weekly/term views, student roster, CSV export. Holds real student data — kept private, not linked publicly. | — (private) | [Code →](https://github.com/babatundeawo/attendance) |
+| 📝 Class Scoresheet | Teacher scoresheet — classes, student lists, CA/open-day/exam marks with bonus marks, grades, positions, printable report cards and Excel export. Per-teacher sign-in, works offline. | [Visit →](https://babatundeawo.github.io/scoresheet/) | [Code →](https://github.com/babatundeawo/scoresheet) |
+| 💬 Daily Greetings (WhatsApp) ⚠️ | Installable (PWA) app that serves a daily rotating batch of contacts to greet on WhatsApp, with progress synced via Firebase and a GitHub Action that refreshes the list. Uses a personal contact list — kept private, not linked publicly. | — (private) | [Code →](https://github.com/babatundeawo/wa-greetings) |
 | 🎲 Naija Monopoly | Nigeria-themed Monopoly desktop game, built with Electron and packaged as a Windows installer via GitHub Actions. | — (desktop app, see [Releases](https://github.com/babatundeawo/naija-monopoly/releases)) | [Code →](https://github.com/babatundeawo/naija-monopoly) |
 
 ### 🎓 Techbase Consultant Services — [github.com/techbaseng](https://github.com/techbaseng)
@@ -342,6 +344,7 @@ each account's About page) are listed separately at the end.
 
 | Repo | What it is | Live | Code |
 | --- | --- | --- | --- |
+| 🏫 KBI Schools — Website | Public website for Knowledge Base International Schools — admissions, academics, facilities and news. | [Visit →](https://kbischool.github.io/) | [Code →](https://github.com/kbischool/kbischool.github.io) |
 | 💳 School Fee Payment Portal ⚠️ | Private school-fee lookup portal for parents, by unique family code. Contains real student/family financial data — kept private, not linked publicly. | — (private) | [Code →](https://github.com/kbischool/school-fee-portal) |
 | 🧾 KBIS Records ⚠️ | Mobile-first, installable student records & billing app — browse enrollment, terms and itemised account breakdowns. Holds real student, staff and account data — kept private, not linked publicly. | — (private) | [Code →](https://github.com/kbischool/kbis-records-v2) |
 
