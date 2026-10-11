@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="276" viewBox="0 0 1000 276" role="img" aria-labelledby="t">
+  <title id="t">GitHub activity summary: public repositories, stars, accounts and top languages</title>
+  <style>
+    .num { font: 700 40px Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #0B1426; letter-spacing: -1px; }
+    .lbl { font: 500 14px Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #33445F; }
+    .leg { font: 500 14px Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #0B1426; }
+    .foot { font: 500 12px Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #33445F; }
+    .head { font: 600 12px Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; letter-spacing: 2.5px; fill: #0F766E; }
+  </style>
+  <rect x="0.5" y="0.5" width="999" height="275" rx="16" fill="#F4F8FD" stroke="#0F766E" stroke-opacity="0.35"/>
+  <text x="48" y="44" class="head">GITHUB AT A GLANCE</text>
+  <text x="48" y="92" class="num">—</text>
+  <text x="48" y="118" class="lbl">Public repositories</text>
+  <text x="280" y="92" class="num">—</text>
+  <text x="280" y="118" class="lbl">Stars earned</text>
+  <text x="512" y="92" class="num">4</text>
+  <text x="512" y="118" class="lbl">Accounts</text>
+  <text x="744" y="92" class="num">—</text>
+  <text x="744" y="118" class="lbl">Languages</text>
+  <rect x="48" y="150" width="904" height="10" rx="5" fill="#D5E2F2"/>
+  <rect x="48" y="150" width="904" height="10" rx="5" fill="#D5E2F2"/>
+  
+  <text x="48" y="262" class="foot">Refreshed automatically from public repositories.</text>
+</svg>

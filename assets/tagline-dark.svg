@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="56" viewBox="0 0 1280 56" role="img" aria-label="Turning satellite data into solar energy insight; Teaching Physics, Mathematics, ICT, Python, Scratch and Robotics; Building STEM systems for African learners and climate resilience; Creating interactive Scratch projects and future-ready learning pathways">
+  <title>Turning satellite data into solar energy insight · Teaching Physics, Mathematics, ICT, Python, Scratch and Robotics · Building STEM systems for African learners and climate resilience · Creating interactive Scratch projects and future-ready learning pathways</title>
+  <style>
+    .line { font: 600 22px Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #7DD3FC; }
+    @media (prefers-reduced-motion: no-preference) {
+      .l0 { animation: show 16s linear infinite; animation-delay: 0.0s; }
+      .l1 { animation: show 16s linear infinite; animation-delay: 4.0s; }
+      .l2 { animation: show 16s linear infinite; animation-delay: 8.0s; }
+      .l3 { animation: show 16s linear infinite; animation-delay: 12.0s; }
+      @keyframes show { 0% { opacity: 0; } 4% { opacity: 1; } 22% { opacity: 1; } 26% { opacity: 0; } 100% { opacity: 0; } }
+    }
+  </style>
+  <text x="640" y="36" text-anchor="middle" class="line l0" opacity="1">Turning satellite data into solar energy insight</text>
+  <text x="640" y="36" text-anchor="middle" class="line l1" opacity="0">Teaching Physics, Mathematics, ICT, Python, Scratch and Robotics</text>
+  <text x="640" y="36" text-anchor="middle" class="line l2" opacity="0">Building STEM systems for African learners and climate resilience</text>
+  <text x="640" y="36" text-anchor="middle" class="line l3" opacity="0">Creating interactive Scratch projects and future-ready learning pathways</text>
+</svg>
