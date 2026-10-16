@@ -9,16 +9,16 @@
   </style>
   <rect x="0.5" y="0.5" width="999" height="275" rx="16" fill="#0A1630" stroke="#2DD4BF" stroke-opacity="0.35"/>
   <text x="48" y="44" class="head">GITHUB AT A GLANCE</text>
-  <text x="48" y="92" class="num">30</text>
+  <text x="48" y="92" class="num">29</text>
   <text x="48" y="118" class="lbl">Public repositories</text>
-  <text x="280" y="92" class="num">1</text>
+  <text x="280" y="92" class="num">0</text>
   <text x="280" y="118" class="lbl">Stars earned</text>
   <text x="512" y="92" class="num">4</text>
   <text x="512" y="118" class="lbl">Accounts</text>
   <text x="744" y="92" class="num">4</text>
   <text x="744" y="118" class="lbl">Languages</text>
   <rect x="48" y="150" width="904" height="10" rx="5" fill="#16284A"/>
-  <rect x="48.0" y="150" width="449.0" height="10" rx="5" fill="#E34F26"/><rect x="500.0" y="150" width="336.0" height="10" rx="5" fill="#F1C40F"/><rect x="839.0" y="150" width="72.3" height="10" rx="5" fill="#3776AB"/><rect x="914.3" y="150" width="34.7" height="10" rx="5" fill="#3178C6"/>
-  <circle cx="53" cy="187" r="5" fill="#E34F26"/><text x="66" y="192" class="leg">HTML · 12</text><circle cx="353" cy="187" r="5" fill="#F1C40F"/><text x="366" y="192" class="leg">JavaScript · 9</text><circle cx="653" cy="187" r="5" fill="#3776AB"/><text x="666" y="192" class="leg">Python · 2</text><circle cx="53" cy="211" r="5" fill="#3178C6"/><text x="66" y="216" class="leg">TypeScript · 1</text>
-  <text x="48" y="262" class="foot">Public repositories across 4 accounts · refreshed 12 Oct 2026</text>
+  <rect x="48.0" y="150" width="429.3" height="10" rx="5" fill="#E34F26"/><rect x="480.3" y="150" width="350.7" height="10" rx="5" fill="#F1C40F"/><rect x="834.1" y="150" width="75.6" height="10" rx="5" fill="#3776AB"/><rect x="912.7" y="150" width="36.3" height="10" rx="5" fill="#3178C6"/>
+  <circle cx="53" cy="187" r="5" fill="#E34F26"/><text x="66" y="192" class="leg">HTML · 11</text><circle cx="353" cy="187" r="5" fill="#F1C40F"/><text x="366" y="192" class="leg">JavaScript · 9</text><circle cx="653" cy="187" r="5" fill="#3776AB"/><text x="666" y="192" class="leg">Python · 2</text><circle cx="53" cy="211" r="5" fill="#3178C6"/><text x="66" y="216" class="leg">TypeScript · 1</text>
+  <text x="48" y="262" class="foot">Public repositories across 4 accounts · refreshed 16 Oct 2026</text>
 </svg>
