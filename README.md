@@ -24,9 +24,9 @@ Based in Nigeria · Focus on climate science and STEM education · Open to resea
 
 ## About
 
-**Babatunde Ayoola Awoyemi** is a Nigerian atmospheric physicist, STEM educator, EdTech consultant, coding and robotics trainer, and climate-energy researcher.
+**Babatunde Ayoola Awoyemi** is a Nigerian atmospheric physicist, STEM educator, EdTech consultant, coding and robotics trainer, and climate-energy researcher, based in Oyo State.
 
-He works between two worlds: atmospheric physics and climate research on one side, STEM education and technology training on the other. He turns satellite datasets and scientific method into research insight, and into clear, hands-on learning systems for schools and learners.
+His research turns satellite datasets into solar-energy and wind-energy insight for tropical regions. His teaching and consulting turn the same scientific method into clear, hands-on learning for schools and learners. Alongside both, he builds the software that schools and communities use day to day: learning sites, attendance and records systems, fee portals, and event games. Each project below links to its live site and its source code.
 
 > Serve society through STEM education, climate research and practical technology empowerment.
 
@@ -275,7 +275,7 @@ Open to research support, speaking engagements, STEM partnerships, school progra
 
 ## Projects
 
-Public repositories across my personal account and the three organisations I build under, grouped by account. The full portfolio lives at [babatundeawo.github.io](https://babatundeawo.github.io/).
+Projects across my personal account and the three organisations I build under, grouped by account. Every project links to its live site and its source code. School and records tools open to a sign-in screen, and only approved users can go past it. The full portfolio lives at [babatundeawo.github.io](https://babatundeawo.github.io/).
 
 ### Personal — [babatundeawo](https://github.com/babatundeawo)
 
@@ -292,29 +292,27 @@ Public repositories across my personal account and the three organisations I bui
 | **RCCG Training Portal** | Interactive, mobile-first discipleship training portal replacing three printed RCCG manuals (Believers', Baptismal, Workers-in-Training) with guided lessons, scripture-reveal quizzes and progress sync. | [Live](https://babatundeawo.github.io/rccg-training-portal/) · [Code](https://github.com/babatundeawo/rccg-training-portal) |
 | **Akinyele Spelling Challenge** | Fully responsive static microsite documenting the 2026 Akinyele Spelling Challenge: event details, schools and results. | [Live](https://babatundeawo.github.io/akinyele-spelling-challenge/) · [Code](https://github.com/babatundeawo/akinyele-spelling-challenge) |
 | **Millionaire Mindset** | Personal-development app on wealth-building habits and mindset shifts. | [Live](https://babatundeawo.github.io/Millionaire-Mindset/) · [Replit](https://millionaire-mindset--ba-awoyemi.replit.app/) · [Code](https://github.com/babatundeawo/Millionaire-Mindset) |
-| **Personal Projects (monorepo)** | Smaller personal builds and coursework in one repository: a calculator, a regex-teaching playground, a student report-card system and AI agent-building exercises. No live site. | [Code](https://github.com/babatundeawo/personal-projects) |
+| **Personal Projects (monorepo)** | Smaller personal builds and coursework in one repository: a calculator, a regex-teaching playground, a student report-card system and AI agent-building exercises. | [Live](https://babatundeawo.github.io/personal-projects/) · [Code](https://github.com/babatundeawo/personal-projects) |
 | **Timekeeper** | Installable (PWA) clock, countdown, stopwatch, pomodoro and alarms utility. | [Live](https://babatundeawo.github.io/timekeeper/) · [Code](https://github.com/babatundeawo/timekeeper) |
+| **ISCGS Register** | Register of students, staff and records for Ilado-Sagbo Community Grammar School: student registry, staff directory, term records, school profile and inventory. Sign-in limited to approved staff. | [Live](https://babatundeawo.github.io/ilado-school-dashboard/) · [Code](https://github.com/babatundeawo/ilado-school-dashboard) |
+| **Attendance Register** | Daily AM/PM attendance register for teachers with weekly and term reports, student records, a holiday calendar and CSV export. Works offline; sign-in limited to approved staff. | [Live](https://babatundeawo.github.io/attendance/) · [Code](https://github.com/babatundeawo/attendance) |
 | **Class Scoresheet** | Teacher scoresheet with classes, student lists, CA / open-day / exam marks with bonus marks, grades, positions, printable report cards and Excel export. Per-teacher sign-in, works offline. | [Live](https://babatundeawo.github.io/scoresheet/) · [Code](https://github.com/babatundeawo/scoresheet) |
-| **Naija Monopoly** | Nigeria-themed Monopoly desktop game, built with Electron and packaged as a Windows installer via GitHub Actions. | [Releases](https://github.com/babatundeawo/naija-monopoly/releases) · [Code](https://github.com/babatundeawo/naija-monopoly) |
+| **Daily Greetings** | Themed, prayerful WhatsApp greetings with a Nigerian touch, ready to send in one tap. Installable, with a sign-in and a private contact database. | [Live](https://babatundeawo.github.io/wa-greetings/) · [Code](https://github.com/babatundeawo/wa-greetings) |
+| **Naija Monopoly** | Nigeria-themed Monopoly desktop game, built with Electron and packaged as a Windows installer via GitHub Actions. | [Live](https://babatundeawo.github.io/naija-monopoly/) · [Releases](https://github.com/babatundeawo/naija-monopoly/releases) · [Code](https://github.com/babatundeawo/naija-monopoly) |
 
 ### Techbase Consultant Services — [techbaseng](https://github.com/techbaseng)
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **Techbase STEM Academy (hub)** | Course index and landing page for all six free courses. | [Live](https://techbaseng.github.io/) · [Code](https://github.com/techbaseng/techbaseng.github.io) |
-| **HTML Fundamentals** | Beginner course. | [Live](https://techbaseng.github.io/techbase-html/) · [Code](https://github.com/techbaseng/techbase-html) |
-| **CSS Styling** | Beginner to advanced course. | [Live](https://techbaseng.github.io/techbase-css/) · [Code](https://github.com/techbaseng/techbase-css) |
-| **JavaScript** | Intermediate course. | [Live](https://techbaseng.github.io/techbase-js/) · [Code](https://github.com/techbaseng/techbase-js) |
-| **Python Programming** | Beginner to advanced course. | [Live](https://techbaseng.github.io/techbase-python/) · [Code](https://github.com/techbaseng/techbase-python) |
-| **Scratch Programming** | Beginner course. | [Live](https://techbaseng.github.io/techbase-scratch/) · [Code](https://github.com/techbaseng/techbase-scratch) |
-| **Robotics and micro:bit** | Official BBC micro:bit projects, beginner to advanced (Stage 1). | [Live](https://techbaseng.github.io/techbase-robotics/) · [Code](https://github.com/techbaseng/techbase-robotics) |
-| **Practical Robotics** | Hands-on hardware course, Stage 2: sensors, actuators and advanced modules with the Freenove kit. | [Live](https://techbaseng.github.io/techbase-practical-robotics/) · [Code](https://github.com/techbaseng/techbase-practical-robotics) |
+| **Techbase STEM Academy** | Landing page for Techbase STEM Academy, the STEM education arm of Techbase Consultant Services. | [Live](https://techbaseng.github.io/) · [Code](https://github.com/techbaseng/techbaseng.github.io) |
 
 ### Knowledge Base International Schools — [kbischool](https://github.com/kbischool)
 
 | Project | What it is | Links |
 | --- | --- | --- |
 | **KBI Schools website** | Public website for Knowledge Base International Schools: admissions, academics, facilities and news. | [Live](https://kbischool.github.io/) · [Code](https://github.com/kbischool/kbischool.github.io) |
+| **School Fee Payment Portal** | The fee and school-information portal of Knowledge Base International Schools. Parents see fees and payments, staff see who has paid, and the owner sees school-wide financial health. Sign-in required. | [Live](https://school-fee-portal-4f0e6.web.app/) · [Code](https://github.com/kbischool/school-fee-portal) |
+| **KBIS Records** | Staff-only student records and fee accounts: student search, itemised fee accounts per term, fee structures and stock. Works offline and installs to the home screen. | [Live](https://kbischool.github.io/kbis-records-app/) · [Code](https://github.com/kbischool/kbis-records-app) |
 
 ### RCCG Kingdom Diplomats Youth Church — [rccgkd](https://github.com/rccgkd)
 
@@ -323,7 +321,7 @@ Public repositories across my personal account and the three organisations I bui
 | **Bible Trivia Game** | Interactive Bible trivia game for church events, live scoring, no install needed. | [Live](https://rccgkd.github.io/bible-trivia-game/) · [Code](https://github.com/rccgkd/bible-trivia-game) |
 | **Bible Family Feud** | Interactive Bible-themed Family Feud game show for church events: dozens of rounds, live scoring, no install needed. | [Live](https://rccgkd.github.io/bible-family-feud/) · [Code](https://github.com/rccgkd/bible-family-feud) |
 
-Each account's own About page is rendered from its profile repository: [babatundeawo/babatundeawo](https://github.com/babatundeawo/babatundeawo), [techbaseng/.github](https://github.com/techbaseng/.github) and [kbischool/.github](https://github.com/kbischool/.github).
+Each account's own About page is rendered from its profile repository: [babatundeawo/babatundeawo](https://github.com/babatundeawo/babatundeawo), [techbaseng/.github](https://github.com/techbaseng/.github), [kbischool/.github](https://github.com/kbischool/.github) and [rccgkd/.github](https://github.com/rccgkd/.github).
 
 ---
 
