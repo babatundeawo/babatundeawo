@@ -66,4 +66,4 @@ These need no setup beyond clicking **Enable**. Never paste passwords, tokens or
 
 ## About the stat card
 
-The card counts public repositories, stars and primary languages across `babatundeawo`, `techbaseng`, `kbischool` and `rccgkd`, skipping forks and archived repositories. Private repositories are never read or shown. To change which accounts are counted, edit the `ACCOUNTS` list near the top of `.github/scripts/generate_stats.py`.
+The card counts public repositories, stars and primary languages across `babatundeawo`, `techbaseng`, `kbischool`, `rccgkd`, `termbook` and `agrictool`, skipping forks and archived repositories. Private repositories are never read or shown. To change which accounts are counted, edit the `ACCOUNTS` list near the top of `.github/scripts/generate_stats.py`.

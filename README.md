@@ -275,7 +275,7 @@ Open to research support, speaking engagements, STEM partnerships, school progra
 
 ## Projects
 
-Projects across my personal account and the three organisations I build under, grouped by account. Every project links to its live site and its source code. School and records tools open to a sign-in screen, and only approved users can go past it. The full portfolio lives at [babatundeawo.github.io](https://babatundeawo.github.io/).
+Projects across my personal account and the organisations I build under, grouped by account. Every project links to its live site and its source code. School and records tools open to a sign-in screen, and only approved users can go past it. The full portfolio lives at [babatundeawo.github.io](https://babatundeawo.github.io/).
 
 ### Personal — [babatundeawo](https://github.com/babatundeawo)
 
@@ -296,9 +296,10 @@ Projects across my personal account and the three organisations I build under, g
 | **Timekeeper** | Installable (PWA) clock, countdown, stopwatch, pomodoro and alarms utility. | [Live](https://babatundeawo.github.io/timekeeper/) · [Code](https://github.com/babatundeawo/timekeeper) |
 | **ISCGS Register** | Register of students, staff and records for Ilado-Sagbo Community Grammar School: student registry, staff directory, term records, school profile and inventory. Sign-in limited to approved staff. | [Live](https://babatundeawo.github.io/ilado-school-dashboard/) · [Code](https://github.com/babatundeawo/ilado-school-dashboard) |
 | **Attendance Register** | Daily AM/PM attendance register for teachers with weekly and term reports, student records, a holiday calendar and CSV export. Works offline; sign-in limited to approved staff. | [Live](https://babatundeawo.github.io/attendance/) · [Code](https://github.com/babatundeawo/attendance) |
-| **Class Scoresheet** | Teacher scoresheet with classes, student lists, CA / open-day / exam marks with bonus marks, grades, positions, printable report cards and Excel export. Per-teacher sign-in, works offline. | [Live](https://babatundeawo.github.io/scoresheet/) · [Code](https://github.com/babatundeawo/scoresheet) |
 | **Daily Greetings** | Themed, prayerful WhatsApp greetings with a Nigerian touch, ready to send in one tap. Installable, with a sign-in and a private contact database. | [Live](https://babatundeawo.github.io/wa-greetings/) · [Code](https://github.com/babatundeawo/wa-greetings) |
 | **Naija Monopoly** | Nigeria-themed Monopoly desktop game, built with Electron and packaged as a Windows installer via GitHub Actions. | [Live](https://babatundeawo.github.io/naija-monopoly/) · [Releases](https://github.com/babatundeawo/naija-monopoly/releases) · [Code](https://github.com/babatundeawo/naija-monopoly) |
+| **Quizmaster** | Browser-based quiz app. *(Short description to be added.)* | [Live](https://babatundeawo.github.io/quizmaster/) · [Code](https://github.com/babatundeawo/quizmaster) |
+| **Family Roots** | Family-tree and family-records app hosted on Firebase. *(Short description to be added.)* | [Live](https://family-roots-3c16d.web.app/) · [Code](https://github.com/babatundeawo/family-roots) |
 
 ### Techbase Consultant Services — [techbaseng](https://github.com/techbaseng)
 
@@ -320,6 +321,18 @@ Projects across my personal account and the three organisations I build under, g
 | --- | --- | --- |
 | **Bible Trivia Game** | Interactive Bible trivia game for church events, live scoring, no install needed. | [Live](https://rccgkd.github.io/bible-trivia-game/) · [Code](https://github.com/rccgkd/bible-trivia-game) |
 | **Bible Family Feud** | Interactive Bible-themed Family Feud game show for church events: dozens of rounds, live scoring, no install needed. | [Live](https://rccgkd.github.io/bible-family-feud/) · [Code](https://github.com/rccgkd/bible-family-feud) |
+
+### Termbook — [termbook](https://github.com/termbook)
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| **Termbook** | The Termbook site. *(Short description to be added.)* | [Live](https://termbook.github.io/) · [Code](https://github.com/termbook/termbook.github.io) |
+
+### Agrictool — [agrictool](https://github.com/agrictool)
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| **Agrictool** | The Agrictool site. *(Short description to be added.)* | [Live](https://agrictool.github.io/) · [Code](https://github.com/agrictool/agrictool.github.io) |
 
 Each account's own About page is rendered from its profile repository: [babatundeawo/babatundeawo](https://github.com/babatundeawo/babatundeawo), [techbaseng/.github](https://github.com/techbaseng/.github), [kbischool/.github](https://github.com/kbischool/.github) and [rccgkd/.github](https://github.com/rccgkd/.github).
 

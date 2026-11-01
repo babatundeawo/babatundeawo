@@ -21,6 +21,8 @@ ACCOUNTS = [
     ("orgs", "techbaseng"),
     ("orgs", "kbischool"),
     ("orgs", "rccgkd"),
+    ("orgs", "termbook"),
+    ("orgs", "agrictool"),
 ]
 OUT_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "assets")
 FONT = "Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
@@ -95,7 +97,7 @@ def card(theme, data, updated):
     else:
         bar.append(f'<rect x="48" y="150" width="904" height="10" rx="5" fill="{t["track"]}"/>')
     foot = ("Refreshed automatically from public repositories." if data is None
-            else f"Public repositories across 4 accounts · refreshed {updated}")
+            else f"Public repositories across {len(ACCOUNTS)} accounts · refreshed {updated}")
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="276" viewBox="0 0 1000 276" role="img" aria-labelledby="t">
   <title id="t">GitHub activity summary: public repositories, stars, accounts and top languages</title>
   <style>
