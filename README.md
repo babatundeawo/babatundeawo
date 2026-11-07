@@ -275,66 +275,68 @@ Open to research support, speaking engagements, STEM partnerships, school progra
 
 ## Projects
 
-Projects across my personal account and the organisations I build under, grouped by account. Every project links to its live site and its source code. School and records tools open to a sign-in screen, and only approved users can go past it. The full portfolio lives at [babatundeawo.github.io](https://babatundeawo.github.io/).
+29 projects across six GitHub accounts, ranked by my own judgement of how substantial each one is. Scope and engineering come first: real accounts and databases, access rules, offline support and the size of the codebase. Small starters come last. Apps marked "Open app" ask for a sign-in, and only approved users can go past it. The full portfolio, with search and filters, lives at [babatundeawo.github.io/projects.html](https://babatundeawo.github.io/projects.html).
 
-### Personal — [babatundeawo](https://github.com/babatundeawo)
+Accounts: [babatundeawo](https://github.com/babatundeawo) (personal) · [kbischool](https://github.com/kbischool) · [techbaseng](https://github.com/techbaseng) · [rccgkd](https://github.com/rccgkd) · [termbook](https://github.com/termbook) · [agrictool](https://github.com/agrictool)
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **Portfolio site** | This profile's full portfolio: about, education, research, experience and projects. | [Live](https://babatundeawo.github.io/) · [Code](https://github.com/babatundeawo/babatundeawo.github.io) |
-| **Global Warming Explorer** | Multi-page interactive climate-science learning site with a guided course and classroom check-in dashboard. | [Live](https://babatundeawo.github.io/globalwarming/) · [Code](https://github.com/babatundeawo/globalwarming) |
-| **PromptOS — AI Prompt Library** | Curated AI prompts across multiple categories, searchable and editable, works offline. | [Live](https://babatundeawo.github.io/ai-prompt-library/) · [Code](https://github.com/babatundeawo/ai-prompt-library) |
-| **Deploybase — AI Deployment Directory** | Registry of every deployed Claude Project built and run by Techbase / Babatunde Awoyemi. | [Live](https://babatundeawo.github.io/deploybase/) · [Code](https://github.com/babatundeawo/deploybase) |
-| **Educator AI Toolkit** | Free reference site for Nigerian educators with exam, marking-guide and lesson-note AI generators. | [Live](https://babatundeawo.github.io/educator-ai-toolkit/) · [Code](https://github.com/babatundeawo/educator-ai-toolkit) |
-| **AI Studio → Android Deployment Guide** | Step-by-step guide to shipping a Google AI Studio app as an installable Android PWA. | [Live](https://babatundeawo.github.io/ai-studio-android-guide/) · [Code](https://github.com/babatundeawo/ai-studio-android-guide) |
-| **Personal AI Career Engine** | Free guide to building CV and career documents with NotebookLM and a configured Claude Project. | [Live](https://babatundeawo.github.io/career-engine-guide/) · [Code](https://github.com/babatundeawo/career-engine-guide) |
-| **Deep Calls** | Long-form Christian apologetics essays, served from a custom Python static-site generator. | [Live](https://babatundeawo.github.io/deep-calls/) · [Code](https://github.com/babatundeawo/deep-calls) |
-| **RCCG Training Portal** | Interactive, mobile-first discipleship training portal replacing three printed RCCG manuals (Believers', Baptismal, Workers-in-Training) with guided lessons, scripture-reveal quizzes and progress sync. | [Live](https://babatundeawo.github.io/rccg-training-portal/) · [Code](https://github.com/babatundeawo/rccg-training-portal) |
-| **Akinyele Spelling Challenge** | Fully responsive static microsite documenting the 2026 Akinyele Spelling Challenge: event details, schools and results. | [Live](https://babatundeawo.github.io/akinyele-spelling-challenge/) · [Code](https://github.com/babatundeawo/akinyele-spelling-challenge) |
-| **Millionaire Mindset** | Personal-development app on wealth-building habits and mindset shifts. | [Live](https://babatundeawo.github.io/Millionaire-Mindset/) · [Replit](https://millionaire-mindset--ba-awoyemi.replit.app/) · [Code](https://github.com/babatundeawo/Millionaire-Mindset) |
-| **Personal Projects (monorepo)** | Smaller personal builds and coursework in one repository: a calculator, a regex-teaching playground, a student report-card system and AI agent-building exercises. | [Live](https://babatundeawo.github.io/personal-projects/) · [Code](https://github.com/babatundeawo/personal-projects) |
-| **Timekeeper** | Installable (PWA) clock, countdown, stopwatch, pomodoro and alarms utility. | [Live](https://babatundeawo.github.io/timekeeper/) · [Code](https://github.com/babatundeawo/timekeeper) |
-| **ISCGS Register** | Register of students, staff and records for Ilado-Sagbo Community Grammar School: student registry, staff directory, term records, school profile and inventory. Sign-in limited to approved staff. | [Live](https://babatundeawo.github.io/ilado-school-dashboard/) · [Code](https://github.com/babatundeawo/ilado-school-dashboard) |
-| **Attendance Register** | Daily AM/PM attendance register for teachers with weekly and term reports, student records, a holiday calendar and CSV export. Works offline; sign-in limited to approved staff. | [Live](https://babatundeawo.github.io/attendance/) · [Code](https://github.com/babatundeawo/attendance) |
-| **Daily Greetings** | Themed, prayerful WhatsApp greetings with a Nigerian touch, ready to send in one tap. Installable, with a sign-in and a private contact database. | [Live](https://babatundeawo.github.io/wa-greetings/) · [Code](https://github.com/babatundeawo/wa-greetings) |
-| **Naija Monopoly** | Nigeria-themed Monopoly desktop game, built with Electron and packaged as a Windows installer via GitHub Actions. | [Live](https://babatundeawo.github.io/naija-monopoly/) · [Releases](https://github.com/babatundeawo/naija-monopoly/releases) · [Code](https://github.com/babatundeawo/naija-monopoly) |
-| **Quizmaster** | Browser-based quiz app. *(Short description to be added.)* | [Live](https://babatundeawo.github.io/quizmaster/) · [Code](https://github.com/babatundeawo/quizmaster) |
-| **Family Roots** | Family-tree and family-records app hosted on Firebase. *(Short description to be added.)* | [Live](https://family-roots-3c16d.web.app/) · [Code](https://github.com/babatundeawo/family-roots) |
+### Flagship platforms
 
-### Techbase Consultant Services — [techbaseng](https://github.com/techbaseng)
+Full systems with accounts, databases and access rules, or large codebases with real users in mind.
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **Techbase STEM Academy** | Landing page for Techbase STEM Academy, the STEM education arm of Techbase Consultant Services. | [Live](https://techbaseng.github.io/) · [Code](https://github.com/techbaseng/techbaseng.github.io) |
+| # | Project | Account | What it does | Links |
+| --- | --- | --- | --- | --- |
+| 1 | **School Fee Payment Portal** | Knowledge Base Schools | Fee and school-information portal for Knowledge Base International Schools. Parents see itemised fees and payments, staff see who has paid, and the owner sees the whole school's finances and runs data imports. Real accounts on Firebase. | [Open app](https://school-fee-portal-4f0e6.web.app/) · [Code](https://github.com/kbischool/school-fee-portal) |
+| 2 | **Techbase STEM Academy** | Techbase | The Techbase Consultant Services website plus a free academy of 472 lessons across eight courses, built from source files by a Python pipeline. | [Live](https://techbaseng.github.io/) · [Code](https://github.com/techbaseng/techbaseng.github.io) |
+| 3 | **Termbook** | Termbook | Free daily AM/PM attendance registers, per-subject score sheets and term report cards for Nigerian secondary schools. Admins, teachers and parents each see only what their role allows. Installs on a phone and works offline. | [Live](https://termbook.github.io/) · [Code](https://github.com/termbook/termbook.github.io) |
+| 4 | **RAISSAT Digital Food Systems Platform** | Agrictool | Web platform for the RAISSAT digital food systems community project at FUTA, Akure: participant registration, pre and post assessments, certificates, a searchable toolkit directory and an administrator dashboard. | [Live](https://agrictool.github.io/) · [Code](https://github.com/agrictool/agrictool.github.io) |
+| 5 | **Naija Monopoly** | Personal | A Nigeria-themed Monopoly with the full official rules. Play it in the browser, or install the Windows desktop version built with Electron. | [Live](https://babatundeawo.github.io/naija-monopoly/) · [Code](https://github.com/babatundeawo/naija-monopoly) |
+| 6 | **Millionaire Mindset** | Personal | A free quiz game in the browser: climb a 15-step prize ladder, use three lifelines, and choose between risking it and walking away. | [Live](https://babatundeawo.github.io/Millionaire-Mindset/) · [Code](https://github.com/babatundeawo/Millionaire-Mindset) |
+| 7 | **ISCGS Register** | Personal | Register of students, staff and records for Ilado-Sagbo Community Grammar School: student roll, staff directory, attendance and assessment coverage, school profile and inventory. Only staff approved by an administrator can sign in. | [Open app](https://babatundeawo.github.io/ilado-school-dashboard/) · [Code](https://github.com/babatundeawo/ilado-school-dashboard) |
+| 8 | **RCCG Training Portal** | Personal | Mobile-first study portal that replaces three printed RCCG manuals (Believers', Baptismal and Workers-in-Training) with guided lessons, scripture that opens in place, class tests, notes, bookmarks and optional synced progress. | [Live](https://babatundeawo.github.io/rccg-training-portal/) · [Code](https://github.com/babatundeawo/rccg-training-portal) |
 
-### Knowledge Base International Schools — [kbischool](https://github.com/kbischool)
+### Complete products
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **KBI Schools website** | Public website for Knowledge Base International Schools: admissions, academics, facilities and news. | [Live](https://kbischool.github.io/) · [Code](https://github.com/kbischool/kbischool.github.io) |
-| **School Fee Payment Portal** | The fee and school-information portal of Knowledge Base International Schools. Parents see fees and payments, staff see who has paid, and the owner sees school-wide financial health. Sign-in required. | [Live](https://school-fee-portal-4f0e6.web.app/) · [Code](https://github.com/kbischool/school-fee-portal) |
-| **KBIS Records** | Staff-only student records and fee accounts: student search, itemised fee accounts per term, fee structures and stock. Works offline and installs to the home screen. | [Live](https://kbischool.github.io/kbis-records-app/) · [Code](https://github.com/kbischool/kbis-records-app) |
+Finished apps and sites with their own features, data and offline support.
 
-### RCCG Kingdom Diplomats Youth Church — [rccgkd](https://github.com/rccgkd)
+| # | Project | Account | What it does | Links |
+| --- | --- | --- | --- | --- |
+| 9 | **Class Scoresheet** | Personal | Scoresheet for teachers: create classes, load student lists, enter CA, open-day and exam marks, apply bonus marks, and get grades, positions and term-by-term report cards. Prints reports to PDF and exports to Excel in the paper-sheet layout. Each teacher sees only their own classes; works offline. | [Open app](https://babatundeawo.github.io/scoresheet/) · [Code](https://github.com/babatundeawo/scoresheet) |
+| 10 | **QuizMaster** | Personal | A quiz game with 400 questions, difficulty levels, a countdown timer and an online leaderboard. Players can also write their own questions. | [Live](https://babatundeawo.github.io/quizmaster/) · [Code](https://github.com/babatundeawo/quizmaster) |
+| 11 | **Global Warming Explorer** | Personal | Interactive climate-science course with a footprint calculator, charts, quizzes, certificates and a classroom check-in dashboard. Written from a background in atmospheric physics. | [Live](https://babatundeawo.github.io/globalwarming/) · [Code](https://github.com/babatundeawo/globalwarming) |
+| 12 | **Kingdom Quiz (Bible Trivia)** | RCCG Kingdom Diplomats | Host-led Bible trivia for church game nights. One person hosts on the big screen, up to four players take turns, and the audience joins from their phones with a four-letter code. | [Live](https://rccgkd.github.io/bible-trivia-game/) · [Code](https://github.com/rccgkd/bible-trivia-game) |
+| 13 | **Attendance Register** | Personal | Daily AM/PM attendance register for teachers, with weekly and term reports, student records, a holiday calendar and CSV export. Shared through Firebase and usable offline. | [Open app](https://babatundeawo.github.io/attendance/) · [Code](https://github.com/babatundeawo/attendance) |
+| 14 | **Deploybase** | Personal | A directory of configured Claude Projects, each with its working page and the exact instructions behind it. | [Live](https://babatundeawo.github.io/deploybase/) · [Code](https://github.com/babatundeawo/deploybase) |
+| 15 | **Bible Family Feud** | RCCG Kingdom Diplomats | Family Feud-style Bible quiz for church events. Two teams guess the most popular answers while a host flips tiles and calls strikes from one screen. No install, no account, no server. | [Live](https://rccgkd.github.io/bible-family-feud/) · [Code](https://github.com/rccgkd/bible-family-feud) |
+| 16 | **Daily Greetings** | Personal | Writes warm, prayerful WhatsApp greetings that fit the day and time, different for every contact. Review one, tap once, and WhatsApp opens ready to send. Keeps track of who you have greeted. | [Open app](https://babatundeawo.github.io/wa-greetings/) · [Code](https://github.com/babatundeawo/wa-greetings) |
+| 17 | **PromptOS** | Personal | Over 200 working AI prompts for image generation, careers, social media, presentations and business. Fill in the blanks, copy, and go. Searchable, editable, and works offline. | [Live](https://babatundeawo.github.io/ai-prompt-library/) · [Code](https://github.com/babatundeawo/ai-prompt-library) |
+| 18 | **Deep Calls** | Personal | Long-form Christian apologetics essays for people who ask hard questions, built from Markdown by a custom Python static-site generator. | [Live](https://babatundeawo.github.io/deep-calls/) · [Code](https://github.com/babatundeawo/deep-calls) |
+| 19 | **Family Roots** | Personal | A private family tree with a story for each person, a timeline, search, and invite links that give relatives an editor or viewer role. Prints as an outline and backs up to a file. | [Open app](https://family-roots-3c16d.web.app/) · [Code](https://github.com/babatundeawo/family-roots) |
+| 20 | **KBIS Records** | Knowledge Base Schools | Staff-only student records and fee accounts for KBIS Schools: student search, itemised fee accounts per term, fee structures and stock. Works offline and installs to the home screen. | [Open app](https://kbischool.github.io/kbis-records-app/) · [Code](https://github.com/kbischool/kbis-records-app) |
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **Bible Trivia Game** | Interactive Bible trivia game for church events, live scoring, no install needed. | [Live](https://rccgkd.github.io/bible-trivia-game/) · [Code](https://github.com/rccgkd/bible-trivia-game) |
-| **Bible Family Feud** | Interactive Bible-themed Family Feud game show for church events: dozens of rounds, live scoring, no install needed. | [Live](https://rccgkd.github.io/bible-family-feud/) · [Code](https://github.com/rccgkd/bible-family-feud) |
+### Guides, sites and tools
 
-### Termbook — [termbook](https://github.com/termbook)
+Focused sites, guides and utilities, each doing one job well.
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **Termbook** | The Termbook site. *(Short description to be added.)* | [Live](https://termbook.github.io/) · [Code](https://github.com/termbook/termbook.github.io) |
+| # | Project | Account | What it does | Links |
+| --- | --- | --- | --- | --- |
+| 21 | **Educator AI Toolkit** | Personal | Guide for Nigerian teachers to set up one Claude Project that writes weekly lesson notes and exams with marking guides, plus 117 Scheme of Work files for JSS1 to SS3. | [Live](https://babatundeawo.github.io/educator-ai-toolkit/) · [Code](https://github.com/babatundeawo/educator-ai-toolkit) |
+| 22 | **Akinyele Spelling Challenge** | Personal | Official site for the 2026 Akinyele Spelling Challenge in Ibadan: results, format, a large word bank, a practice trainer with a Spelling Bee game, and an event gallery. | [Live](https://babatundeawo.github.io/akinyele-spelling-challenge/) · [Code](https://github.com/babatundeawo/akinyele-spelling-challenge) |
+| 23 | **Timekeeper** | Personal | Clock, countdown, stopwatch, focus timer and alarms in one quiet interface. Runs in the browser, stores nothing on a server, and works offline once installed. | [Live](https://babatundeawo.github.io/timekeeper/) · [Code](https://github.com/babatundeawo/timekeeper) |
+| 24 | **Personal AI Career Engine** | Personal | Free four-phase guide to building a personal AI career engine with NotebookLM and a Claude Project, then generating CVs, cover letters and bios from your real history. | [Live](https://babatundeawo.github.io/career-engine-guide/) · [Code](https://github.com/babatundeawo/career-engine-guide) |
+| 25 | **AI Studio to Android Guide** | Personal | Multi-page guide from Google AI Studio to GitHub to Vercel to an installable Android app, with troubleshooting, a glossary and a free-tier reference table. | [Live](https://babatundeawo.github.io/ai-studio-android-guide/) · [Code](https://github.com/babatundeawo/ai-studio-android-guide) |
+| 26 | **Knowledge Base International Schools** | Knowledge Base Schools | Public website of Knowledge Base International Schools, Moniya, Ibadan: admissions, academics, facilities, ICT, alumni and news. | [Live](https://kbischool.github.io/) · [Code](https://github.com/kbischool/kbischool.github.io) |
+| 27 | **Personal Projects** | Personal | A build log of small web and Python projects, with a searchable front page that links to each one. | [Live](https://babatundeawo.github.io/personal-projects/) · [Code](https://github.com/babatundeawo/personal-projects) |
 
-### Agrictool — [agrictool](https://github.com/agrictool)
+### Class exercises
 
-| Project | What it is | Links |
-| --- | --- | --- |
-| **Agrictool** | The Agrictool site. *(Short description to be added.)* | [Live](https://agrictool.github.io/) · [Code](https://github.com/agrictool/agrictool.github.io) |
+Small starter projects from teaching sessions. Code only, no live site.
 
-Each account's own About page is rendered from its profile repository: [babatundeawo/babatundeawo](https://github.com/babatundeawo/babatundeawo), [techbaseng/.github](https://github.com/techbaseng/.github), [kbischool/.github](https://github.com/kbischool/.github) and [rccgkd/.github](https://github.com/rccgkd/.github).
+| # | Project | Account | What it does | Links |
+| --- | --- | --- | --- | --- |
+| 28 | **QuizMaster (David's copy)** | Personal | Three-screen starter quiz (home, question, result) from a Techbase class session. | [Code](https://github.com/babatundeawo/quizmaster-David) |
+| 29 | **QuizMaster (Ire's copy)** | Personal | Three-screen starter quiz (home, question, result) from a Techbase class session. | [Code](https://github.com/babatundeawo/quizmaster-Ire) |
+
+The source of this portfolio is [babatundeawo/babatundeawo.github.io](https://github.com/babatundeawo/babatundeawo.github.io).
 
 ---
 
