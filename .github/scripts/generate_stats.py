@@ -20,7 +20,6 @@ ACCOUNTS = [
     ("users", "babatundeawo"),
     ("orgs", "techbaseng"),
     ("orgs", "kbischool"),
-    ("orgs", "rccgkd"),
     ("orgs", "termbook"),
     ("orgs", "agrictool"),
 ]
