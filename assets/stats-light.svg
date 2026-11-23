@@ -15,10 +15,10 @@
   <text x="280" y="118" class="lbl">Stars earned</text>
   <text x="512" y="92" class="num">5</text>
   <text x="512" y="118" class="lbl">Accounts</text>
-  <text x="744" y="92" class="num">5</text>
+  <text x="744" y="92" class="num">4</text>
   <text x="744" y="118" class="lbl">Languages</text>
   <rect x="48" y="150" width="904" height="10" rx="5" fill="#D5E2F2"/>
-  <rect x="48.0" y="150" width="373.7" height="10" rx="5" fill="#F1C40F"/><rect x="424.7" y="150" width="373.7" height="10" rx="5" fill="#E34F26"/><rect x="801.3" y="150" width="72.3" height="10" rx="5" fill="#3776AB"/><rect x="876.7" y="150" width="34.7" height="10" rx="5" fill="#2965F1"/><rect x="914.3" y="150" width="34.7" height="10" rx="5" fill="#3178C6"/>
-  <circle cx="53" cy="187" r="5" fill="#F1C40F"/><text x="66" y="192" class="leg">JavaScript · 10</text><circle cx="353" cy="187" r="5" fill="#E34F26"/><text x="366" y="192" class="leg">HTML · 10</text><circle cx="653" cy="187" r="5" fill="#3776AB"/><text x="666" y="192" class="leg">Python · 2</text><circle cx="53" cy="211" r="5" fill="#2965F1"/><text x="66" y="216" class="leg">CSS · 1</text><circle cx="353" cy="211" r="5" fill="#3178C6"/><text x="366" y="216" class="leg">TypeScript · 1</text>
-  <text x="48" y="262" class="foot">Public repositories across 5 accounts · refreshed 16 Nov 2026</text>
+  <rect x="48.0" y="150" width="486.7" height="10" rx="5" fill="#F1C40F"/><rect x="537.7" y="150" width="298.3" height="10" rx="5" fill="#E34F26"/><rect x="839.0" y="150" width="72.3" height="10" rx="5" fill="#3776AB"/><rect x="914.3" y="150" width="34.7" height="10" rx="5" fill="#3178C6"/>
+  <circle cx="53" cy="187" r="5" fill="#F1C40F"/><text x="66" y="192" class="leg">JavaScript · 13</text><circle cx="353" cy="187" r="5" fill="#E34F26"/><text x="366" y="192" class="leg">HTML · 8</text><circle cx="653" cy="187" r="5" fill="#3776AB"/><text x="666" y="192" class="leg">Python · 2</text><circle cx="53" cy="211" r="5" fill="#3178C6"/><text x="66" y="216" class="leg">TypeScript · 1</text>
+  <text x="48" y="262" class="foot">Public repositories across 5 accounts · refreshed 23 Nov 2026</text>
 </svg>
